@@ -91,3 +91,17 @@ df长这样
         df.set_index('Date', inplace=True)
         scaler = MinMaxScaler(feature_range=(-1, 1))
         mtr = scaler.fit_transform(df.values)
+
+# 关于strategy
+在machinelearning_trading 中写一个策略
+like
+https://www.myquant.cn/docs/python_strategyies/112
+1. 若没有仓位则在每个星期一的时候输入标的股票近15个交易日的特征变量进行预测,并在预测结果为上涨的时候购买标的.
+2. 若已经持有仓位则在盈利大于10%的时候止盈,在星期五损失大于2%的时候止损.
+3. 特征变量为:1.收盘价/均值2.现量/均量3.最高价/均价4.最低价/均价5.现量6.区间收益率7.区间标准差
+然后在jpyter notebook那个文件中调用这个策略，
+我不是有三个模型吗，调用我写的这个策略做图；现在是不用全部都改，只改一个就好了
+所以实际上只改两个代码文件：一个策略以及在一个模型上的应用
+输入：股票数据（字符串代码），starttime，endtime，选择的模型（String），策略(String)，账户初始金（int)
+输出：预测图片，收益率图片，收益率，基准收益率，账户价值，日志信息
+那个调用接口
