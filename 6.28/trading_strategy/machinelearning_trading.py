@@ -320,6 +320,7 @@ def buy_and_sell_in_5_days(whole_predict, logpath, balance=100000, fees=0.0003):
     return yield_curve,balance,year_rate * 100,benchmark_yield * 100
 
 def buy_and_sell_with_ma(whole_predict, logpath, balance=100000, fees=0, short_window=5, long_window=20):
+    
     yield_curve = pd.DataFrame(index=whole_predict.index, columns=['balance', 'return', 'benchmark'])
     origin_balance = balance
     origin_price = whole_predict['act_close'].iloc[0]
@@ -333,12 +334,32 @@ def buy_and_sell_with_ma(whole_predict, logpath, balance=100000, fees=0, short_w
             # 計算短期和長期移動平均線
             #short_ma = np.mean(prices[max(0, i - short_window + 1):i + 1])
             #long_ma = np.mean(prices[max(0, i - long_window + 1):i + 1])
+            #short_ma = prices[max(0, i - short_window + 1):i + 1].mean()
+            #print(i)
+            #start_index = max(0, i - short_window + 1)
+            start_index = max(pd.Timestamp('1970-01-01'), i - pd.Timedelta(days=short_window - 1))
+            #print(start_index)
+            #print(whole_predict['Date'] >= start_index)
+            #end_index = i + 1
+            end_index = i + pd.Timedelta(days=1)
+            #print(end_index)
+            #print(prices)
+            mask = (whole_predict['Date'] >= start_index) & (whole_predict['Date'] <= end_index)
+            subset = whole_predict.loc[mask]
+            short_ma = subset['act_close'].mean()
+            #print(short_ma)
+            #short_ma = prices[start_index:end_index].mean()
+            start_index_2 = max(pd.Timestamp('1970-01-01'), i - pd.Timedelta(days=long_window - 1))
+            end_index_2 = i + pd.Timedelta(days=1)
+            mask_2 = (whole_predict['Date'] >= start_index_2) & (whole_predict['Date'] <= end_index_2)
+            subset_2 = whole_predict.loc[mask_2]
+            long_ma = subset_2['act_close'].mean()
             #short_ma = np.mean(prices[max(0, i - pd.Timedelta(days=short_window - 1)):i + 1])
             #long_ma = np.mean(prices[max(0, i - pd.Timedelta(days=long_window - 1)):i + 1])
             #short_ma = np.mean(prices[max(0, i - pd.Timedelta(days=short_window - 1)):i + 1].values)
             #long_ma = np.mean(prices[max(0, i - pd.Timedelta(days=long_window - 1)):i + 1].values)
-            short_ma = prices[max(0, i - pd.Timedelta(days=short_window - 1)):i + 1].mean()
-            long_ma = prices[max(0, i - pd.Timedelta(days=long_window - 1)):i + 1].mean()
+            #short_ma = prices[max(0, i - pd.Timedelta(days=short_window - 1)):i + 1].mean()
+            #long_ma = prices[max(0, i - pd.Timedelta(days=long_window - 1)):i + 1].mean()
             if short_ma > long_ma:
                 # 開盤價買入
                 buy_num = balance // row['open']
