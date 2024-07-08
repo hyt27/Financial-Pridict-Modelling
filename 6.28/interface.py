@@ -6,8 +6,8 @@ import matplotlib.dates as mdates
 from models.linear_regression import linearregression_train
 import tushare as ts
 from trading_strategy.machinelearning_trading import buy_and_sell_in_one_day
-from trading_strategy.machinelearning_trading import buy_and_sell_in_5_days
 from trading_strategy.machinelearning_trading import buy_and_select_when_sell
+from trading_strategy.machinelearning_trading import buy_and_sell_with_ma
 from trading_strategy.technical_trading import double_moving_ave
 from trading_strategy.technical_trading import single_moving_ave
 from trading_strategy.technical_trading import Bollinger_Bands
@@ -84,7 +84,7 @@ def meachinlearning(task_id = '1',stock_id = '000001.SZ',start = '2001-1-1',end 
     elif strategy == 'buy_and_sell_in_one_day':
         yield_curve,final_balance,yield_rate,benchmark_yield = buy_and_sell_in_one_day(whole_predict,log_path,balance=balance)
 
-    elif strategy == 'buy_and_sell_in_5_days':
+    elif strategy == 'buy_and_sell_with_ma':
         yield_curve,final_balance,yield_rate,benchmark_yield = buy_and_sell_in_5_days(whole_predict,log_path,balance=balance)
 
     # plt.ioff()
