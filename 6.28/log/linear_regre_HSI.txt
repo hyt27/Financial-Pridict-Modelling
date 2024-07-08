@@ -1,0 +1,1897 @@
+DATE:2020-06-04 BUY 4 at 24643.84  SELL at 24366.3  predicted close price=24339.6  todayield:-1110.16  balance:98889.84
+DATE:2020-06-05 BUY 4 at 24388.18  SELL at 24770.41  predicted close price=24385.02  todayield:1528.92  balance:100418.77
+DATE:2020-06-08 BUY 4 at 25018.05  SELL at 24776.77  predicted close price=24772.64  todayield:-965.12  balance:99453.64
+DATE:2020-06-09 BUY 3 at 24906.01  SELL at 25057.22  predicted close price=24796.75  todayield:453.63  balance:99907.27
+DATE:2020-06-10 BUY 3 at 25179.03  SELL at 25049.73  predicted close price=25067.25  todayield:-387.9  balance:99519.38
+DATE:2020-06-11 BUY 3 at 24997.84  SELL at 24480.15  predicted close price=25064.87  todayield:-1553.07  balance:97966.31
+DATE:2020-06-12 BUY 4 at 23920.7  SELL at 24301.38  predicted close price=24512.98  todayield:1522.73  balance:99489.04
+DATE:2020-06-16 BUY 4 at 24318.15  SELL at 24344.09  predicted close price=23804.62  todayield:103.76  balance:99592.79
+DATE:2020-06-17 BUY 4 at 24363.39  SELL at 24481.41  predicted close price=24350.02  todayield:472.08  balance:100064.87
+DATE:2020-06-19 BUY 4 at 24373.36  SELL at 24643.89  predicted close price=24465.28  todayield:1082.12  balance:101147.0
+DATE:2020-06-22 BUY 4 at 24528.53  SELL at 24511.34  predicted close price=24652.54  todayield:-68.76  balance:101078.24
+DATE:2020-06-23 BUY 4 at 24541.44  SELL at 24907.34  predicted close price=24515.34  todayield:1463.6  balance:102541.84
+DATE:2020-06-26 BUY 4 at 24697.98  SELL at 24549.99  predicted close price=24793.21  todayield:-591.96  balance:101949.88
+DATE:2020-06-29 BUY 4 at 24627.64  SELL at 24301.28  predicted close price=24558.44  todayield:-1305.45  balance:100644.43
+DATE:2020-06-30 BUY 4 at 24468.24  SELL at 24427.19  predicted close price=24321.89  todayield:-164.2  balance:100480.23
+DATE:2020-07-02 BUY 4 at 24563.57  SELL at 25124.19  predicted close price=24437.53  todayield:2242.48  balance:102722.71
+DATE:2020-07-03 BUY 4 at 25319.28  SELL at 25373.12  predicted close price=25125.7  todayield:215.36  balance:102938.07
+DATE:2020-07-06 BUY 4 at 25545.54  SELL at 26339.16  predicted close price=25383.19  todayield:3174.48  balance:106112.55
+DATE:2020-07-07 BUY 3 at 26571.08  SELL at 25975.66  predicted close price=26367.78  todayield:-1786.26  balance:104326.29
+DATE:2020-07-08 BUY 4 at 26078.61  SELL at 26129.18  predicted close price=26045.24  todayield:202.28  balance:104528.57
+DATE:2020-07-09 BUY 3 at 26351.13  SELL at 26210.16  predicted close price=26144.07  todayield:-422.91  balance:104105.66
+DATE:2020-07-10 BUY 4 at 25931.78  SELL at 25727.41  predicted close price=26227.43  todayield:-817.48  balance:103288.18
+DATE:2020-07-13 BUY 3 at 25848.8  SELL at 25772.12  predicted close price=25749.76  todayield:-230.04  balance:103058.14
+DATE:2020-07-14 BUY 4 at 25663.16  SELL at 25477.89  predicted close price=25789.53  todayield:-741.08  balance:102317.06
+DATE:2020-07-15 BUY 3 at 25888.78  SELL at 25481.58  predicted close price=25493.84  todayield:-1221.6  balance:101095.46
+DATE:2020-07-16 BUY 3 at 25549.4  SELL at 24970.69  predicted close price=25504.19  todayield:-1736.13  balance:99359.33
+DATE:2020-07-17 BUY 3 at 25142.06  SELL at 25089.17  predicted close price=25005.92  todayield:-158.67  balance:99200.66
+DATE:2020-07-20 BUY 3 at 25019.6  SELL at 25057.99  predicted close price=25091.01  todayield:115.17  balance:99315.83
+DATE:2020-07-21 BUY 3 at 25427.06  SELL at 25635.66  predicted close price=25060.79  todayield:625.8  balance:99941.63
+DATE:2020-07-23 BUY 3 at 25235.9  SELL at 25263.0  predicted close price=25102.25  todayield:81.3  balance:100022.93
+DATE:2020-07-24 BUY 3 at 25040.76  SELL at 24705.33  predicted close price=25267.31  todayield:-1006.29  balance:99016.64
+DATE:2020-07-27 BUY 3 at 24909.96  SELL at 24603.26  predicted close price=24745.77  todayield:-920.1  balance:98096.54
+DATE:2020-07-28 BUY 3 at 24942.74  SELL at 24772.76  predicted close price=24619.32  todayield:-509.94  balance:97586.59
+DATE:2020-07-29 BUY 3 at 24710.51  SELL at 24883.14  predicted close price=24777.28  todayield:517.89  balance:98104.49
+DATE:2020-07-31 BUY 3 at 24747.29  SELL at 24595.35  predicted close price=24733.37  todayield:-455.82  balance:97648.67
+DATE:2020-08-03 BUY 3 at 24566.81  SELL at 24458.13  predicted close price=24611.45  todayield:-326.04  balance:97322.63
+DATE:2020-08-04 BUY 3 at 24664.6  SELL at 24946.63  predicted close price=24471.98  todayield:846.09  balance:98168.72
+DATE:2020-08-07 BUY 3 at 24909.37  SELL at 24531.62  predicted close price=24942.79  todayield:-1133.25  balance:97035.47
+DATE:2020-08-10 BUY 3 at 24376.82  SELL at 24377.43  predicted close price=24549.94  todayield:1.83  balance:97037.3
+DATE:2020-08-14 BUY 3 at 25072.45  SELL at 25183.01  predicted close price=25245.28  todayield:331.68  balance:97368.98
+DATE:2020-08-18 BUY 3 at 25470.97  SELL at 25367.38  predicted close price=25354.94  todayield:-310.77  balance:97058.21
+DATE:2020-08-19 BUY 3 at 25359.03  SELL at 25178.91  predicted close price=25370.13  todayield:-540.36  balance:96517.86
+DATE:2020-08-20 BUY 3 at 25055.35  SELL at 24791.39  predicted close price=25180.62  todayield:-791.88  balance:95725.98
+DATE:2020-08-21 BUY 3 at 25007.13  SELL at 25113.84  predicted close price=24810.19  todayield:320.13  balance:96046.11
+DATE:2020-08-26 BUY 3 at 25520.41  SELL at 25491.79  predicted close price=25486.7  todayield:-85.86  balance:95960.24
+DATE:2020-08-28 BUY 3 at 25330.77  SELL at 25422.06  predicted close price=25291.06  todayield:273.87  balance:96234.12
+DATE:2020-08-31 BUY 3 at 25732.49  SELL at 25177.05  predicted close price=25434.8  todayield:-1666.32  balance:94567.8
+DATE:2020-09-01 BUY 3 at 25085.67  SELL at 25184.85  predicted close price=25232.65  todayield:297.54  balance:94865.34
+DATE:2020-09-02 BUY 3 at 25239.86  SELL at 25120.09  predicted close price=25184.99  todayield:-359.31  balance:94506.03
+DATE:2020-09-03 BUY 3 at 25026.99  SELL at 25007.6  predicted close price=25136.08  todayield:-58.17  balance:94447.86
+DATE:2020-09-04 BUY 3 at 24668.8  SELL at 24695.45  predicted close price=25019.21  todayield:79.95  balance:94527.8
+DATE:2020-09-07 BUY 3 at 24621.02  SELL at 24589.65  predicted close price=24724.7  todayield:-94.11  balance:94433.69
+DATE:2020-09-08 BUY 3 at 24785.26  SELL at 24624.34  predicted close price=24600.87  todayield:-482.76  balance:93950.93
+DATE:2020-09-09 BUY 3 at 24295.42  SELL at 24468.93  predicted close price=24638.73  todayield:520.53  balance:94471.46
+DATE:2020-09-11 BUY 3 at 24352.63  SELL at 24503.31  predicted close price=24325.52  todayield:452.04  balance:94923.5
+DATE:2020-09-16 BUY 3 at 24823.96  SELL at 24725.63  predicted close price=24734.7  todayield:-294.99  balance:94628.51
+DATE:2020-09-17 BUY 3 at 24676.41  SELL at 24340.85  predicted close price=24726.09  todayield:-1006.68  balance:93621.83
+DATE:2020-09-18 BUY 3 at 24381.13  SELL at 24455.41  predicted close price=24360.2  todayield:222.84  balance:93844.67
+DATE:2020-09-21 BUY 3 at 24483.91  SELL at 23950.69  predicted close price=24465.6  todayield:-1599.66  balance:92245.01
+DATE:2020-09-22 BUY 3 at 23839.67  SELL at 23716.85  predicted close price=23981.53  todayield:-368.46  balance:91876.54
+DATE:2020-09-23 BUY 3 at 23701.12  SELL at 23742.51  predicted close price=23726.39  todayield:124.17  balance:92000.72
+DATE:2020-09-24 BUY 3 at 23537.83  SELL at 23311.07  predicted close price=23744.88  todayield:-680.28  balance:91320.44
+DATE:2020-09-25 BUY 3 at 23425.75  SELL at 23235.42  predicted close price=23331.49  todayield:-570.99  balance:90749.45
+DATE:2020-09-28 BUY 3 at 23284.09  SELL at 23476.05  predicted close price=23252.66  todayield:575.88  balance:91325.33
+DATE:2020-09-30 BUY 3 at 23548.89  SELL at 23459.05  predicted close price=23293.7  todayield:-269.52  balance:91055.81
+DATE:2020-10-05 BUY 3 at 24039.39  SELL at 23767.78  predicted close price=23470.43  todayield:-814.83  balance:90240.98
+DATE:2020-10-06 BUY 3 at 23895.21  SELL at 23980.65  predicted close price=23780.59  todayield:256.32  balance:90497.29
+DATE:2020-10-12 BUY 3 at 24217.25  SELL at 24649.68  predicted close price=24128.09  todayield:1297.29  balance:91794.58
+DATE:2020-10-14 BUY 3 at 24808.85  SELL at 24667.09  predicted close price=24652.25  todayield:-425.28  balance:91369.3
+DATE:2020-10-15 BUY 3 at 24533.75  SELL at 24158.54  predicted close price=24688.21  todayield:-1125.63  balance:90243.67
+DATE:2020-10-16 BUY 3 at 24194.41  SELL at 24386.79  predicted close price=24188.14  todayield:577.14  balance:90820.81
+DATE:2020-10-19 BUY 3 at 24565.43  SELL at 24542.26  predicted close price=24401.06  todayield:-69.51  balance:90751.3
+DATE:2020-10-20 BUY 3 at 24571.64  SELL at 24569.54  predicted close price=24580.14  todayield:-6.3  balance:90744.99
+DATE:2020-10-21 BUY 3 at 24695.54  SELL at 24754.42  predicted close price=24574.6  todayield:176.64  balance:90921.64
+DATE:2020-10-22 BUY 3 at 24696.31  SELL at 24786.13  predicted close price=24762.1  todayield:269.46  balance:91191.1
+DATE:2020-10-23 BUY 3 at 24773.12  SELL at 24918.78  predicted close price=24797.36  todayield:436.98  balance:91628.08
+DATE:2020-10-27 BUY 3 at 24839.97  SELL at 24787.19  predicted close price=24927.32  todayield:-158.34  balance:91469.73
+DATE:2020-10-28 BUY 3 at 24773.54  SELL at 24708.8  predicted close price=24802.62  todayield:-194.21  balance:91275.52
+DATE:2020-10-29 BUY 3 at 24290.01  SELL at 24586.6  predicted close price=24720.06  todayield:889.77  balance:92165.29
+DATE:2020-10-30 BUY 3 at 24535.9  SELL at 24107.42  predicted close price=24586.62  todayield:-1285.44  balance:90879.85
+DATE:2020-11-02 BUY 3 at 24274.83  SELL at 24460.01  predicted close price=24146.62  todayield:555.54  balance:91435.39
+DATE:2020-11-03 BUY 3 at 24689.56  SELL at 24939.73  predicted close price=24467.63  todayield:750.51  balance:92185.9
+DATE:2020-11-04 BUY 3 at 24790.0  SELL at 24886.14  predicted close price=24945.66  todayield:288.42  balance:92474.32
+DATE:2020-11-05 BUY 3 at 25500.91  SELL at 25695.92  predicted close price=24899.93  todayield:585.03  balance:93059.35
+DATE:2020-11-06 BUY 3 at 25750.78  SELL at 25712.97  predicted close price=25703.53  todayield:-113.43  balance:92945.92
+DATE:2020-11-09 BUY 3 at 26157.77  SELL at 26016.17  predicted close price=25725.46  todayield:-424.8  balance:92521.12
+DATE:2020-11-10 BUY 3 at 26474.04  SELL at 26301.48  predicted close price=26032.67  todayield:-517.68  balance:92003.45
+DATE:2020-11-11 BUY 3 at 26226.8  SELL at 26226.98  predicted close price=26340.28  todayield:0.54  balance:92003.99
+DATE:2020-11-12 BUY 3 at 26409.34  SELL at 26169.38  predicted close price=26268.29  todayield:-719.88  balance:91284.11
+DATE:2020-11-13 BUY 3 at 26114.6  SELL at 26156.86  predicted close price=26196.59  todayield:126.78  balance:91410.89
+DATE:2020-11-16 BUY 3 at 26362.07  SELL at 26381.67  predicted close price=26164.75  todayield:58.8  balance:91469.69
+DATE:2020-11-17 BUY 3 at 26515.09  SELL at 26415.09  predicted close price=26385.09  todayield:-300.0  balance:91169.69
+DATE:2020-11-18 BUY 3 at 26434.24  SELL at 26544.29  predicted close price=26429.34  todayield:330.15  balance:91499.83
+DATE:2020-11-19 BUY 3 at 26460.61  SELL at 26356.97  predicted close price=26550.24  todayield:-310.92  balance:91188.92
+DATE:2020-11-20 BUY 3 at 26406.87  SELL at 26451.54  predicted close price=26371.51  todayield:134.01  balance:91322.93
+DATE:2020-11-23 BUY 3 at 26659.79  SELL at 26486.2  predicted close price=26458.4  todayield:-520.77  balance:90802.16
+DATE:2020-11-24 BUY 3 at 26630.34  SELL at 26588.2  predicted close price=26501.11  todayield:-126.42  balance:90675.74
+DATE:2020-11-25 BUY 3 at 26819.96  SELL at 26669.75  predicted close price=26592.38  todayield:-450.63  balance:90225.1
+DATE:2020-11-26 BUY 3 at 26695.25  SELL at 26819.45  predicted close price=26699.23  todayield:372.6  balance:90597.7
+DATE:2020-11-30 BUY 3 at 26853.39  SELL at 26341.49  predicted close price=26907.32  todayield:-1535.7  balance:89062.0
+DATE:2020-12-01 BUY 3 at 26422.71  SELL at 26567.68  predicted close price=26430.91  todayield:434.91  balance:89496.91
+DATE:2020-12-02 BUY 3 at 26670.12  SELL at 26532.58  predicted close price=26592.73  todayield:-412.62  balance:89084.29
+DATE:2020-12-03 BUY 3 at 26623.42  SELL at 26728.5  predicted close price=26567.52  todayield:315.24  balance:89399.53
+DATE:2020-12-04 BUY 3 at 26811.59  SELL at 26835.92  predicted close price=26741.9  todayield:72.99  balance:89472.52
+DATE:2020-12-07 BUY 3 at 26870.58  SELL at 26506.85  predicted close price=26854.93  todayield:-1091.19  balance:88381.33
+DATE:2020-12-08 BUY 3 at 26460.35  SELL at 26304.56  predicted close price=26539.42  todayield:-467.37  balance:87913.96
+DATE:2020-12-09 BUY 3 at 26510.42  SELL at 26502.84  predicted close price=26323.9  todayield:-22.74  balance:87891.22
+DATE:2020-12-10 BUY 3 at 26335.26  SELL at 26410.59  predicted close price=26518.59  todayield:225.99  balance:88117.21
+DATE:2020-12-11 BUY 3 at 26634.21  SELL at 26505.87  predicted close price=26412.05  todayield:-385.03  balance:87732.19
+DATE:2020-12-14 BUY 3 at 26522.1  SELL at 26389.52  predicted close price=26524.64  todayield:-397.74  balance:87334.45
+DATE:2020-12-15 BUY 3 at 26418.93  SELL at 26207.29  predicted close price=26402.93  todayield:-634.92  balance:86699.52
+DATE:2020-12-16 BUY 3 at 26421.21  SELL at 26460.29  predicted close price=26230.64  todayield:117.23  balance:86816.76
+DATE:2020-12-17 BUY 3 at 26608.44  SELL at 26678.38  predicted close price=26463.78  todayield:209.82  balance:87026.58
+DATE:2020-12-18 BUY 3 at 26650.49  SELL at 26498.6  predicted close price=26681.85  todayield:-455.67  balance:86570.91
+DATE:2020-12-21 BUY 3 at 26422.62  SELL at 26306.68  predicted close price=26525.51  todayield:-347.82  balance:86223.09
+DATE:2020-12-22 BUY 3 at 26260.78  SELL at 26119.25  predicted close price=26318.68  todayield:-424.59  balance:85798.5
+DATE:2020-12-23 BUY 3 at 26083.11  SELL at 26343.1  predicted close price=26128.8  todayield:779.97  balance:86578.47
+DATE:2020-12-29 BUY 3 at 26490.45  SELL at 26568.49  predicted close price=26333.07  todayield:234.12  balance:86812.6
+DATE:2020-12-30 BUY 3 at 26695.11  SELL at 27147.11  predicted close price=26574.92  todayield:1356.0  balance:88168.6
+DATE:2021-01-04 BUY 3 at 27087.13  SELL at 27472.81  predicted close price=27235.56  todayield:1157.04  balance:89325.64
+DATE:2021-01-05 BUY 3 at 27281.34  SELL at 27649.86  predicted close price=27477.37  todayield:1105.56  balance:90431.2
+DATE:2021-01-06 BUY 3 at 27613.34  SELL at 27692.3  predicted close price=27660.46  todayield:236.88  balance:90668.08
+DATE:2021-01-07 BUY 3 at 27715.94  SELL at 27548.52  predicted close price=27707.86  todayield:-502.26  balance:90165.82
+DATE:2021-01-08 BUY 3 at 27630.03  SELL at 27878.22  predicted close price=27585.57  todayield:744.57  balance:90910.39
+DATE:2021-01-11 BUY 3 at 28003.98  SELL at 27908.22  predicted close price=27928.07  todayield:-287.28  balance:90623.11
+DATE:2021-01-12 BUY 3 at 27894.29  SELL at 28276.75  predicted close price=27953.76  todayield:1147.38  balance:91770.5
+DATE:2021-01-13 BUY 3 at 28309.32  SELL at 28235.6  predicted close price=28286.46  todayield:-221.16  balance:91549.33
+DATE:2021-01-14 BUY 3 at 28408.12  SELL at 28496.86  predicted close price=28265.24  todayield:266.22  balance:91815.55
+DATE:2021-01-15 BUY 3 at 28394.37  SELL at 28573.86  predicted close price=28511.56  todayield:538.47  balance:92354.03
+DATE:2021-01-18 BUY 3 at 28454.59  SELL at 28862.77  predicted close price=28607.84  todayield:1224.54  balance:93578.56
+DATE:2021-01-19 BUY 3 at 29100.17  SELL at 29642.28  predicted close price=28864.26  todayield:1626.33  balance:95204.89
+DATE:2021-01-20 BUY 3 at 29794.41  SELL at 29962.47  predicted close price=29669.47  todayield:504.18  balance:95709.07
+DATE:2021-01-21 BUY 3 at 29951.78  SELL at 29927.76  predicted close price=29983.89  todayield:-72.06  balance:95637.02
+DATE:2021-01-22 BUY 3 at 29809.23  SELL at 29447.85  predicted close price=29945.12  todayield:-1084.14  balance:94552.87
+DATE:2021-01-25 BUY 3 at 29677.3  SELL at 30159.01  predicted close price=29486.18  todayield:1445.13  balance:95998.0
+DATE:2021-01-27 BUY 3 at 29556.58  SELL at 29297.53  predicted close price=29459.09  todayield:-777.15  balance:95220.85
+DATE:2021-01-28 BUY 3 at 28914.85  SELL at 28550.77  predicted close price=29337.75  todayield:-1092.24  balance:94128.61
+DATE:2021-01-29 BUY 3 at 28826.18  SELL at 28283.71  predicted close price=28591.41  todayield:-1627.41  balance:92501.2
+DATE:2021-02-01 BUY 3 at 28457.85  SELL at 28892.86  predicted close price=28333.59  todayield:1305.03  balance:93806.23
+DATE:2021-02-03 BUY 3 at 29305.41  SELL at 29307.46  predicted close price=29267.95  todayield:6.15  balance:93812.38
+DATE:2021-02-04 BUY 3 at 29093.54  SELL at 29113.5  predicted close price=29313.67  todayield:59.88  balance:93872.27
+DATE:2021-02-05 BUY 3 at 29305.09  SELL at 29288.68  predicted close price=29133.64  todayield:-49.23  balance:93823.04
+DATE:2021-02-08 BUY 3 at 29629.08  SELL at 29319.47  predicted close price=29302.47  todayield:-928.83  balance:92894.21
+DATE:2021-02-09 BUY 3 at 29442.5  SELL at 29476.19  predicted close price=29338.15  todayield:101.07  balance:92995.28
+DATE:2021-02-17 BUY 3 at 30636.37  SELL at 31084.94  predicted close price=30759.28  todayield:1345.71  balance:94340.99
+DATE:2021-02-18 BUY 3 at 31183.36  SELL at 30595.27  predicted close price=31086.04  todayield:-1764.27  balance:92576.72
+DATE:2021-02-19 BUY 3 at 30483.46  SELL at 30644.73  predicted close price=30646.25  todayield:483.81  balance:93060.53
+DATE:2021-02-22 BUY 2 at 31071.61  SELL at 30319.83  predicted close price=30655.57  todayield:-1503.56  balance:91556.97
+DATE:2021-02-23 BUY 3 at 30189.97  SELL at 30632.64  predicted close price=30391.36  todayield:1328.01  balance:92884.98
+DATE:2021-02-24 BUY 3 at 30702.65  SELL at 29718.24  predicted close price=30664.16  todayield:-2953.23  balance:89931.75
+DATE:2021-02-25 BUY 2 at 30174.22  SELL at 30074.17  predicted close price=29810.75  todayield:-200.1  balance:89731.64
+DATE:2021-02-26 BUY 3 at 29412.13  SELL at 28980.21  predicted close price=30107.69  todayield:-1295.76  balance:88435.88
+DATE:2021-03-01 BUY 3 at 29457.89  SELL at 29452.57  predicted close price=29037.91  todayield:-15.96  balance:88419.92
+DATE:2021-03-02 BUY 2 at 29708.39  SELL at 29095.86  predicted close price=29461.09  todayield:-1225.06  balance:87194.86
+DATE:2021-03-03 BUY 2 at 29249.43  SELL at 29880.42  predicted close price=29140.05  todayield:1261.98  balance:88456.84
+DATE:2021-03-05 BUY 3 at 28667.14  SELL at 29098.29  predicted close price=29265.35  todayield:1293.45  balance:89750.29
+DATE:2021-03-08 BUY 3 at 29362.59  SELL at 28540.83  predicted close price=29122.82  todayield:-2465.28  balance:87285.01
+DATE:2021-03-09 BUY 3 at 28665.26  SELL at 28773.23  predicted close price=28626.46  todayield:323.91  balance:87608.92
+DATE:2021-03-10 BUY 2 at 29255.37  SELL at 28907.52  predicted close price=28811.25  todayield:-695.7  balance:86913.22
+DATE:2021-03-11 BUY 3 at 28909.98  SELL at 29385.61  predicted close price=28935.57  todayield:1426.89  balance:88340.11
+DATE:2021-03-12 BUY 2 at 29550.37  SELL at 28739.72  predicted close price=29395.08  todayield:-1621.3  balance:86718.81
+DATE:2021-03-15 BUY 2 at 28923.95  SELL at 28833.76  predicted close price=28803.69  todayield:-180.38  balance:86538.43
+DATE:2021-03-16 BUY 2 at 29036.82  SELL at 29027.69  predicted close price=28859.91  todayield:-18.26  balance:86520.17
+DATE:2021-03-17 BUY 2 at 28992.24  SELL at 29034.12  predicted close price=29033.2  todayield:83.76  balance:86603.93
+DATE:2021-03-19 BUY 2 at 29158.48  SELL at 28990.94  predicted close price=29408.09  todayield:-335.08  balance:86268.85
+DATE:2021-03-22 BUY 2 at 28801.09  SELL at 28885.34  predicted close price=29027.29  todayield:168.5  balance:86437.35
+DATE:2021-03-23 BUY 2 at 29008.02  SELL at 28497.38  predicted close price=28889.93  todayield:-1021.28  balance:85416.07
+DATE:2021-03-24 BUY 3 at 28437.49  SELL at 27918.14  predicted close price=28524.04  todayield:-1558.05  balance:83858.02
+DATE:2021-03-25 BUY 3 at 27628.08  SELL at 27899.61  predicted close price=27955.75  todayield:814.59  balance:84672.61
+DATE:2021-03-26 BUY 3 at 28043.65  SELL at 28336.43  predicted close price=27904.74  todayield:878.34  balance:85550.95
+DATE:2021-03-30 BUY 2 at 28552.77  SELL at 28577.5  predicted close price=28353.35  todayield:49.46  balance:85600.41
+DATE:2021-03-31 BUY 2 at 28802.53  SELL at 28378.35  predicted close price=28582.38  todayield:-848.36  balance:84752.05
+DATE:2021-04-01 BUY 2 at 28594.55  SELL at 28938.74  predicted close price=28410.03  todayield:688.38  balance:85440.43
+DATE:2021-04-08 BUY 2 at 28604.12  SELL at 29008.07  predicted close price=28698.61  todayield:807.9  balance:86248.33
+DATE:2021-04-12 BUY 2 at 28791.97  SELL at 28453.28  predicted close price=28718.92  todayield:-677.38  balance:85570.95
+DATE:2021-04-13 BUY 2 at 28557.84  SELL at 28497.25  predicted close price=28468.92  todayield:-121.18  balance:85449.77
+DATE:2021-04-14 BUY 2 at 28796.55  SELL at 28900.83  predicted close price=28509.66  todayield:208.56  balance:85658.32
+DATE:2021-04-16 BUY 2 at 28827.17  SELL at 28969.71  predicted close price=28793.3  todayield:285.08  balance:85943.41
+DATE:2021-04-22 BUY 2 at 28716.98  SELL at 28755.34  predicted close price=28629.66  todayield:76.72  balance:86020.12
+DATE:2021-04-27 BUY 2 at 28895.38  SELL at 28941.54  predicted close price=28959.47  todayield:92.32  balance:86112.44
+DATE:2021-05-03 BUY 3 at 28659.91  SELL at 28357.54  predicted close price=28754.15  todayield:-907.11  balance:85205.33
+DATE:2021-05-04 BUY 2 at 28438.15  SELL at 28557.14  predicted close price=28368.59  todayield:237.98  balance:85443.31
+DATE:2021-05-06 BUY 2 at 28647.97  SELL at 28637.46  predicted close price=28420.43  todayield:-21.02  balance:85422.29
+DATE:2021-05-07 BUY 2 at 28721.13  SELL at 28610.65  predicted close price=28645.92  todayield:-220.96  balance:85201.33
+DATE:2021-05-10 BUY 2 at 28776.99  SELL at 28595.66  predicted close price=28622.77  todayield:-362.66  balance:84838.67
+DATE:2021-05-11 BUY 2 at 28286.56  SELL at 28013.81  predicted close price=28610.57  todayield:-545.5  balance:84293.17
+DATE:2021-05-12 BUY 3 at 28073.92  SELL at 28231.04  predicted close price=28033.19  todayield:471.36  balance:84764.53
+DATE:2021-05-14 BUY 3 at 27872.69  SELL at 28027.57  predicted close price=27736.36  todayield:464.64  balance:85229.17
+DATE:2021-05-21 BUY 2 at 28584.34  SELL at 28458.44  predicted close price=28456.63  todayield:-251.8  balance:84977.37
+DATE:2021-05-27 BUY 2 at 28998.39  SELL at 29113.2  predicted close price=29171.41  todayield:229.62  balance:85206.98
+DATE:2021-05-28 BUY 2 at 29219.46  SELL at 29124.41  predicted close price=29136.43  todayield:-190.1  balance:85016.88
+DATE:2021-05-31 BUY 2 at 29225.46  SELL at 29151.8  predicted close price=29139.19  todayield:-147.32  balance:84869.56
+DATE:2021-06-01 BUY 2 at 29159.06  SELL at 29468.0  predicted close price=29155.07  todayield:617.88  balance:85487.44
+DATE:2021-06-03 BUY 2 at 29365.32  SELL at 28966.03  predicted close price=29302.03  todayield:-798.58  balance:84688.86
+DATE:2021-06-04 BUY 2 at 28837.95  SELL at 28918.1  predicted close price=28988.59  todayield:160.3  balance:84849.16
+DATE:2021-06-07 BUY 2 at 28985.6  SELL at 28787.28  predicted close price=28932.79  todayield:-396.64  balance:84452.52
+DATE:2021-06-08 BUY 2 at 28900.52  SELL at 28781.38  predicted close price=28804.42  todayield:-238.28  balance:84214.24
+DATE:2021-06-09 BUY 2 at 28771.14  SELL at 28742.63  predicted close price=28782.04  todayield:-57.02  balance:84157.22
+DATE:2021-06-11 BUY 2 at 28864.9  SELL at 28842.13  predicted close price=28743.79  todayield:-45.54  balance:84111.68
+DATE:2021-06-15 BUY 2 at 28946.44  SELL at 28638.53  predicted close price=28844.8  todayield:-615.82  balance:83495.86
+DATE:2021-06-16 BUY 2 at 28609.37  SELL at 28436.84  predicted close price=28658.02  todayield:-345.06  balance:83150.8
+DATE:2021-06-17 BUY 2 at 28240.88  SELL at 28558.59  predicted close price=28446.78  todayield:635.42  balance:83786.22
+DATE:2021-06-21 BUY 2 at 28501.64  SELL at 28489.0  predicted close price=28821.21  todayield:-25.28  balance:83760.94
+DATE:2021-06-22 BUY 2 at 28575.16  SELL at 28309.76  predicted close price=28493.26  todayield:-530.8  balance:83230.14
+DATE:2021-06-23 BUY 2 at 28468.24  SELL at 28817.07  predicted close price=28322.69  todayield:697.66  balance:83927.8
+DATE:2021-06-30 BUY 2 at 29107.9  SELL at 28827.95  predicted close price=29012.69  todayield:-559.9  balance:83367.9
+DATE:2021-07-02 BUY 2 at 28859.02  SELL at 28310.42  predicted close price=28842.81  todayield:-1097.2  balance:82270.7
+DATE:2021-07-05 BUY 2 at 28098.91  SELL at 28143.5  predicted close price=28350.19  todayield:89.18  balance:82359.88
+DATE:2021-07-06 BUY 2 at 28136.63  SELL at 28072.86  predicted close price=28144.93  todayield:-127.54  balance:82232.34
+DATE:2021-07-07 BUY 2 at 27777.81  SELL at 27960.62  predicted close price=28074.17  todayield:365.62  balance:82597.95
+DATE:2021-07-09 BUY 3 at 27131.57  SELL at 27344.54  predicted close price=27207.75  todayield:638.91  balance:83236.86
+DATE:2021-07-12 BUY 3 at 27672.7  SELL at 27515.24  predicted close price=27349.33  todayield:-472.38  balance:82764.48
+DATE:2021-07-13 BUY 2 at 27694.03  SELL at 27963.41  predicted close price=27526.69  todayield:538.76  balance:83303.24
+DATE:2021-07-15 BUY 2 at 27801.4  SELL at 27996.27  predicted close price=27794.65  todayield:389.74  balance:83692.98
+DATE:2021-07-16 BUY 2 at 27972.56  SELL at 28004.68  predicted close price=27997.41  todayield:64.24  balance:83757.22
+DATE:2021-07-19 BUY 3 at 27786.54  SELL at 27489.78  predicted close price=28009.21  todayield:-890.28  balance:82866.94
+DATE:2021-07-20 BUY 3 at 27395.83  SELL at 27259.25  predicted close price=27503.74  todayield:-409.74  balance:82457.2
+DATE:2021-07-21 BUY 3 at 27339.22  SELL at 27224.58  predicted close price=27275.09  todayield:-343.92  balance:82113.28
+DATE:2021-07-22 BUY 2 at 27464.28  SELL at 27723.84  predicted close price=27226.69  todayield:519.12  balance:82632.4
+DATE:2021-07-26 BUY 3 at 26825.73  SELL at 26192.32  predicted close price=27332.06  todayield:-1900.23  balance:80732.17
+DATE:2021-07-27 BUY 3 at 26011.51  SELL at 25086.43  predicted close price=26240.54  todayield:-2775.24  balance:77956.93
+DATE:2021-07-28 BUY 3 at 25356.74  SELL at 25473.88  predicted close price=25187.55  todayield:351.42  balance:78308.35
+DATE:2021-07-29 BUY 2 at 26221.36  SELL at 26315.32  predicted close price=25495.33  todayield:187.92  balance:78496.27
+DATE:2021-07-30 BUY 3 at 26042.84  SELL at 25961.03  predicted close price=26333.96  todayield:-245.43  balance:78250.84
+DATE:2021-08-02 BUY 3 at 26054.81  SELL at 26235.8  predicted close price=25977.11  todayield:542.97  balance:78793.81
+DATE:2021-08-04 BUY 3 at 26161.83  SELL at 26426.55  predicted close price=26201.11  todayield:794.16  balance:79587.97
+DATE:2021-08-06 BUY 3 at 26262.97  SELL at 26179.4  predicted close price=26218.0  todayield:-250.71  balance:79337.26
+DATE:2021-08-09 BUY 3 at 25969.23  SELL at 26283.4  predicted close price=26180.02  todayield:942.51  balance:80279.77
+DATE:2021-08-12 BUY 3 at 26623.77  SELL at 26517.82  predicted close price=26669.04  todayield:-317.85  balance:79961.93
+DATE:2021-08-13 BUY 3 at 26296.19  SELL at 26391.62  predicted close price=26522.87  todayield:286.29  balance:80248.21
+DATE:2021-08-17 BUY 3 at 26137.9  SELL at 25745.87  predicted close price=26190.91  todayield:-1176.09  balance:79072.12
+DATE:2021-08-18 BUY 3 at 25800.03  SELL at 25867.01  predicted close price=25777.75  todayield:200.94  balance:79273.06
+DATE:2021-08-19 BUY 3 at 25787.84  SELL at 25316.33  predicted close price=25869.78  todayield:-1414.53  balance:77858.53
+DATE:2021-08-20 BUY 3 at 25241.32  SELL at 24849.72  predicted close price=25351.2  todayield:-1174.8  balance:76683.73
+DATE:2021-08-23 BUY 3 at 25169.45  SELL at 25109.59  predicted close price=24887.63  todayield:-179.58  balance:76504.16
+DATE:2021-08-24 BUY 3 at 25428.68  SELL at 25727.92  predicted close price=25129.17  todayield:897.72  balance:77401.88
+DATE:2021-08-26 BUY 3 at 25673.78  SELL at 25415.69  predicted close price=25707.05  todayield:-774.27  balance:76627.61
+DATE:2021-08-27 BUY 3 at 25337.55  SELL at 25407.89  predicted close price=25431.58  todayield:211.02  balance:76838.63
+DATE:2021-08-30 BUY 3 at 25406.49  SELL at 25539.54  predicted close price=25410.51  todayield:399.15  balance:77237.77
+DATE:2021-08-31 BUY 3 at 25524.23  SELL at 25878.99  predicted close price=25540.87  todayield:1064.28  balance:78302.05
+DATE:2021-09-01 BUY 3 at 25871.82  SELL at 26028.29  predicted close price=25885.13  todayield:469.41  balance:78771.46
+DATE:2021-09-02 BUY 3 at 26203.52  SELL at 26090.43  predicted close price=26031.8  todayield:-339.27  balance:78432.19
+DATE:2021-09-03 BUY 3 at 26022.67  SELL at 25901.99  predicted close price=26104.27  todayield:-362.04  balance:78070.15
+DATE:2021-09-06 BUY 3 at 25827.17  SELL at 26163.63  predicted close price=25920.98  todayield:1009.38  balance:79079.53
+DATE:2021-09-09 BUY 3 at 26076.93  SELL at 25716.0  predicted close price=26329.97  todayield:-1082.79  balance:77996.74
+DATE:2021-09-10 BUY 3 at 25870.71  SELL at 26205.91  predicted close price=25741.34  todayield:1005.6  balance:79002.34
+DATE:2021-09-14 BUY 3 at 25827.7  SELL at 25502.23  predicted close price=25825.24  todayield:-976.41  balance:78025.94
+DATE:2021-09-15 BUY 3 at 25310.03  SELL at 25033.21  predicted close price=25531.37  todayield:-830.46  balance:77195.48
+DATE:2021-09-16 BUY 3 at 25042.03  SELL at 24667.85  predicted close price=25062.34  todayield:-1122.54  balance:76072.94
+DATE:2021-09-17 BUY 3 at 24589.17  SELL at 24920.76  predicted close price=24700.36  todayield:994.77  balance:77067.71
+DATE:2021-09-20 BUY 3 at 24640.43  SELL at 24099.14  predicted close price=24933.43  todayield:-1623.87  balance:75443.84
+DATE:2021-09-21 BUY 3 at 23867.16  SELL at 24221.54  predicted close price=24143.22  todayield:1063.14  balance:76506.98
+DATE:2021-09-23 BUY 3 at 24614.14  SELL at 24510.98  predicted close price=24221.65  todayield:-309.48  balance:76197.5
+DATE:2021-09-24 BUY 3 at 24487.24  SELL at 24192.16  predicted close price=24539.03  todayield:-885.24  balance:75312.26
+DATE:2021-09-27 BUY 3 at 24131.42  SELL at 24208.78  predicted close price=24218.79  todayield:232.08  balance:75544.34
+DATE:2021-09-28 BUY 3 at 24323.0  SELL at 24500.39  predicted close price=24227.68  todayield:532.17  balance:76076.51
+DATE:2021-09-29 BUY 3 at 24276.71  SELL at 24663.5  predicted close price=24513.99  todayield:1160.37  balance:77236.88
+DATE:2021-10-05 BUY 3 at 23771.65  SELL at 24104.15  predicted close price=24059.98  todayield:997.5  balance:78234.38
+DATE:2021-10-07 BUY 3 at 24339.32  SELL at 24701.73  predicted close price=23986.64  todayield:1087.23  balance:79321.61
+DATE:2021-10-11 BUY 3 at 25161.8  SELL at 25325.09  predicted close price=24859.77  todayield:489.87  balance:79811.47
+DATE:2021-10-12 BUY 3 at 24995.95  SELL at 24962.59  predicted close price=25330.79  todayield:-100.08  balance:79711.4
+DATE:2021-10-15 BUY 3 at 25187.05  SELL at 25330.96  predicted close price=24972.81  todayield:431.73  balance:80143.13
+DATE:2021-10-18 BUY 3 at 25425.32  SELL at 25409.75  predicted close price=25336.01  todayield:-46.71  balance:80096.42
+DATE:2021-10-21 BUY 3 at 26141.85  SELL at 26017.53  predicted close price=26136.73  todayield:-372.96  balance:79723.46
+DATE:2021-10-22 BUY 3 at 26114.84  SELL at 26126.93  predicted close price=26030.72  todayield:36.27  balance:79759.72
+DATE:2021-10-25 BUY 3 at 26020.78  SELL at 26132.03  predicted close price=26126.93  todayield:333.75  balance:80093.47
+DATE:2021-10-27 BUY 3 at 25795.17  SELL at 25628.74  predicted close price=26044.42  todayield:-499.29  balance:79594.19
+DATE:2021-10-28 BUY 3 at 25648.42  SELL at 25555.73  predicted close price=25635.73  todayield:-278.07  balance:79316.12
+DATE:2021-10-29 BUY 3 at 25466.86  SELL at 25377.24  predicted close price=25567.68  todayield:-268.86  balance:79047.26
+DATE:2021-11-01 BUY 3 at 25268.35  SELL at 25154.32  predicted close price=25388.78  todayield:-342.09  balance:78705.17
+DATE:2021-11-02 BUY 3 at 25609.01  SELL at 25099.67  predicted close price=25158.48  todayield:-1528.02  balance:77177.15
+DATE:2021-11-03 BUY 3 at 25060.93  SELL at 25024.75  predicted close price=25131.53  todayield:-108.54  balance:77068.61
+DATE:2021-11-04 BUY 3 at 25141.1  SELL at 25225.19  predicted close price=25030.21  todayield:252.27  balance:77320.88
+DATE:2021-11-08 BUY 3 at 24743.54  SELL at 24763.77  predicted close price=24883.08  todayield:60.69  balance:77381.57
+DATE:2021-11-09 BUY 3 at 24952.82  SELL at 24813.13  predicted close price=24767.4  todayield:-419.07  balance:76962.51
+DATE:2021-11-15 BUY 3 at 25437.99  SELL at 25390.91  predicted close price=25337.07  todayield:-141.24  balance:76821.27
+DATE:2021-11-23 BUY 3 at 24688.99  SELL at 24651.58  predicted close price=24956.03  todayield:-112.23  balance:76709.04
+DATE:2021-11-24 BUY 3 at 24672.1  SELL at 24685.5  predicted close price=24655.06  todayield:40.2  balance:76749.24
+DATE:2021-11-25 BUY 3 at 24699.69  SELL at 24740.16  predicted close price=24692.6  todayield:121.41  balance:76870.65
+DATE:2021-11-29 BUY 3 at 23910.49  SELL at 23852.24  predicted close price=24106.72  todayield:-174.75  balance:76695.9
+DATE:2021-11-30 BUY 3 at 23782.86  SELL at 23475.26  predicted close price=23865.43  todayield:-922.8  balance:75773.1
+DATE:2021-12-01 BUY 3 at 23595.57  SELL at 23658.92  predicted close price=23521.69  todayield:190.05  balance:75963.15
+DATE:2021-12-02 BUY 3 at 23524.05  SELL at 23788.93  predicted close price=23673.02  todayield:794.64  balance:76757.79
+DATE:2021-12-03 BUY 3 at 23675.26  SELL at 23766.69  predicted close price=23795.18  todayield:274.29  balance:77032.07
+DATE:2021-12-06 BUY 3 at 23420.44  SELL at 23349.38  predicted close price=23783.02  todayield:-213.18  balance:76818.9
+DATE:2021-12-07 BUY 3 at 23704.51  SELL at 23983.66  predicted close price=23373.28  todayield:837.45  balance:77656.35
+DATE:2021-12-08 BUY 3 at 24090.02  SELL at 23996.87  predicted close price=23984.68  todayield:-279.45  balance:77376.9
+DATE:2021-12-09 BUY 3 at 24168.41  SELL at 24254.86  predicted close price=24005.7  todayield:259.35  balance:77636.25
+DATE:2021-12-10 BUY 3 at 24070.56  SELL at 23995.72  predicted close price=24257.73  todayield:-224.52  balance:77411.73
+DATE:2021-12-13 BUY 3 at 24242.26  SELL at 23954.58  predicted close price=24002.18  todayield:-863.04  balance:76548.69
+DATE:2021-12-14 BUY 3 at 23693.73  SELL at 23635.95  predicted close price=23974.29  todayield:-173.34  balance:76375.34
+DATE:2021-12-15 BUY 3 at 23658.04  SELL at 23420.76  predicted close price=23643.73  todayield:-711.84  balance:75663.51
+DATE:2021-12-16 BUY 3 at 23287.93  SELL at 23475.5  predicted close price=23437.72  todayield:562.71  balance:76226.22
+DATE:2021-12-20 BUY 3 at 23079.83  SELL at 22744.86  predicted close price=23218.45  todayield:-1004.91  balance:75221.3
+DATE:2021-12-21 BUY 3 at 22795.57  SELL at 22971.33  predicted close price=22768.85  todayield:527.28  balance:75748.58
+DATE:2021-12-22 BUY 3 at 23221.13  SELL at 23102.33  predicted close price=22974.28  todayield:-356.4  balance:75392.18
+DATE:2021-12-23 BUY 3 at 23141.79  SELL at 23193.64  predicted close price=23106.59  todayield:155.55  balance:75547.74
+DATE:2021-12-29 BUY 3 at 23253.98  SELL at 23086.54  predicted close price=23281.18  todayield:-502.32  balance:75045.41
+DATE:2022-01-04 BUY 3 at 23400.62  SELL at 23289.84  predicted close price=23279.11  todayield:-332.34  balance:74713.07
+DATE:2022-01-05 BUY 3 at 23323.77  SELL at 22907.25  predicted close price=23301.27  todayield:-1249.56  balance:73463.52
+DATE:2022-01-06 BUY 3 at 22843.2  SELL at 23072.86  predicted close price=22949.8  todayield:688.98  balance:74152.5
+DATE:2022-01-10 BUY 3 at 23523.9  SELL at 23746.54  predicted close price=23505.62  todayield:667.92  balance:74820.41
+DATE:2022-01-11 BUY 3 at 23678.69  SELL at 23739.06  predicted close price=23757.46  todayield:181.11  balance:75001.53
+DATE:2022-01-12 BUY 3 at 24069.52  SELL at 24402.17  predicted close price=23753.79  todayield:997.95  balance:75999.48
+DATE:2022-01-13 BUY 3 at 24561.48  SELL at 24429.77  predicted close price=24407.36  todayield:-395.13  balance:75604.34
+DATE:2022-01-14 BUY 3 at 24185.86  SELL at 24383.32  predicted close price=24445.06  todayield:592.38  balance:76196.73
+DATE:2022-01-18 BUY 3 at 24274.75  SELL at 24112.78  predicted close price=24228.56  todayield:-485.91  balance:75710.81
+DATE:2022-01-19 BUY 3 at 24229.78  SELL at 24127.85  predicted close price=24125.8  todayield:-305.79  balance:75405.03
+DATE:2022-01-20 BUY 3 at 24263.15  SELL at 24952.35  predicted close price=24137.13  todayield:2067.6  balance:77472.62
+DATE:2022-01-24 BUY 3 at 24693.43  SELL at 24656.46  predicted close price=24974.66  todayield:-110.91  balance:77361.72
+DATE:2022-01-25 BUY 3 at 24251.22  SELL at 24243.61  predicted close price=24665.36  todayield:-22.83  balance:77338.88
+DATE:2022-01-26 BUY 3 at 24342.9  SELL at 24289.9  predicted close price=24256.09  todayield:-159.0  balance:77179.88
+DATE:2022-01-27 BUY 3 at 23952.01  SELL at 23807.0  predicted close price=24302.49  todayield:-435.03  balance:76744.85
+DATE:2022-01-28 BUY 3 at 23818.94  SELL at 23550.08  predicted close price=23818.88  todayield:-806.58  balance:75938.28
+DATE:2022-01-31 BUY 3 at 23624.14  SELL at 23802.26  predicted close price=23569.69  todayield:534.36  balance:76472.63
+DATE:2022-02-09 BUY 3 at 24727.34  SELL at 24829.99  predicted close price=24351.29  todayield:307.95  balance:76780.58
+DATE:2022-02-10 BUY 3 at 25050.59  SELL at 24924.35  predicted close price=24842.74  todayield:-378.72  balance:76401.86
+DATE:2022-02-11 BUY 3 at 24837.2  SELL at 24906.66  predicted close price=24936.78  todayield:208.38  balance:76610.25
+DATE:2022-02-14 BUY 3 at 24725.1  SELL at 24556.57  predicted close price=24919.42  todayield:-505.59  balance:76104.66
+DATE:2022-02-15 BUY 3 at 24458.5  SELL at 24355.71  predicted close price=24571.36  todayield:-308.37  balance:75796.29
+DATE:2022-02-16 BUY 3 at 24618.3  SELL at 24718.9  predicted close price=24380.03  todayield:301.8  balance:76098.09
+DATE:2022-02-17 BUY 3 at 24722.88  SELL at 24792.77  predicted close price=24719.53  todayield:209.67  balance:76307.76
+DATE:2022-02-21 BUY 3 at 24109.59  SELL at 24170.07  predicted close price=24349.24  todayield:181.44  balance:76489.2
+DATE:2022-02-22 BUY 3 at 23692.54  SELL at 23520.0  predicted close price=24171.15  todayield:-517.62  balance:75971.58
+DATE:2022-02-23 BUY 3 at 23617.97  SELL at 23660.28  predicted close price=23540.93  todayield:126.93  balance:76098.51
+DATE:2022-02-24 BUY 3 at 23268.03  SELL at 22901.56  predicted close price=23660.42  todayield:-1099.41  balance:74999.1
+DATE:2022-02-25 BUY 3 at 22908.1  SELL at 22767.18  predicted close price=22947.9  todayield:-422.76  balance:74576.34
+DATE:2022-02-28 BUY 3 at 22818.17  SELL at 22713.02  predicted close price=22796.19  todayield:-315.45  balance:74260.89
+DATE:2022-03-01 BUY 3 at 22739.84  SELL at 22761.71  predicted close price=22739.52  todayield:65.61  balance:74326.5
+DATE:2022-03-02 BUY 3 at 22568.36  SELL at 22343.92  predicted close price=22772.4  todayield:-673.32  balance:73653.18
+DATE:2022-03-03 BUY 3 at 22434.26  SELL at 22467.34  predicted close price=22373.74  todayield:99.24  balance:73752.42
+DATE:2022-03-04 BUY 3 at 21879.13  SELL at 21905.29  predicted close price=22477.95  todayield:78.47  balance:73830.9
+DATE:2022-03-07 BUY 3 at 21308.9  SELL at 21057.63  predicted close price=21925.9  todayield:-753.81  balance:73077.09
+DATE:2022-03-08 BUY 3 at 21082.39  SELL at 20765.87  predicted close price=21103.16  todayield:-949.56  balance:72127.53
+DATE:2022-03-09 BUY 3 at 20820.02  SELL at 20627.71  predicted close price=20820.5  todayield:-576.93  balance:71550.6
+DATE:2022-03-10 BUY 3 at 21106.57  SELL at 20890.26  predicted close price=20678.34  todayield:-648.93  balance:70901.67
+DATE:2022-03-11 BUY 3 at 20460.03  SELL at 20553.79  predicted close price=20924.73  todayield:281.28  balance:71182.95
+DATE:2022-03-14 BUY 3 at 20203.84  SELL at 19531.66  predicted close price=20585.48  todayield:-2016.54  balance:69166.41
+DATE:2022-03-15 BUY 3 at 18931.18  SELL at 18415.08  predicted close price=19613.61  todayield:-1548.3  balance:67618.11
+DATE:2022-03-16 BUY 3 at 18956.02  SELL at 20087.5  predicted close price=18533.45  todayield:3394.44  balance:71012.55
+DATE:2022-03-17 BUY 3 at 21430.71  SELL at 21501.23  predicted close price=20123.75  todayield:211.56  balance:71224.11
+DATE:2022-03-18 BUY 3 at 21232.88  SELL at 21412.4  predicted close price=21551.09  todayield:538.56  balance:71762.67
+DATE:2022-03-21 BUY 3 at 21823.07  SELL at 21221.34  predicted close price=21464.56  todayield:-1805.19  balance:69957.48
+DATE:2022-03-22 BUY 3 at 21319.19  SELL at 21889.28  predicted close price=21269.79  todayield:1710.27  balance:71667.75
+DATE:2022-03-23 BUY 3 at 22088.79  SELL at 22154.08  predicted close price=21894.51  todayield:195.87  balance:71863.62
+DATE:2022-03-24 BUY 3 at 22002.87  SELL at 21945.95  predicted close price=22183.49  todayield:-170.76  balance:71692.86
+DATE:2022-03-25 BUY 3 at 21735.61  SELL at 21404.88  predicted close price=21973.05  todayield:-992.19  balance:70700.67
+DATE:2022-03-28 BUY 3 at 21422.2  SELL at 21684.97  predicted close price=21445.48  todayield:788.31  balance:71488.99
+DATE:2022-03-29 BUY 3 at 21771.29  SELL at 21927.63  predicted close price=21694.81  todayield:469.03  balance:71958.01
+DATE:2022-03-30 BUY 3 at 22101.63  SELL at 22232.03  predicted close price=21938.84  todayield:391.2  balance:72349.21
+DATE:2022-03-31 BUY 3 at 22262.16  SELL at 21996.85  predicted close price=22254.84  todayield:-795.93  balance:71553.28
+DATE:2022-04-01 BUY 3 at 21693.1  SELL at 22039.55  predicted close price=22024.99  todayield:1039.35  balance:72592.63
+DATE:2022-04-04 BUY 3 at 22227.11  SELL at 22502.31  predicted close price=22039.76  todayield:825.6  balance:73418.23
+DATE:2022-04-06 BUY 3 at 22220.21  SELL at 22080.52  predicted close price=22503.33  todayield:-419.07  balance:72999.16
+DATE:2022-04-07 BUY 3 at 21910.4  SELL at 21808.98  predicted close price=22110.72  todayield:-304.26  balance:72694.9
+DATE:2022-04-08 BUY 3 at 21667.53  SELL at 21872.01  predicted close price=21836.68  todayield:613.44  balance:73308.34
+DATE:2022-04-11 BUY 3 at 21688.03  SELL at 21208.3  predicted close price=21873.6  todayield:-1439.19  balance:71869.16
+DATE:2022-04-12 BUY 3 at 21279.18  SELL at 21319.13  predicted close price=21247.16  todayield:119.85  balance:71989.01
+DATE:2022-04-13 BUY 3 at 21192.62  SELL at 21374.37  predicted close price=21335.8  todayield:545.25  balance:72534.26
+DATE:2022-04-14 BUY 3 at 21463.35  SELL at 21518.08  predicted close price=21381.77  todayield:164.19  balance:72698.45
+DATE:2022-04-19 BUY 3 at 21106.0  SELL at 21027.76  predicted close price=21526.14  todayield:-234.72  balance:72463.73
+DATE:2022-04-20 BUY 3 at 20972.84  SELL at 20944.67  predicted close price=21050.51  todayield:-84.51  balance:72379.22
+DATE:2022-04-21 BUY 3 at 20780.86  SELL at 20682.22  predicted close price=20964.51  todayield:-295.92  balance:72083.3
+DATE:2022-04-22 BUY 3 at 20261.61  SELL at 20638.52  predicted close price=20707.72  todayield:1130.73  balance:73214.04
+DATE:2022-04-25 BUY 3 at 20284.6  SELL at 19869.34  predicted close price=20649.22  todayield:-1245.78  balance:71968.26
+DATE:2022-04-26 BUY 3 at 19989.04  SELL at 19934.71  predicted close price=19919.59  todayield:-162.98  balance:71805.27
+DATE:2022-04-27 BUY 3 at 19723.46  SELL at 19946.36  predicted close price=19968.96  todayield:668.7  balance:72473.97
+DATE:2022-04-28 BUY 3 at 20118.79  SELL at 20276.17  predicted close price=19963.87  todayield:472.14  balance:72946.11
+DATE:2022-04-29 BUY 3 at 20271.4  SELL at 21089.39  predicted close price=20289.86  todayield:2453.97  balance:75400.08
+DATE:2022-05-03 BUY 3 at 20927.62  SELL at 21101.89  predicted close price=21092.59  todayield:522.81  balance:75922.89
+DATE:2022-05-04 BUY 3 at 21025.7  SELL at 20869.52  predicted close price=21110.48  todayield:-468.54  balance:75454.36
+DATE:2022-05-05 BUY 3 at 21163.15  SELL at 20793.4  predicted close price=20878.2  todayield:-1109.25  balance:74345.11
+DATE:2022-05-06 BUY 3 at 20287.06  SELL at 20001.96  predicted close price=20827.07  todayield:-855.3  balance:73489.81
+DATE:2022-05-10 BUY 3 at 19300.68  SELL at 19633.69  predicted close price=20034.36  todayield:999.03  balance:74488.84
+DATE:2022-05-11 BUY 3 at 19511.8  SELL at 19824.57  predicted close price=19655.43  todayield:938.31  balance:75427.14
+DATE:2022-05-12 BUY 3 at 19556.89  SELL at 19380.34  predicted close price=19838.38  todayield:-529.65  balance:74897.49
+DATE:2022-05-13 BUY 3 at 19615.99  SELL at 19898.77  predicted close price=19414.91  todayield:848.34  balance:75745.83
+DATE:2022-05-16 BUY 3 at 20131.53  SELL at 19950.21  predicted close price=19908.3  todayield:-543.96  balance:75201.88
+DATE:2022-05-17 BUY 3 at 20193.6  SELL at 20602.52  predicted close price=19972.02  todayield:1226.76  balance:76428.63
+DATE:2022-05-18 BUY 3 at 20674.23  SELL at 20644.28  predicted close price=20609.12  todayield:-89.85  balance:76338.78
+DATE:2022-05-19 BUY 3 at 20146.96  SELL at 20120.68  predicted close price=20658.74  todayield:-78.84  balance:76259.94
+DATE:2022-05-20 BUY 3 at 20470.95  SELL at 20717.24  predicted close price=20141.66  todayield:738.87  balance:76998.81
+DATE:2022-05-23 BUY 3 at 20608.65  SELL at 20470.06  predicted close price=20728.91  todayield:-415.77  balance:76583.04
+DATE:2022-05-24 BUY 3 at 20420.14  SELL at 20112.1  predicted close price=20487.03  todayield:-924.12  balance:75658.92
+DATE:2022-05-25 BUY 3 at 20115.56  SELL at 20171.27  predicted close price=20142.33  todayield:167.13  balance:75826.04
+DATE:2022-05-26 BUY 3 at 20272.22  SELL at 20116.2  predicted close price=20191.72  todayield:-468.06  balance:75357.98
+DATE:2022-05-27 BUY 3 at 20646.06  SELL at 20697.36  predicted close price=20135.83  todayield:153.9  balance:75511.88
+DATE:2022-05-30 BUY 3 at 20933.5  SELL at 21123.93  predicted close price=20720.02  todayield:571.29  balance:76083.17
+DATE:2022-05-31 BUY 3 at 21106.41  SELL at 21415.2  predicted close price=21142.09  todayield:926.37  balance:77009.53
+DATE:2022-06-01 BUY 3 at 21407.79  SELL at 21294.94  predicted close price=21447.94  todayield:-338.55  balance:76670.98
+DATE:2022-06-02 BUY 3 at 21057.04  SELL at 21082.13  predicted close price=21313.98  todayield:75.28  balance:76746.26
+DATE:2022-06-06 BUY 3 at 21282.51  SELL at 21653.9  predicted close price=21091.87  todayield:1114.17  balance:77860.43
+DATE:2022-06-07 BUY 3 at 21577.48  SELL at 21531.67  predicted close price=21659.33  todayield:-137.43  balance:77723.0
+DATE:2022-06-08 BUY 3 at 21788.89  SELL at 22014.59  predicted close price=21552.74  todayield:677.1  balance:78400.1
+DATE:2022-06-09 BUY 3 at 22121.53  SELL at 21869.05  predicted close price=22035.26  todayield:-757.44  balance:77642.66
+DATE:2022-06-10 BUY 3 at 21522.5  SELL at 21806.18  predicted close price=21901.92  todayield:851.04  balance:78493.7
+DATE:2022-06-13 BUY 3 at 21162.53  SELL at 21067.58  predicted close price=21824.23  todayield:-284.85  balance:78208.85
+DATE:2022-06-14 BUY 3 at 20783.54  SELL at 21067.99  predicted close price=21099.11  todayield:853.35  balance:79062.21
+DATE:2022-06-15 BUY 3 at 21111.32  SELL at 21308.21  predicted close price=21075.69  todayield:590.67  balance:79652.88
+DATE:2022-06-16 BUY 3 at 21515.64  SELL at 20845.43  predicted close price=21323.74  todayield:-2010.63  balance:77642.25
+DATE:2022-06-17 BUY 3 at 20716.74  SELL at 21075.0  predicted close price=20898.92  todayield:1074.78  balance:78717.03
+DATE:2022-06-20 BUY 3 at 20948.8  SELL at 21163.91  predicted close price=21096.99  todayield:645.33  balance:79362.35
+DATE:2022-06-21 BUY 3 at 21264.98  SELL at 21559.59  predicted close price=21172.08  todayield:883.83  balance:80246.18
+DATE:2022-06-22 BUY 3 at 21469.74  SELL at 21008.34  predicted close price=21565.48  todayield:-1384.2  balance:78861.98
+DATE:2022-06-23 BUY 3 at 21157.58  SELL at 21273.87  predicted close price=21054.05  todayield:348.87  balance:79210.85
+DATE:2022-06-24 BUY 3 at 21450.68  SELL at 21719.06  predicted close price=21287.83  todayield:805.14  balance:80015.99
+DATE:2022-06-27 BUY 3 at 21976.8  SELL at 22229.52  predicted close price=21730.95  todayield:758.16  balance:80774.15
+DATE:2022-06-28 BUY 3 at 22144.63  SELL at 22418.97  predicted close price=22254.13  todayield:823.02  balance:81597.17
+DATE:2022-06-29 BUY 3 at 22125.61  SELL at 21996.89  predicted close price=22435.22  todayield:-386.16  balance:81211.01
+DATE:2022-06-30 BUY 3 at 21917.45  SELL at 21859.79  predicted close price=22031.62  todayield:-172.98  balance:81038.03
+DATE:2022-07-04 BUY 3 at 21690.68  SELL at 21830.35  predicted close price=21891.91  todayield:419.01  balance:81457.04
+DATE:2022-07-05 BUY 3 at 22053.16  SELL at 21853.07  predicted close price=21841.78  todayield:-600.27  balance:80856.77
+DATE:2022-07-06 BUY 3 at 21777.64  SELL at 21586.66  predicted close price=21881.27  todayield:-572.94  balance:80283.83
+DATE:2022-07-07 BUY 3 at 21352.7  SELL at 21643.58  predicted close price=21622.21  todayield:872.64  balance:81156.47
+DATE:2022-07-11 BUY 3 at 21470.77  SELL at 21124.2  predicted close price=21742.71  todayield:-1039.71  balance:80116.76
+DATE:2022-07-12 BUY 3 at 20905.07  SELL at 20844.74  predicted close price=21149.87  todayield:-180.99  balance:79935.77
+DATE:2022-07-13 BUY 3 at 20911.53  SELL at 20797.95  predicted close price=20862.53  todayield:-340.74  balance:79595.03
+DATE:2022-07-14 BUY 3 at 20818.27  SELL at 20751.21  predicted close price=20821.91  todayield:-201.18  balance:79393.85
+DATE:2022-07-15 BUY 3 at 20522.11  SELL at 20297.72  predicted close price=20775.1  todayield:-673.17  balance:78720.69
+DATE:2022-07-18 BUY 3 at 20479.58  SELL at 20846.18  predicted close price=20335.45  todayield:1099.8  balance:79820.49
+DATE:2022-07-19 BUY 3 at 20719.2  SELL at 20661.06  predicted close price=20850.19  todayield:-174.42  balance:79646.07
+DATE:2022-07-20 BUY 3 at 20968.42  SELL at 20890.22  predicted close price=20667.77  todayield:-234.6  balance:79411.47
+DATE:2022-07-21 BUY 3 at 20811.6  SELL at 20574.63  predicted close price=20902.95  todayield:-710.91  balance:78700.57
+DATE:2022-07-22 BUY 3 at 20717.47  SELL at 20609.14  predicted close price=20597.55  todayield:-324.99  balance:78375.58
+DATE:2022-07-25 BUY 3 at 20516.34  SELL at 20562.94  predicted close price=20620.17  todayield:139.8  balance:78515.38
+DATE:2022-07-26 BUY 3 at 20676.68  SELL at 20905.88  predicted close price=20566.43  todayield:687.6  balance:79202.98
+DATE:2022-07-27 BUY 3 at 20684.48  SELL at 20670.04  predicted close price=20909.7  todayield:-43.32  balance:79159.65
+DATE:2022-07-28 BUY 3 at 20705.46  SELL at 20622.68  predicted close price=20682.61  todayield:-248.34  balance:78911.31
+DATE:2022-07-29 BUY 3 at 20647.45  SELL at 20156.51  predicted close price=20641.94  todayield:-1472.82  balance:77438.49
+DATE:2022-08-01 BUY 3 at 20026.6  SELL at 20165.84  predicted close price=20198.94  todayield:417.72  balance:77856.21
+DATE:2022-08-02 BUY 3 at 19943.16  SELL at 19689.21  predicted close price=20178.24  todayield:-761.85  balance:77094.37
+DATE:2022-08-03 BUY 3 at 19865.69  SELL at 19767.09  predicted close price=19721.59  todayield:-295.8  balance:76798.57
+DATE:2022-08-04 BUY 3 at 20011.25  SELL at 20174.04  predicted close price=19785.84  todayield:488.37  balance:77286.93
+DATE:2022-08-05 BUY 3 at 20283.59  SELL at 20201.94  predicted close price=20184.46  todayield:-244.95  balance:77041.98
+DATE:2022-08-08 BUY 3 at 20065.35  SELL at 20045.77  predicted close price=20214.86  todayield:-58.74  balance:76983.24
+DATE:2022-08-09 BUY 3 at 20039.3  SELL at 20003.44  predicted close price=20055.09  todayield:-107.58  balance:76875.66
+DATE:2022-08-10 BUY 3 at 19956.51  SELL at 19610.84  predicted close price=20018.33  todayield:-1037.01  balance:75838.65
+DATE:2022-08-11 BUY 3 at 19840.57  SELL at 20082.43  predicted close price=19639.77  todayield:725.58  balance:76564.23
+DATE:2022-08-12 BUY 3 at 20158.29  SELL at 20175.62  predicted close price=20084.53  todayield:51.99  balance:76616.22
+DATE:2022-08-15 BUY 3 at 20038.48  SELL at 20040.86  predicted close price=20183.62  todayield:7.14  balance:76623.35
+DATE:2022-08-16 BUY 3 at 20107.14  SELL at 19830.52  predicted close price=20052.91  todayield:-829.86  balance:75793.49
+DATE:2022-08-17 BUY 3 at 19995.77  SELL at 19922.45  predicted close price=19860.59  todayield:-219.96  balance:75573.53
+DATE:2022-08-18 BUY 3 at 19991.94  SELL at 19763.91  predicted close price=19934.19  todayield:-684.09  balance:74889.44
+DATE:2022-08-19 BUY 3 at 19656.8  SELL at 19773.03  predicted close price=19784.57  todayield:348.69  balance:75238.13
+DATE:2022-08-22 BUY 3 at 19572.42  SELL at 19656.98  predicted close price=19780.06  todayield:253.68  balance:75491.81
+DATE:2022-08-23 BUY 3 at 19644.23  SELL at 19503.25  predicted close price=19669.33  todayield:-422.94  balance:75068.87
+DATE:2022-08-24 BUY 3 at 19542.24  SELL at 19268.74  predicted close price=19525.36  todayield:-820.5  balance:74248.37
+DATE:2022-08-25 BUY 3 at 19418.46  SELL at 19968.38  predicted close price=19298.96  todayield:1649.76  balance:75898.13
+DATE:2022-08-29 BUY 3 at 19960.29  SELL at 20023.22  predicted close price=20182.02  todayield:188.79  balance:76086.92
+DATE:2022-08-30 BUY 3 at 20062.73  SELL at 19949.03  predicted close price=20031.62  todayield:-341.1  balance:75745.82
+DATE:2022-08-31 BUY 3 at 19589.85  SELL at 19954.39  predicted close price=19963.41  todayield:1093.62  balance:76839.44
+DATE:2022-09-01 BUY 3 at 19761.72  SELL at 19597.31  predicted close price=19977.92  todayield:-493.23  balance:76346.21
+DATE:2022-09-02 BUY 3 at 19572.47  SELL at 19452.09  predicted close price=19623.7  todayield:-361.14  balance:75985.07
+DATE:2022-09-05 BUY 3 at 19299.09  SELL at 19225.7  predicted close price=19477.11  todayield:-220.17  balance:75764.9
+DATE:2022-09-06 BUY 3 at 19261.7  SELL at 19202.73  predicted close price=19248.02  todayield:-176.91  balance:75587.99
+DATE:2022-09-07 BUY 3 at 18915.87  SELL at 19044.3  predicted close price=19220.5  todayield:385.29  balance:75973.29
+DATE:2022-09-08 BUY 3 at 19043.84  SELL at 18854.62  predicted close price=19055.55  todayield:-567.66  balance:75405.62
+DATE:2022-09-09 BUY 3 at 18893.65  SELL at 19362.25  predicted close price=18878.13  todayield:1405.8  balance:76811.42
+DATE:2022-09-13 BUY 3 at 19404.64  SELL at 19326.86  predicted close price=19367.4  todayield:-233.34  balance:76578.08
+DATE:2022-09-14 BUY 4 at 18933.3  SELL at 18847.1  predicted close price=19346.51  todayield:-344.8  balance:76233.27
+DATE:2022-09-15 BUY 4 at 18833.9  SELL at 18930.38  predicted close price=18866.23  todayield:385.92  balance:76619.2
+DATE:2022-09-16 BUY 4 at 18732.44  SELL at 18761.69  predicted close price=18944.31  todayield:117.0  balance:76736.2
+DATE:2022-09-19 BUY 4 at 18695.35  SELL at 18565.97  predicted close price=18794.39  todayield:-517.52  balance:76218.68
+DATE:2022-09-20 BUY 4 at 18700.68  SELL at 18781.42  predicted close price=18586.35  todayield:322.96  balance:76541.64
+DATE:2022-09-21 BUY 4 at 18638.85  SELL at 18444.62  predicted close price=18791.06  todayield:-776.92  balance:75764.72
+DATE:2022-09-22 BUY 4 at 18080.93  SELL at 18147.95  predicted close price=18467.08  todayield:268.08  balance:76032.8
+DATE:2022-09-23 BUY 4 at 18055.59  SELL at 17933.27  predicted close price=18161.47  todayield:-489.28  balance:75543.52
+DATE:2022-09-26 BUY 4 at 17781.87  SELL at 17855.14  predicted close price=17958.51  todayield:293.09  balance:75836.6
+DATE:2022-09-27 BUY 4 at 17838.65  SELL at 17860.31  predicted close price=17887.1  todayield:86.64  balance:75923.24
+DATE:2022-09-28 BUY 4 at 17703.39  SELL at 17250.88  predicted close price=17877.72  todayield:-1810.04  balance:74113.2
+DATE:2022-09-29 BUY 4 at 17570.17  SELL at 17165.87  predicted close price=17308.64  todayield:-1617.2  balance:72496.0
+DATE:2022-09-30 BUY 4 at 17165.93  SELL at 17222.83  predicted close price=17216.52  todayield:227.6  balance:72723.6
+DATE:2022-10-03 BUY 4 at 17050.25  SELL at 17079.51  predicted close price=17246.24  todayield:117.04  balance:72840.64
+DATE:2022-10-05 BUY 4 at 17811.97  SELL at 18087.97  predicted close price=17094.07  todayield:1104.0  balance:73944.64
+DATE:2022-10-06 BUY 4 at 18100.48  SELL at 18012.15  predicted close price=18104.68  todayield:-353.32  balance:73591.32
+DATE:2022-10-07 BUY 4 at 17851.62  SELL at 17740.05  predicted close price=18022.73  todayield:-446.27  balance:73145.05
+DATE:2022-10-10 BUY 4 at 17449.36  SELL at 17216.66  predicted close price=17752.83  todayield:-930.8  balance:72214.25
+DATE:2022-10-11 BUY 4 at 17194.73  SELL at 16832.36  predicted close price=17245.42  todayield:-1449.48  balance:70764.77
+DATE:2022-10-12 BUY 4 at 16758.27  SELL at 16701.03  predicted close price=16869.29  todayield:-228.96  balance:70535.8
+DATE:2022-10-13 BUY 4 at 16700.65  SELL at 16389.11  predicted close price=16738.55  todayield:-1246.16  balance:69289.64
+DATE:2022-10-14 BUY 4 at 16671.68  SELL at 16587.69  predicted close price=16431.92  todayield:-335.96  balance:68953.68
+DATE:2022-10-17 BUY 4 at 16479.74  SELL at 16612.9  predicted close price=16628.83  todayield:532.64  balance:69486.32
+DATE:2022-10-18 BUY 4 at 16860.2  SELL at 16914.58  predicted close price=16635.06  todayield:217.52  balance:69703.84
+DATE:2022-10-19 BUY 4 at 16805.91  SELL at 16511.28  predicted close price=16932.07  todayield:-1178.52  balance:68525.32
+DATE:2022-10-20 BUY 4 at 16230.79  SELL at 16280.22  predicted close price=16547.38  todayield:197.72  balance:68723.04
+DATE:2022-10-21 BUY 4 at 16331.11  SELL at 16211.12  predicted close price=16309.5  todayield:-479.96  balance:68243.08
+DATE:2022-10-24 BUY 4 at 15894.75  SELL at 15180.69  predicted close price=16240.87  todayield:-2856.24  balance:65386.84
+DATE:2022-10-25 BUY 4 at 15242.1  SELL at 15165.59  predicted close price=15268.49  todayield:-306.04  balance:65080.8
+DATE:2022-10-26 BUY 4 at 15096.32  SELL at 15317.67  predicted close price=15217.75  todayield:885.4  balance:65966.2
+DATE:2022-10-27 BUY 4 at 15721.27  SELL at 15427.94  predicted close price=15354.14  todayield:-1173.32  balance:64792.88
+DATE:2022-10-28 BUY 4 at 15424.94  SELL at 14863.06  predicted close price=15478.1  todayield:-2247.52  balance:62545.36
+DATE:2022-10-31 BUY 4 at 14830.69  SELL at 14687.02  predicted close price=14932.91  todayield:-574.68  balance:61970.68
+DATE:2022-11-01 BUY 4 at 14859.92  SELL at 15455.27  predicted close price=14760.63  todayield:2381.4  balance:64352.07
+DATE:2022-11-02 BUY 4 at 15389.55  SELL at 15827.17  predicted close price=15495.13  todayield:1750.48  balance:66102.55
+DATE:2022-11-03 BUY 4 at 15477.74  SELL at 15339.49  predicted close price=15850.62  todayield:-553.0  balance:65549.55
+DATE:2022-11-04 BUY 4 at 15442.76  SELL at 16161.14  predicted close price=15382.97  todayield:2873.52  balance:68423.07
+DATE:2022-11-07 BUY 4 at 16031.79  SELL at 16595.91  predicted close price=16203.97  todayield:2256.48  balance:70679.55
+DATE:2022-11-08 BUY 4 at 16640.6  SELL at 16557.31  predicted close price=16627.16  todayield:-333.16  balance:70346.4
+DATE:2022-11-09 BUY 4 at 16552.8  SELL at 16358.52  predicted close price=16586.01  todayield:-777.12  balance:69569.27
+DATE:2022-11-10 BUY 4 at 16138.22  SELL at 16081.04  predicted close price=16414.35  todayield:-228.72  balance:69340.55
+DATE:2022-11-11 BUY 4 at 17120.05  SELL at 17325.66  predicted close price=16108.95  todayield:822.44  balance:70162.99
+DATE:2022-11-14 BUY 3 at 17999.26  SELL at 17619.71  predicted close price=17387.16  todayield:-1138.65  balance:69024.35
+DATE:2022-11-15 BUY 3 at 17665.8  SELL at 18343.12  predicted close price=17712.57  todayield:2031.96  balance:71056.3
+DATE:2022-11-16 BUY 3 at 18169.21  SELL at 18256.48  predicted close price=18386.7  todayield:261.81  balance:71318.11
+DATE:2022-11-17 BUY 3 at 18071.6  SELL at 18045.66  predicted close price=18305.57  todayield:-77.82  balance:71240.29
+DATE:2022-11-18 BUY 3 at 18316.36  SELL at 17992.54  predicted close price=18082.63  todayield:-971.46  balance:70268.83
+DATE:2022-11-21 BUY 3 at 17654.15  SELL at 17655.91  predicted close price=18041.64  todayield:5.28  balance:70274.11
+DATE:2022-11-22 BUY 3 at 17625.19  SELL at 17424.41  predicted close price=17680.25  todayield:-602.34  balance:69671.77
+DATE:2022-11-23 BUY 3 at 17460.9  SELL at 17523.81  predicted close price=17473.38  todayield:188.73  balance:69860.5
+DATE:2022-11-24 BUY 3 at 17684.53  SELL at 17660.9  predicted close price=17551.38  todayield:-70.89  balance:69789.62
+DATE:2022-11-25 BUY 3 at 17673.2  SELL at 17573.58  predicted close price=17696.96  todayield:-298.86  balance:69490.76
+DATE:2022-11-28 BUY 4 at 17000.23  SELL at 17297.94  predicted close price=17615.45  todayield:1190.84  balance:70681.59
+DATE:2022-11-29 BUY 4 at 17558.6  SELL at 18204.68  predicted close price=17323.29  todayield:2584.32  balance:73265.91
+DATE:2022-11-30 BUY 4 at 18141.56  SELL at 18597.23  predicted close price=18239.95  todayield:1822.68  balance:75088.59
+DATE:2022-12-01 BUY 3 at 19058.9  SELL at 18736.44  predicted close price=18654.48  todayield:-967.38  balance:74121.21
+DATE:2022-12-02 BUY 3 at 18785.28  SELL at 18675.35  predicted close price=18809.92  todayield:-329.79  balance:73791.42
+DATE:2022-12-05 BUY 3 at 19221.68  SELL at 19518.29  predicted close price=18726.22  todayield:889.83  balance:74681.25
+DATE:2022-12-06 BUY 3 at 19211.7  SELL at 19441.18  predicted close price=19569.72  todayield:688.44  balance:75369.69
+DATE:2022-12-07 BUY 3 at 19380.8  SELL at 18814.82  predicted close price=19478.42  todayield:-1697.94  balance:73671.75
+DATE:2022-12-08 BUY 3 at 18965.05  SELL at 19450.23  predicted close price=18922.09  todayield:1455.54  balance:75127.29
+DATE:2022-12-09 BUY 3 at 19484.23  SELL at 19900.87  predicted close price=19468.29  todayield:1249.92  balance:76377.21
+DATE:2022-12-12 BUY 3 at 19594.52  SELL at 19463.63  predicted close price=19935.86  todayield:-392.67  balance:75984.54
+DATE:2022-12-13 BUY 3 at 19458.02  SELL at 19596.2  predicted close price=19506.62  todayield:414.54  balance:76399.08
+DATE:2022-12-14 BUY 3 at 19775.33  SELL at 19673.45  predicted close price=19620.11  todayield:-305.64  balance:76093.44
+DATE:2022-12-15 BUY 3 at 19612.67  SELL at 19368.59  predicted close price=19707.73  todayield:-732.24  balance:75361.2
+DATE:2022-12-16 BUY 3 at 19343.7  SELL at 19450.67  predicted close price=19402.41  todayield:320.91  balance:75682.11
+DATE:2022-12-19 BUY 3 at 19472.21  SELL at 19352.81  predicted close price=19481.16  todayield:-358.2  balance:75323.91
+DATE:2022-12-20 BUY 3 at 19156.94  SELL at 19094.8  predicted close price=19387.78  todayield:-186.42  balance:75137.49
+DATE:2022-12-21 BUY 3 at 19190.91  SELL at 19160.49  predicted close price=19116.6  todayield:-91.26  balance:75046.23
+DATE:2022-12-22 BUY 3 at 19537.45  SELL at 19679.22  predicted close price=19170.35  todayield:425.31  balance:75471.54
+DATE:2022-12-23 BUY 3 at 19382.23  SELL at 19593.06  predicted close price=19691.54  todayield:632.49  balance:76104.04
+DATE:2022-12-28 BUY 3 at 19787.94  SELL at 19898.91  predicted close price=19596.37  todayield:332.91  balance:76436.95
+DATE:2022-12-29 BUY 3 at 19648.4  SELL at 19741.14  predicted close price=19929.67  todayield:278.22  balance:76715.17
+DATE:2022-12-30 BUY 3 at 20030.85  SELL at 19781.41  predicted close price=19768.06  todayield:-748.32  balance:75966.85
+DATE:2023-01-03 BUY 3 at 19570.43  SELL at 20145.29  predicted close price=19807.33  todayield:1724.58  balance:77691.43
+DATE:2023-01-04 BUY 3 at 20319.98  SELL at 20793.11  predicted close price=20149.45  todayield:1419.39  balance:79110.81
+DATE:2023-01-05 BUY 3 at 21295.87  SELL at 21052.17  predicted close price=20808.81  todayield:-731.1  balance:78379.72
+DATE:2023-01-06 BUY 3 at 21220.89  SELL at 20991.64  predicted close price=21093.7  todayield:-687.75  balance:77691.97
+DATE:2023-01-09 BUY 3 at 21295.94  SELL at 21388.34  predicted close price=21029.36  todayield:277.2  balance:77969.17
+DATE:2023-01-10 BUY 3 at 21370.42  SELL at 21331.46  predicted close price=21410.96  todayield:-116.88  balance:77852.29
+DATE:2023-01-11 BUY 3 at 21463.82  SELL at 21436.05  predicted close price=21354.34  todayield:-83.31  balance:77768.98
+DATE:2023-01-12 BUY 3 at 21599.82  SELL at 21514.1  predicted close price=21470.67  todayield:-257.16  balance:77511.82
+DATE:2023-01-13 BUY 3 at 21605.07  SELL at 21738.66  predicted close price=21544.9  todayield:400.77  balance:77912.59
+DATE:2023-01-16 BUY 3 at 21818.65  SELL at 21746.72  predicted close price=21754.17  todayield:-215.79  balance:77696.8
+DATE:2023-01-17 BUY 3 at 21678.05  SELL at 21577.64  predicted close price=21773.68  todayield:-301.23  balance:77395.57
+DATE:2023-01-18 BUY 3 at 21514.8  SELL at 21678.0  predicted close price=21602.37  todayield:489.6  balance:77885.17
+DATE:2023-01-19 BUY 3 at 21452.26  SELL at 21650.98  predicted close price=21692.81  todayield:596.16  balance:78481.33
+DATE:2023-01-20 BUY 3 at 21812.46  SELL at 22044.65  predicted close price=21655.22  todayield:696.57  balance:79177.9
+DATE:2023-01-26 BUY 3 at 22386.37  SELL at 22566.78  predicted close price=22048.86  todayield:541.23  balance:79719.13
+DATE:2023-01-27 BUY 3 at 22614.92  SELL at 22688.9  predicted close price=22578.76  todayield:221.94  balance:79941.07
+DATE:2023-01-30 BUY 3 at 22579.88  SELL at 22069.73  predicted close price=22696.81  todayield:-1530.45  balance:78410.62
+DATE:2023-01-31 BUY 3 at 22190.27  SELL at 21842.33  predicted close price=22135.56  todayield:-1043.82  balance:77366.8
+DATE:2023-02-01 BUY 3 at 21920.8  SELL at 22072.18  predicted close price=21893.44  todayield:454.14  balance:77820.94
+DATE:2023-02-02 BUY 3 at 22276.23  SELL at 21958.36  predicted close price=22086.47  todayield:-953.61  balance:76867.32
+DATE:2023-02-03 BUY 3 at 21811.08  SELL at 21660.47  predicted close price=21993.24  todayield:-451.83  balance:76415.5
+DATE:2023-02-06 BUY 3 at 21349.17  SELL at 21222.16  predicted close price=21685.8  todayield:-381.03  balance:76034.47
+DATE:2023-02-07 BUY 3 at 21288.39  SELL at 21298.7  predicted close price=21245.62  todayield:30.93  balance:76065.39
+DATE:2023-02-08 BUY 3 at 21283.9  SELL at 21283.52  predicted close price=21313.93  todayield:-1.14  balance:76064.25
+DATE:2023-02-09 BUY 3 at 21154.25  SELL at 21624.36  predicted close price=21298.86  todayield:1410.33  balance:77474.58
+DATE:2023-02-13 BUY 3 at 20910.08  SELL at 21164.42  predicted close price=21219.55  todayield:763.02  balance:78237.6
+DATE:2023-02-14 BUY 3 at 21235.92  SELL at 21113.76  predicted close price=21168.37  todayield:-366.48  balance:77871.12
+DATE:2023-02-15 BUY 3 at 21116.84  SELL at 20812.17  predicted close price=21124.02  todayield:-914.01  balance:76957.11
+DATE:2023-02-16 BUY 3 at 20947.07  SELL at 20987.67  predicted close price=20843.28  todayield:121.8  balance:77078.91
+DATE:2023-02-17 BUY 3 at 20958.63  SELL at 20719.81  predicted close price=21011.73  todayield:-716.46  balance:76362.45
+DATE:2023-02-20 BUY 3 at 20681.47  SELL at 20886.96  predicted close price=20743.19  todayield:616.47  balance:76978.92
+DATE:2023-02-21 BUY 3 at 20859.5  SELL at 20529.49  predicted close price=20895.74  todayield:-990.03  balance:75988.89
+DATE:2023-02-22 BUY 3 at 20512.49  SELL at 20423.84  predicted close price=20563.06  todayield:-265.95  balance:75722.94
+DATE:2023-02-23 BUY 3 at 20339.15  SELL at 20351.35  predicted close price=20442.04  todayield:36.6  balance:75759.53
+DATE:2023-02-24 BUY 3 at 20223.67  SELL at 20010.04  predicted close price=20368.74  todayield:-640.89  balance:75118.64
+DATE:2023-02-27 BUY 3 at 19821.03  SELL at 19943.51  predicted close price=20037.43  todayield:367.44  balance:75486.08
+DATE:2023-02-28 BUY 3 at 20020.17  SELL at 19785.94  predicted close price=19958.04  todayield:-702.69  balance:74783.39
+DATE:2023-03-01 BUY 3 at 19849.97  SELL at 20619.71  predicted close price=19829.87  todayield:2309.22  balance:77092.61
+DATE:2023-03-02 BUY 3 at 20390.02  SELL at 20429.46  predicted close price=20627.81  todayield:118.32  balance:77210.94
+DATE:2023-03-03 BUY 3 at 20703.14  SELL at 20567.54  predicted close price=20445.79  todayield:-406.8  balance:76804.13
+DATE:2023-03-06 BUY 3 at 20437.87  SELL at 20603.19  predicted close price=20592.41  todayield:495.96  balance:77300.09
+DATE:2023-03-07 BUY 3 at 20606.83  SELL at 20534.48  predicted close price=20622.86  todayield:-217.05  balance:77083.04
+DATE:2023-03-08 BUY 3 at 20256.89  SELL at 20051.25  predicted close price=20588.04  todayield:-616.92  balance:76466.12
+DATE:2023-03-09 BUY 3 at 20082.42  SELL at 19925.74  predicted close price=20086.65  todayield:-470.04  balance:75996.08
+DATE:2023-03-10 BUY 3 at 19580.78  SELL at 19319.92  predicted close price=19954.19  todayield:-782.58  balance:75213.5
+DATE:2023-03-13 BUY 3 at 19411.88  SELL at 19695.97  predicted close price=19375.39  todayield:852.27  balance:76065.77
+DATE:2023-03-14 BUY 3 at 19524.51  SELL at 19247.96  predicted close price=19723.86  todayield:-829.65  balance:75236.13
+DATE:2023-03-15 BUY 3 at 19523.49  SELL at 19539.87  predicted close price=19297.16  todayield:49.14  balance:75285.26
+DATE:2023-03-16 BUY 3 at 19197.97  SELL at 19203.91  predicted close price=19570.66  todayield:17.82  balance:75303.08
+DATE:2023-03-17 BUY 3 at 19439.84  SELL at 19518.59  predicted close price=19241.29  todayield:236.25  balance:75539.33
+DATE:2023-03-20 BUY 3 at 19352.9  SELL at 19000.71  predicted close price=19569.46  todayield:-1056.57  balance:74482.76
+DATE:2023-03-21 BUY 3 at 19118.87  SELL at 19258.76  predicted close price=19048.67  todayield:419.67  balance:74902.44
+DATE:2023-03-22 BUY 3 at 19428.36  SELL at 19591.43  predicted close price=19271.01  todayield:489.21  balance:75391.65
+DATE:2023-03-23 BUY 3 at 19619.74  SELL at 20049.64  predicted close price=19613.89  todayield:1289.7  balance:76681.35
+DATE:2023-03-24 BUY 3 at 19919.65  SELL at 19915.68  predicted close price=20060.58  todayield:-11.91  balance:76669.44
+DATE:2023-03-27 BUY 3 at 19851.79  SELL at 19567.69  predicted close price=19941.31  todayield:-852.3  balance:75817.14
+DATE:2023-03-28 BUY 3 at 19688.31  SELL at 19784.65  predicted close price=19608.25  todayield:289.02  balance:76106.16
+DATE:2023-03-29 BUY 3 at 20348.64  SELL at 20192.4  predicted close price=19798.61  todayield:-468.72  balance:75637.44
+DATE:2023-03-30 BUY 3 at 20216.79  SELL at 20309.13  predicted close price=20226.52  todayield:277.03  balance:75914.46
+DATE:2020-06-04 BUY 4 stocks at 24643.84  balance:1395.07
+DATE:2020-06-15 SELL 4 stocks at 23991.38  balance:97235.84
+DATE:2020-06-16 BUY 3 stocks at 24318.15  balance:24259.5
+DATE:2020-06-18 SELL 3 stocks at 24386.31  balance:97323.32
+DATE:2020-06-19 BUY 3 stocks at 24373.36  balance:24181.31
+DATE:2020-06-24 SELL 3 stocks at 25034.87  balance:99188.28
+DATE:2020-06-26 BUY 4 stocks at 24697.98  balance:366.72
+DATE:2020-07-22 SELL 4 stocks at 25575.25  balance:102534.73
+DATE:2020-07-23 BUY 4 stocks at 25235.9  balance:1560.85
+DATE:2020-07-30 SELL 4 stocks at 24979.24  balance:101347.91
+DATE:2020-07-31 BUY 4 stocks at 24747.29  balance:2329.06
+DATE:2020-08-05 SELL 4 stocks at 25029.39  balance:102316.47
+DATE:2020-08-07 BUY 4 stocks at 24909.37  balance:2649.1
+DATE:2020-08-11 SELL 4 stocks at 24662.04  balance:101169.02
+DATE:2020-08-14 BUY 4 stocks at 25072.45  balance:849.13
+DATE:2020-08-17 SELL 4 stocks at 25212.28  balance:101567.15
+DATE:2020-08-18 BUY 3 stocks at 25470.97  balance:25131.31
+DATE:2020-08-24 SELL 3 stocks at 25352.79  balance:101090.8
+DATE:2020-08-26 BUY 3 stocks at 25520.41  balance:24506.6
+DATE:2020-08-27 SELL 3 stocks at 25469.77  balance:100816.58
+DATE:2020-08-28 BUY 3 stocks at 25330.77  balance:24801.47
+DATE:2020-09-10 SELL 3 stocks at 24584.94  balance:98460.41
+DATE:2020-09-11 BUY 4 stocks at 24352.63  balance:1020.66
+DATE:2020-09-14 SELL 4 stocks at 24569.03  balance:99169.02
+DATE:2020-09-16 BUY 3 stocks at 24823.96  balance:24674.8
+DATE:2020-09-29 SELL 3 stocks at 23584.61  balance:95336.65
+DATE:2020-09-30 BUY 4 stocks at 23548.89  balance:1112.82
+DATE:2020-10-07 SELL 4 stocks at 23999.79  balance:96987.18
+DATE:2020-10-12 BUY 4 stocks at 24217.25  balance:89.12
+DATE:2020-11-27 SELL 4 stocks at 26758.49  balance:106983.94
+DATE:2020-11-30 BUY 3 stocks at 26853.39  balance:26399.6
+DATE:2020-12-24 SELL 3 stocks at 26342.87  balance:105325.47
+DATE:2020-12-29 BUY 3 stocks at 26490.45  balance:25830.28
+DATE:2020-12-31 SELL 3 stocks at 27194.79  balance:107308.59
+DATE:2021-01-04 BUY 3 stocks at 27087.13  balance:26022.82
+DATE:2021-01-26 SELL 3 stocks at 29892.85  balance:115584.78
+DATE:2021-01-27 BUY 3 stocks at 29556.58  balance:26888.44
+DATE:2021-02-02 SELL 3 stocks at 29378.12  balance:114908.22
+DATE:2021-02-03 BUY 3 stocks at 29305.41  balance:26965.62
+DATE:2021-02-10 SELL 3 stocks at 29796.19  balance:116237.98
+DATE:2021-02-17 BUY 3 stocks at 30636.37  balance:24301.3
+DATE:2021-03-04 SELL 3 stocks at 29525.48  balance:112762.59
+DATE:2021-03-05 BUY 3 stocks at 28667.14  balance:26735.37
+DATE:2021-03-18 SELL 3 stocks at 29317.61  balance:114573.86
+DATE:2021-03-19 BUY 3 stocks at 29158.48  balance:27072.18
+DATE:2021-03-29 SELL 3 stocks at 28317.32  balance:111913.7
+DATE:2021-03-30 BUY 3 stocks at 28552.77  balance:26229.69
+DATE:2021-04-07 SELL 3 stocks at 29101.4  balance:113420.4
+DATE:2021-04-08 BUY 3 stocks at 28604.12  balance:27582.3
+DATE:2021-04-09 SELL 3 stocks at 29152.44  balance:114925.92
+DATE:2021-04-12 BUY 3 stocks at 28791.97  balance:28524.1
+DATE:2021-04-15 SELL 3 stocks at 28872.82  balance:115029.95
+DATE:2021-04-16 BUY 3 stocks at 28827.17  balance:28522.5
+DATE:2021-04-19 SELL 3 stocks at 28960.13  balance:115289.95
+DATE:2021-04-22 BUY 4 stocks at 28716.98  balance:387.57
+DATE:2021-04-23 SELL 4 stocks at 28798.45  balance:115431.61
+DATE:2021-04-27 BUY 3 stocks at 28895.38  balance:28719.46
+DATE:2021-04-28 SELL 3 stocks at 28991.94  balance:115582.21
+DATE:2021-05-03 BUY 4 stocks at 28659.91  balance:908.18
+DATE:2021-05-05 SELL 4 stocks at 28427.67  balance:114471.04
+DATE:2021-05-06 BUY 3 stocks at 28647.97  balance:28501.34
+DATE:2021-05-13 SELL 3 stocks at 27920.01  balance:112152.48
+DATE:2021-05-14 BUY 4 stocks at 27872.69  balance:628.28
+DATE:2021-05-17 SELL 4 stocks at 28130.51  balance:113004.04
+DATE:2021-05-21 BUY 3 stocks at 28584.34  balance:27225.29
+DATE:2021-05-24 SELL 3 stocks at 28417.99  balance:112368.43
+DATE:2021-05-27 BUY 3 stocks at 28998.39  balance:25347.16
+DATE:2021-06-02 SELL 3 stocks at 29414.64  balance:113476.37
+DATE:2021-06-03 BUY 3 stocks at 29365.32  balance:25353.98
+DATE:2021-06-10 SELL 3 stocks at 28792.02  balance:111617.75
+DATE:2021-06-11 BUY 3 stocks at 28864.9  balance:24997.07
+DATE:2021-06-18 SELL 3 stocks at 28586.04  balance:110643.7
+DATE:2021-06-21 BUY 3 stocks at 28501.64  balance:25113.13
+DATE:2021-06-24 SELL 3 stocks at 28865.46  balance:111596.93
+DATE:2021-06-30 BUY 3 stocks at 29107.9  balance:24247.03
+DATE:2021-07-08 SELL 3 stocks at 27881.5  balance:107782.8
+DATE:2021-07-09 BUY 3 stocks at 27131.57  balance:26363.67
+DATE:2021-07-14 SELL 3 stocks at 27965.39  balance:110150.77
+DATE:2021-07-15 BUY 3 stocks at 27801.4  balance:26721.55
+DATE:2021-07-23 SELL 3 stocks at 27740.95  balance:109836.21
+DATE:2021-07-26 BUY 4 stocks at 26825.73  balance:2501.1
+DATE:2021-08-03 SELL 4 stocks at 26289.06  balance:107520.64
+DATE:2021-08-04 BUY 4 stocks at 26161.83  balance:2841.92
+DATE:2021-08-05 SELL 4 stocks at 26390.01  balance:108264.73
+DATE:2021-08-06 BUY 4 stocks at 26262.97  balance:3181.33
+DATE:2021-08-10 SELL 4 stocks at 26456.61  balance:108870.2
+DATE:2021-08-12 BUY 4 stocks at 26623.77  balance:2343.17
+DATE:2021-08-16 SELL 4 stocks at 26365.19  balance:107666.83
+DATE:2021-08-17 BUY 4 stocks at 26137.9  balance:3083.86
+DATE:2021-08-25 SELL 4 stocks at 25930.05  balance:106669.23
+DATE:2021-08-26 BUY 4 stocks at 25673.78  balance:3943.3
+DATE:2021-09-07 SELL 4 stocks at 26207.22  balance:108635.91
+DATE:2021-09-09 BUY 4 stocks at 26076.93  balance:4296.9
+DATE:2021-09-13 SELL 4 stocks at 25885.3  balance:107703.5
+DATE:2021-09-14 BUY 4 stocks at 25827.7  balance:4361.71
+DATE:2021-09-30 SELL 4 stocks at 24494.26  balance:102211.38
+DATE:2021-10-05 BUY 4 stocks at 23771.65  balance:7096.25
+DATE:2021-10-06 SELL 4 stocks at 24259.2  balance:104006.9
+DATE:2021-10-07 BUY 4 stocks at 24339.32  balance:6620.41
+DATE:2021-10-08 SELL 4 stocks at 25064.8  balance:106749.28
+DATE:2021-10-11 BUY 4 stocks at 25161.8  balance:6071.88
+DATE:2021-10-19 SELL 4 stocks at 25471.25  balance:107824.43
+DATE:2021-10-21 BUY 4 stocks at 26141.85  balance:3225.66
+DATE:2021-10-26 SELL 4 stocks at 26234.94  balance:108029.0
+DATE:2021-10-27 BUY 4 stocks at 25795.17  balance:4817.36
+DATE:2021-11-05 SELL 4 stocks at 24950.68  balance:104490.34
+DATE:2021-11-08 BUY 4 stocks at 24743.54  balance:5486.49
+DATE:2021-11-10 SELL 4 stocks at 24787.44  balance:104507.35
+DATE:2021-11-15 BUY 4 stocks at 25437.99  balance:2724.86
+DATE:2021-11-16 SELL 4 stocks at 25446.65  balance:104379.14
+DATE:2021-11-23 BUY 4 stocks at 24688.99  balance:5593.56
+DATE:2021-11-26 SELL 4 stocks at 24502.68  balance:103476.86
+DATE:2021-11-29 BUY 4 stocks at 23910.49  balance:7806.21
+DATE:2021-12-17 SELL 4 stocks at 23463.78  balance:101539.31
+DATE:2021-12-20 BUY 4 stocks at 23079.83  balance:9192.3
+DATE:2021-12-24 SELL 4 stocks at 23375.99  balance:102574.7
+DATE:2021-12-29 BUY 4 stocks at 23253.98  balance:9530.88
+DATE:2021-12-30 SELL 4 stocks at 23130.45  balance:101932.39
+DATE:2022-01-04 BUY 4 stocks at 23400.62  balance:8301.84
+DATE:2022-01-07 SELL 4 stocks at 23318.92  balance:101456.26
+DATE:2022-01-10 BUY 4 stocks at 23523.9  balance:7332.43
+DATE:2022-01-17 SELL 4 stocks at 24390.29  balance:104766.75
+DATE:2022-01-18 BUY 4 stocks at 24274.75  balance:7638.63
+DATE:2022-01-21 SELL 4 stocks at 24897.59  balance:107099.52
+DATE:2022-01-24 BUY 4 stocks at 24693.43  balance:8296.17
+DATE:2022-02-04 SELL 4 stocks at 24392.86  balance:105740.76
+DATE:2022-02-09 BUY 4 stocks at 24727.34  balance:6801.73
+DATE:2022-02-18 SELL 4 stocks at 24633.66  balance:105208.27
+DATE:2022-02-21 BUY 4 stocks at 24109.59  balance:8740.98
+DATE:2022-07-08 SELL 4 stocks at 21961.75  balance:96473.78
+DATE:2022-07-11 BUY 4 stocks at 21470.77  balance:10564.94
+DATE:2022-08-26 SELL 4 stocks at 20138.69  balance:91014.98
+DATE:2022-08-29 BUY 4 stocks at 19960.29  balance:11149.87
+DATE:2023-02-10 SELL 4 stocks at 21559.44  balance:97275.52
+DATE:2023-02-13 BUY 4 stocks at 20910.08  balance:13610.1
+DATE:2023-03-30 SELL 4 stocks at 20216.79  balance:94372.13
+DATE:2020-06-04 BUY 4 stocks at 24643.84  balance:1395.07
+DATE:2020-06-15 SELL 4 stocks at 23991.38  balance:97235.84
+DATE:2020-06-16 BUY 3 stocks at 24318.15  balance:24259.5
+DATE:2020-06-18 SELL 3 stocks at 24386.31  balance:97323.32
+DATE:2020-06-19 BUY 3 stocks at 24373.36  balance:24181.31
+DATE:2020-06-24 SELL 3 stocks at 25034.87  balance:99188.28
+DATE:2020-06-26 BUY 4 stocks at 24697.98  balance:366.72
+DATE:2020-07-22 SELL 4 stocks at 25575.25  balance:102534.73
+DATE:2020-07-23 BUY 4 stocks at 25235.9  balance:1560.85
+DATE:2020-07-30 SELL 4 stocks at 24979.24  balance:101347.91
+DATE:2020-07-31 BUY 4 stocks at 24747.29  balance:2329.06
+DATE:2020-08-05 SELL 4 stocks at 25029.39  balance:102316.47
+DATE:2020-08-07 BUY 4 stocks at 24909.37  balance:2649.1
+DATE:2020-08-11 SELL 4 stocks at 24662.04  balance:101169.02
+DATE:2020-08-14 BUY 4 stocks at 25072.45  balance:849.13
+DATE:2020-08-17 SELL 4 stocks at 25212.28  balance:101567.15
+DATE:2020-08-18 BUY 3 stocks at 25470.97  balance:25131.31
+DATE:2020-08-24 SELL 3 stocks at 25352.79  balance:101090.8
+DATE:2020-08-26 BUY 3 stocks at 25520.41  balance:24506.6
+DATE:2020-08-27 SELL 3 stocks at 25469.77  balance:100816.58
+DATE:2020-08-28 BUY 3 stocks at 25330.77  balance:24801.47
+DATE:2020-09-10 SELL 3 stocks at 24584.94  balance:98460.41
+DATE:2020-09-11 BUY 4 stocks at 24352.63  balance:1020.66
+DATE:2020-09-14 SELL 4 stocks at 24569.03  balance:99169.02
+DATE:2020-09-16 BUY 3 stocks at 24823.96  balance:24674.8
+DATE:2020-09-29 SELL 3 stocks at 23584.61  balance:95336.65
+DATE:2020-09-30 BUY 4 stocks at 23548.89  balance:1112.82
+DATE:2020-10-07 SELL 4 stocks at 23999.79  balance:96987.18
+DATE:2020-10-12 BUY 4 stocks at 24217.25  balance:89.12
+DATE:2020-11-27 SELL 4 stocks at 26758.49  balance:106983.94
+DATE:2020-11-30 BUY 3 stocks at 26853.39  balance:26399.6
+DATE:2020-12-24 SELL 3 stocks at 26342.87  balance:105325.47
+DATE:2020-12-29 BUY 3 stocks at 26490.45  balance:25830.28
+DATE:2020-12-31 SELL 3 stocks at 27194.79  balance:107308.59
+DATE:2021-01-04 BUY 3 stocks at 27087.13  balance:26022.82
+DATE:2021-01-26 SELL 3 stocks at 29892.85  balance:115584.78
+DATE:2021-01-27 BUY 3 stocks at 29556.58  balance:26888.44
+DATE:2021-02-02 SELL 3 stocks at 29378.12  balance:114908.22
+DATE:2021-02-03 BUY 3 stocks at 29305.41  balance:26965.62
+DATE:2021-02-10 SELL 3 stocks at 29796.19  balance:116237.98
+DATE:2021-02-17 BUY 3 stocks at 30636.37  balance:24301.3
+DATE:2021-03-04 SELL 3 stocks at 29525.48  balance:112762.59
+DATE:2021-03-05 BUY 3 stocks at 28667.14  balance:26735.37
+DATE:2021-03-18 SELL 3 stocks at 29317.61  balance:114573.86
+DATE:2021-03-19 BUY 3 stocks at 29158.48  balance:27072.18
+DATE:2021-03-29 SELL 3 stocks at 28317.32  balance:111913.7
+DATE:2021-03-30 BUY 3 stocks at 28552.77  balance:26229.69
+DATE:2021-04-07 SELL 3 stocks at 29101.4  balance:113420.4
+DATE:2021-04-08 BUY 3 stocks at 28604.12  balance:27582.3
+DATE:2021-04-09 SELL 3 stocks at 29152.44  balance:114925.92
+DATE:2021-04-12 BUY 3 stocks at 28791.97  balance:28524.1
+DATE:2021-04-15 SELL 3 stocks at 28872.82  balance:115029.95
+DATE:2021-04-16 BUY 3 stocks at 28827.17  balance:28522.5
+DATE:2021-04-19 SELL 3 stocks at 28960.13  balance:115289.95
+DATE:2021-04-22 BUY 4 stocks at 28716.98  balance:387.57
+DATE:2021-04-23 SELL 4 stocks at 28798.45  balance:115431.61
+DATE:2021-04-27 BUY 3 stocks at 28895.38  balance:28719.46
+DATE:2021-04-28 SELL 3 stocks at 28991.94  balance:115582.21
+DATE:2021-05-03 BUY 4 stocks at 28659.91  balance:908.18
+DATE:2021-05-05 SELL 4 stocks at 28427.67  balance:114471.04
+DATE:2021-05-06 BUY 3 stocks at 28647.97  balance:28501.34
+DATE:2021-05-13 SELL 3 stocks at 27920.01  balance:112152.48
+DATE:2021-05-14 BUY 4 stocks at 27872.69  balance:628.28
+DATE:2021-05-17 SELL 4 stocks at 28130.51  balance:113004.04
+DATE:2021-05-21 BUY 3 stocks at 28584.34  balance:27225.29
+DATE:2021-05-24 SELL 3 stocks at 28417.99  balance:112368.43
+DATE:2021-05-27 BUY 3 stocks at 28998.39  balance:25347.16
+DATE:2021-06-02 SELL 3 stocks at 29414.64  balance:113476.37
+DATE:2021-06-03 BUY 3 stocks at 29365.32  balance:25353.98
+DATE:2021-06-10 SELL 3 stocks at 28792.02  balance:111617.75
+DATE:2021-06-11 BUY 3 stocks at 28864.9  balance:24997.07
+DATE:2021-06-18 SELL 3 stocks at 28586.04  balance:110643.7
+DATE:2021-06-21 BUY 3 stocks at 28501.64  balance:25113.13
+DATE:2021-06-24 SELL 3 stocks at 28865.46  balance:111596.93
+DATE:2021-06-30 BUY 3 stocks at 29107.9  balance:24247.03
+DATE:2021-07-08 SELL 3 stocks at 27881.5  balance:107782.8
+DATE:2021-07-09 BUY 3 stocks at 27131.57  balance:26363.67
+DATE:2021-07-14 SELL 3 stocks at 27965.39  balance:110150.77
+DATE:2021-07-15 BUY 3 stocks at 27801.4  balance:26721.55
+DATE:2021-07-23 SELL 3 stocks at 27740.95  balance:109836.21
+DATE:2021-07-26 BUY 4 stocks at 26825.73  balance:2501.1
+DATE:2021-08-03 SELL 4 stocks at 26289.06  balance:107520.64
+DATE:2021-08-04 BUY 4 stocks at 26161.83  balance:2841.92
+DATE:2021-08-05 SELL 4 stocks at 26390.01  balance:108264.73
+DATE:2021-08-06 BUY 4 stocks at 26262.97  balance:3181.33
+DATE:2021-08-10 SELL 4 stocks at 26456.61  balance:108870.2
+DATE:2021-08-12 BUY 4 stocks at 26623.77  balance:2343.17
+DATE:2021-08-16 SELL 4 stocks at 26365.19  balance:107666.83
+DATE:2021-08-17 BUY 4 stocks at 26137.9  balance:3083.86
+DATE:2021-08-25 SELL 4 stocks at 25930.05  balance:106669.23
+DATE:2021-08-26 BUY 4 stocks at 25673.78  balance:3943.3
+DATE:2021-09-07 SELL 4 stocks at 26207.22  balance:108635.91
+DATE:2021-09-09 BUY 4 stocks at 26076.93  balance:4296.9
+DATE:2021-09-13 SELL 4 stocks at 25885.3  balance:107703.5
+DATE:2021-09-14 BUY 4 stocks at 25827.7  balance:4361.71
+DATE:2021-09-30 SELL 4 stocks at 24494.26  balance:102211.38
+DATE:2021-10-05 BUY 4 stocks at 23771.65  balance:7096.25
+DATE:2021-10-06 SELL 4 stocks at 24259.2  balance:104006.9
+DATE:2021-10-07 BUY 4 stocks at 24339.32  balance:6620.41
+DATE:2021-10-08 SELL 4 stocks at 25064.8  balance:106749.28
+DATE:2021-10-11 BUY 4 stocks at 25161.8  balance:6071.88
+DATE:2021-10-19 SELL 4 stocks at 25471.25  balance:107824.43
+DATE:2021-10-21 BUY 4 stocks at 26141.85  balance:3225.66
+DATE:2021-10-26 SELL 4 stocks at 26234.94  balance:108029.0
+DATE:2021-10-27 BUY 4 stocks at 25795.17  balance:4817.36
+DATE:2021-11-05 SELL 4 stocks at 24950.68  balance:104490.34
+DATE:2021-11-08 BUY 4 stocks at 24743.54  balance:5486.49
+DATE:2021-11-10 SELL 4 stocks at 24787.44  balance:104507.35
+DATE:2021-11-15 BUY 4 stocks at 25437.99  balance:2724.86
+DATE:2021-11-16 SELL 4 stocks at 25446.65  balance:104379.14
+DATE:2021-11-23 BUY 4 stocks at 24688.99  balance:5593.56
+DATE:2021-11-26 SELL 4 stocks at 24502.68  balance:103476.86
+DATE:2021-11-29 BUY 4 stocks at 23910.49  balance:7806.21
+DATE:2021-12-17 SELL 4 stocks at 23463.78  balance:101539.31
+DATE:2021-12-20 BUY 4 stocks at 23079.83  balance:9192.3
+DATE:2021-12-24 SELL 4 stocks at 23375.99  balance:102574.7
+DATE:2021-12-29 BUY 4 stocks at 23253.98  balance:9530.88
+DATE:2021-12-30 SELL 4 stocks at 23130.45  balance:101932.39
+DATE:2022-01-04 BUY 4 stocks at 23400.62  balance:8301.84
+DATE:2022-01-07 SELL 4 stocks at 23318.92  balance:101456.26
+DATE:2022-01-10 BUY 4 stocks at 23523.9  balance:7332.43
+DATE:2022-01-17 SELL 4 stocks at 24390.29  balance:104766.75
+DATE:2022-01-18 BUY 4 stocks at 24274.75  balance:7638.63
+DATE:2022-01-21 SELL 4 stocks at 24897.59  balance:107099.52
+DATE:2022-01-24 BUY 4 stocks at 24693.43  balance:8296.17
+DATE:2022-02-04 SELL 4 stocks at 24392.86  balance:105740.76
+DATE:2022-02-09 BUY 4 stocks at 24727.34  balance:6801.73
+DATE:2022-02-18 SELL 4 stocks at 24633.66  balance:105208.27
+DATE:2022-02-21 BUY 4 stocks at 24109.59  balance:8740.98
+DATE:2022-07-08 SELL 4 stocks at 21961.75  balance:96473.78
+DATE:2022-07-11 BUY 4 stocks at 21470.77  balance:10564.94
+DATE:2022-08-26 SELL 4 stocks at 20138.69  balance:91014.98
+DATE:2022-08-29 BUY 4 stocks at 19960.29  balance:11149.87
+DATE:2023-02-10 SELL 4 stocks at 21559.44  balance:97275.52
+DATE:2023-02-13 BUY 4 stocks at 20910.08  balance:13610.1
+DATE:2023-03-30 SELL 4 stocks at 20216.79  balance:94372.13
+DATE:2020-06-02 00:00:00 buy 4.0 at 23792.240234375 balance:4802.48837421875
+DATE:2020-06-03 00:00:00 buy 0.0 at 24303.560546875 balance:4802.48837421875
+DATE:2020-06-04 00:00:00 buy 0.0 at 24643.83984375 balance:4802.48837421875
+DATE:2020-06-05 00:00:00 buy 0.0 at 24388.1796875 balance:4802.48837421875
+DATE:2020-06-12 00:00:00 buy 0.0 at 23920.69921875 balance:4802.48837421875
+DATE:2020-06-15 00:00:00 buy 0.0 at 23991.380859375 balance:4802.48837421875
+DATE:2020-06-16 00:00:00 buy 0.0 at 24318.150390625 balance:4802.48837421875
+DATE:2020-06-17 00:00:00 buy 0.0 at 24363.390625 balance:4802.48837421875
+DATE:2020-06-18 00:00:00 buy 0.0 at 24386.310546875 balance:4802.48837421875
+DATE:2020-06-19 00:00:00 buy 0.0 at 24373.359375 balance:4802.48837421875
+DATE:2020-06-22 00:00:00 buy 0.0 at 24528.529296875 balance:4802.48837421875
+DATE:2020-06-29 00:00:00 buy 0.0 at 24627.640625 balance:4802.48837421875
+DATE:2020-06-30 00:00:00 buy 0.0 at 24468.240234375 balance:4802.48837421875
+DATE:2020-07-02 00:00:00 buy 0.0 at 24563.5703125 balance:4802.48837421875
+DATE:2020-07-03 00:00:00 buy 0.0 at 25319.279296875 balance:4802.48837421875
+DATE:2020-07-16 00:00:00 buy 0.0 at 25549.400390625 balance:4802.48837421875
+DATE:2020-07-17 00:00:00 buy 0.0 at 25142.060546875 balance:4802.48837421875
+DATE:2020-07-24 00:00:00 buy 0.0 at 25040.759765625 balance:4802.48837421875
+DATE:2020-07-27 00:00:00 buy 0.0 at 24909.9609375 balance:4802.48837421875
+DATE:2020-07-31 00:00:00 buy 0.0 at 24747.2890625 balance:4802.48837421875
+DATE:2020-08-03 00:00:00 buy 0.0 at 24566.810546875 balance:4802.48837421875
+DATE:2020-08-07 00:00:00 buy 0.0 at 24909.369140625 balance:4802.48837421875
+DATE:2020-08-10 00:00:00 buy 0.0 at 24376.8203125 balance:4802.48837421875
+DATE:2020-08-11 00:00:00 buy 0.0 at 24662.0390625 balance:4802.48837421875
+DATE:2020-08-13 00:00:00 buy 0.0 at 25490.01953125 balance:4802.48837421875
+DATE:2020-08-14 00:00:00 buy 0.0 at 25072.44921875 balance:4802.48837421875
+DATE:2020-08-20 00:00:00 buy 0.0 at 25055.349609375 balance:4802.48837421875
+DATE:2020-08-21 00:00:00 buy 0.0 at 25007.130859375 balance:4802.48837421875
+DATE:2020-09-09 00:00:00 buy 0.0 at 24295.419921875 balance:4802.48837421875
+DATE:2020-09-10 00:00:00 buy 0.0 at 24584.939453125 balance:4802.48837421875
+DATE:2020-09-11 00:00:00 buy 0.0 at 24352.630859375 balance:4802.48837421875
+DATE:2020-09-24 00:00:00 buy 0.0 at 23537.830078125 balance:4802.48837421875
+DATE:2020-09-25 00:00:00 buy 0.0 at 23425.75 balance:4802.48837421875
+DATE:2020-09-25 00:00:00 sell 0.0 at 23425.75 balance:4802.48837421875
+DATE:2020-09-29 00:00:00 buy 0.0 at 23584.609375 balance:4802.48837421875
+DATE:2020-09-30 00:00:00 buy 0.0 at 23548.890625 balance:4802.48837421875
+DATE:2020-10-05 00:00:00 buy 0.0 at 24039.390625 balance:4802.48837421875
+DATE:2020-10-06 00:00:00 buy 0.0 at 23895.2109375 balance:4802.48837421875
+DATE:2020-10-08 00:00:00 buy 0.0 at 24263.330078125 balance:4802.48837421875
+DATE:2020-10-09 00:00:00 buy 0.0 at 24343.810546875 balance:4802.48837421875
+DATE:2020-10-15 00:00:00 buy 0.0 at 24533.75 balance:4802.48837421875
+DATE:2020-10-16 00:00:00 buy 0.0 at 24194.41015625 balance:4802.48837421875
+DATE:2020-10-19 00:00:00 buy 0.0 at 24565.4296875 balance:4802.48837421875
+DATE:2020-10-20 00:00:00 buy 0.0 at 24571.640625 balance:4802.48837421875
+DATE:2020-10-21 00:00:00 buy 0.0 at 24695.5390625 balance:4802.48837421875
+DATE:2020-10-22 00:00:00 buy 0.0 at 24696.310546875 balance:4802.48837421875
+DATE:2020-10-30 00:00:00 buy 0.0 at 24535.900390625 balance:4802.48837421875
+DATE:2020-11-02 00:00:00 buy 0.0 at 24274.830078125 balance:4802.48837421875
+DATE:2020-11-03 00:00:00 buy 0.0 at 24689.560546875 balance:4802.48837421875
+DATE:2020-11-04 00:00:00 buy 0.0 at 24790.0 balance:4802.48837421875
+DATE:2020-11-05 00:00:00 buy 0.0 at 25500.91015625 balance:4802.48837421875
+DATE:2020-11-06 00:00:00 buy 0.0 at 25750.779296875 balance:4802.48837421875
+DATE:2020-11-09 00:00:00 buy 0.0 at 26157.76953125 balance:4802.48837421875
+DATE:2020-11-12 00:00:00 buy 0.0 at 26409.33984375 balance:4802.48837421875
+DATE:2020-11-13 00:00:00 buy 0.0 at 26114.599609375 balance:4802.48837421875
+DATE:2020-11-16 00:00:00 buy 0.0 at 26362.0703125 balance:4802.48837421875
+DATE:2020-11-17 00:00:00 buy 0.0 at 26515.08984375 balance:4802.48837421875
+DATE:2020-11-17 00:00:00 sell 0.0 at 26515.08984375 balance:4802.48837421875
+DATE:2020-11-19 00:00:00 buy 0.0 at 26460.609375 balance:4802.48837421875
+DATE:2020-11-20 00:00:00 buy 0.0 at 26406.869140625 balance:4802.48837421875
+DATE:2020-11-20 00:00:00 sell 0.0 at 26406.869140625 balance:4802.48837421875
+DATE:2020-11-23 00:00:00 buy 0.0 at 26659.7890625 balance:4802.48837421875
+DATE:2020-11-24 00:00:00 buy 0.0 at 26630.33984375 balance:4802.48837421875
+DATE:2020-11-24 00:00:00 sell 0.0 at 26630.33984375 balance:4802.48837421875
+DATE:2020-11-25 00:00:00 buy 0.0 at 26819.9609375 balance:4802.48837421875
+DATE:2020-11-26 00:00:00 sell 0.0 at 26695.25 balance:4802.48837421875
+DATE:2020-11-30 00:00:00 buy 0.0 at 26853.390625 balance:4802.48837421875
+DATE:2020-12-01 00:00:00 buy 0.0 at 26422.7109375 balance:4802.48837421875
+DATE:2020-12-01 00:00:00 sell 0.0 at 26422.7109375 balance:4802.48837421875
+DATE:2020-12-02 00:00:00 buy 0.0 at 26670.119140625 balance:4802.48837421875
+DATE:2020-12-03 00:00:00 sell 0.0 at 26623.419921875 balance:4802.48837421875
+DATE:2020-12-07 00:00:00 buy 0.0 at 26870.580078125 balance:4802.48837421875
+DATE:2020-12-08 00:00:00 buy 0.0 at 26460.349609375 balance:4802.48837421875
+DATE:2020-12-09 00:00:00 buy 0.0 at 26510.419921875 balance:4802.48837421875
+DATE:2020-12-09 00:00:00 sell 0.0 at 26510.419921875 balance:4802.48837421875
+DATE:2020-12-14 00:00:00 buy 0.0 at 26522.099609375 balance:4802.48837421875
+DATE:2020-12-15 00:00:00 buy 0.0 at 26418.9296875 balance:4802.48837421875
+DATE:2020-12-16 00:00:00 buy 0.0 at 26421.2109375 balance:4802.48837421875
+DATE:2020-12-16 00:00:00 sell 0.0 at 26421.2109375 balance:4802.48837421875
+DATE:2020-12-21 00:00:00 buy 0.0 at 26422.619140625 balance:4802.48837421875
+DATE:2020-12-22 00:00:00 buy 0.0 at 26260.779296875 balance:4802.48837421875
+DATE:2020-12-23 00:00:00 buy 0.0 at 26083.109375 balance:4802.48837421875
+DATE:2020-12-28 00:00:00 buy 0.0 at 26288.369140625 balance:4802.48837421875
+DATE:2020-12-29 00:00:00 buy 0.0 at 26490.44921875 balance:4802.48837421875
+DATE:2020-12-29 00:00:00 sell 0.0 at 26490.44921875 balance:4802.48837421875
+DATE:2020-12-30 00:00:00 buy 0.0 at 26695.109375 balance:4802.48837421875
+DATE:2020-12-31 00:00:00 buy 0.0 at 27194.7890625 balance:4802.48837421875
+DATE:2020-12-31 00:00:00 sell 0.0 at 27194.7890625 balance:4802.48837421875
+DATE:2021-01-04 00:00:00 buy 0.0 at 27087.130859375 balance:4802.48837421875
+DATE:2021-01-05 00:00:00 buy 0.0 at 27281.33984375 balance:4802.48837421875
+DATE:2021-01-05 00:00:00 sell 0.0 at 27281.33984375 balance:4802.48837421875
+DATE:2021-01-06 00:00:00 buy 0.0 at 27613.33984375 balance:4802.48837421875
+DATE:2021-01-07 00:00:00 buy 0.0 at 27715.939453125 balance:4802.48837421875
+DATE:2021-01-07 00:00:00 sell 0.0 at 27715.939453125 balance:4802.48837421875
+DATE:2021-01-08 00:00:00 buy 0.0 at 27630.029296875 balance:4802.48837421875
+DATE:2021-01-11 00:00:00 buy 0.0 at 28003.98046875 balance:4802.48837421875
+DATE:2021-01-11 00:00:00 sell 0.0 at 28003.98046875 balance:4802.48837421875
+DATE:2021-01-12 00:00:00 buy 0.0 at 27894.2890625 balance:4802.48837421875
+DATE:2021-01-13 00:00:00 buy 0.0 at 28309.3203125 balance:4802.48837421875
+DATE:2021-01-13 00:00:00 sell 0.0 at 28309.3203125 balance:4802.48837421875
+DATE:2021-01-14 00:00:00 buy 0.0 at 28408.119140625 balance:4802.48837421875
+DATE:2021-01-15 00:00:00 buy 0.0 at 28394.369140625 balance:4802.48837421875
+DATE:2021-01-15 00:00:00 sell 0.0 at 28394.369140625 balance:4802.48837421875
+DATE:2021-01-18 00:00:00 buy 0.0 at 28454.58984375 balance:4802.48837421875
+DATE:2021-01-19 00:00:00 sell 0.0 at 29100.169921875 balance:4802.48837421875
+DATE:2021-01-21 00:00:00 buy 0.0 at 29951.779296875 balance:4802.48837421875
+DATE:2021-01-22 00:00:00 buy 0.0 at 29809.23046875 balance:4802.48837421875
+DATE:2021-01-22 00:00:00 sell 0.0 at 29809.23046875 balance:4802.48837421875
+DATE:2021-01-28 00:00:00 buy 0.0 at 28914.849609375 balance:4802.48837421875
+DATE:2021-01-29 00:00:00 buy 0.0 at 28826.1796875 balance:4802.48837421875
+DATE:2021-01-29 00:00:00 sell 0.0 at 28826.1796875 balance:4802.48837421875
+DATE:2021-02-01 00:00:00 buy 0.0 at 28457.849609375 balance:4802.48837421875
+DATE:2021-02-02 00:00:00 buy 0.0 at 29378.119140625 balance:4802.48837421875
+DATE:2021-02-02 00:00:00 sell 0.0 at 29378.119140625 balance:4802.48837421875
+DATE:2021-02-04 00:00:00 buy 0.0 at 29093.5390625 balance:4802.48837421875
+DATE:2021-02-05 00:00:00 buy 0.0 at 29305.08984375 balance:4802.48837421875
+DATE:2021-02-05 00:00:00 sell 0.0 at 29305.08984375 balance:4802.48837421875
+DATE:2021-02-08 00:00:00 buy 0.0 at 29629.080078125 balance:4802.48837421875
+DATE:2021-02-09 00:00:00 buy 0.0 at 29442.5 balance:4802.48837421875
+DATE:2021-02-09 00:00:00 sell 0.0 at 29442.5 balance:4802.48837421875
+DATE:2021-02-10 00:00:00 buy 0.0 at 29796.189453125 balance:4802.48837421875
+DATE:2021-02-11 00:00:00 sell 0.0 at 29995.279296875 balance:4802.48837421875
+DATE:2021-02-19 00:00:00 buy 0.0 at 30483.4609375 balance:4802.48837421875
+DATE:2021-02-22 00:00:00 sell 0.0 at 31071.609375 balance:4802.48837421875
+DATE:2021-02-26 00:00:00 buy 0.0 at 29412.130859375 balance:4802.48837421875
+DATE:2021-03-01 00:00:00 sell 0.0 at 29457.890625 balance:4802.48837421875
+DATE:2021-03-02 00:00:00 buy 0.0 at 29708.390625 balance:4802.48837421875
+DATE:2021-03-03 00:00:00 sell 0.0 at 29249.4296875 balance:4802.48837421875
+DATE:2021-03-08 00:00:00 buy 0.0 at 29362.58984375 balance:4802.48837421875
+DATE:2021-03-09 00:00:00 buy 0.0 at 28665.259765625 balance:4802.48837421875
+DATE:2021-03-09 00:00:00 sell 0.0 at 28665.259765625 balance:4802.48837421875
+DATE:2021-03-12 00:00:00 buy 0.0 at 29550.369140625 balance:4802.48837421875
+DATE:2021-03-15 00:00:00 buy 0.0 at 28923.94921875 balance:4802.48837421875
+DATE:2021-03-15 00:00:00 sell 0.0 at 28923.94921875 balance:4802.48837421875
+DATE:2021-03-24 00:00:00 buy 0.0 at 28437.490234375 balance:4802.48837421875
+DATE:2021-03-25 00:00:00 buy 0.0 at 27628.080078125 balance:4802.48837421875
+DATE:2021-03-25 00:00:00 sell 0.0 at 27628.080078125 balance:4802.48837421875
+DATE:2021-03-26 00:00:00 buy 0.0 at 28043.650390625 balance:4802.48837421875
+DATE:2021-03-29 00:00:00 buy 0.0 at 28317.3203125 balance:4802.48837421875
+DATE:2021-03-29 00:00:00 sell 0.0 at 28317.3203125 balance:4802.48837421875
+DATE:2021-03-30 00:00:00 buy 0.0 at 28552.76953125 balance:4802.48837421875
+DATE:2021-03-31 00:00:00 buy 0.0 at 28802.529296875 balance:4802.48837421875
+DATE:2021-03-31 00:00:00 sell 0.0 at 28802.529296875 balance:4802.48837421875
+DATE:2021-04-07 00:00:00 buy 0.0 at 29101.400390625 balance:4802.48837421875
+DATE:2021-04-08 00:00:00 sell 0.0 at 28604.119140625 balance:4802.48837421875
+DATE:2021-04-12 00:00:00 buy 0.0 at 28791.970703125 balance:4802.48837421875
+DATE:2021-04-13 00:00:00 buy 0.0 at 28557.83984375 balance:4802.48837421875
+DATE:2021-04-13 00:00:00 sell 0.0 at 28557.83984375 balance:4802.48837421875
+DATE:2021-04-14 00:00:00 buy 0.0 at 28796.55078125 balance:4802.48837421875
+DATE:2021-04-15 00:00:00 buy 0.0 at 28872.8203125 balance:4802.48837421875
+DATE:2021-04-15 00:00:00 sell 0.0 at 28872.8203125 balance:4802.48837421875
+DATE:2021-04-16 00:00:00 buy 0.0 at 28827.169921875 balance:4802.48837421875
+DATE:2021-04-19 00:00:00 sell 0.0 at 28960.130859375 balance:4802.48837421875
+DATE:2021-04-21 00:00:00 buy 0.0 at 28702.26953125 balance:4802.48837421875
+DATE:2021-04-22 00:00:00 buy 0.0 at 28716.98046875 balance:4802.48837421875
+DATE:2021-04-22 00:00:00 sell 0.0 at 28716.98046875 balance:4802.48837421875
+DATE:2021-05-03 00:00:00 buy 0.0 at 28659.91015625 balance:4802.48837421875
+DATE:2021-05-04 00:00:00 buy 0.0 at 28438.150390625 balance:4802.48837421875
+DATE:2021-05-04 00:00:00 sell 0.0 at 28438.150390625 balance:4802.48837421875
+DATE:2021-05-05 00:00:00 buy 0.0 at 28427.669921875 balance:4802.48837421875
+DATE:2021-05-06 00:00:00 sell 0.0 at 28647.970703125 balance:4802.48837421875
+DATE:2021-05-11 00:00:00 buy 0.0 at 28286.560546875 balance:4802.48837421875
+DATE:2021-05-12 00:00:00 sell 0.0 at 28073.919921875 balance:4802.48837421875
+DATE:2021-05-13 00:00:00 buy 0.0 at 27920.009765625 balance:4802.48837421875
+DATE:2021-05-14 00:00:00 buy 0.0 at 27872.689453125 balance:4802.48837421875
+DATE:2021-05-14 00:00:00 sell 0.0 at 27872.689453125 balance:4802.48837421875
+DATE:2021-05-17 00:00:00 buy 0.0 at 28130.509765625 balance:4802.48837421875
+DATE:2021-05-18 00:00:00 sell 0.0 at 28438.029296875 balance:4802.48837421875
+DATE:2021-05-21 00:00:00 buy 0.0 at 28584.33984375 balance:4802.48837421875
+DATE:2021-05-24 00:00:00 buy 0.0 at 28417.990234375 balance:4802.48837421875
+DATE:2021-05-24 00:00:00 sell 0.0 at 28417.990234375 balance:4802.48837421875
+DATE:2021-05-25 00:00:00 buy 0.0 at 28461.5 balance:4802.48837421875
+DATE:2021-05-26 00:00:00 sell 0.0 at 29056.279296875 balance:4802.48837421875
+DATE:2021-05-27 00:00:00 buy 0.0 at 28998.390625 balance:4802.48837421875
+DATE:2021-05-28 00:00:00 buy 0.0 at 29219.4609375 balance:4802.48837421875
+DATE:2021-05-28 00:00:00 sell 0.0 at 29219.4609375 balance:4802.48837421875
+DATE:2021-06-07 00:00:00 buy 0.0 at 28985.599609375 balance:4802.48837421875
+DATE:2021-06-08 00:00:00 buy 0.0 at 28900.51953125 balance:4802.48837421875
+DATE:2021-06-08 00:00:00 sell 0.0 at 28900.51953125 balance:4802.48837421875
+DATE:2021-06-09 00:00:00 buy 0.0 at 28771.140625 balance:4802.48837421875
+DATE:2021-06-10 00:00:00 buy 0.0 at 28792.01953125 balance:4802.48837421875
+DATE:2021-06-10 00:00:00 sell 0.0 at 28792.01953125 balance:4802.48837421875
+DATE:2021-06-15 00:00:00 buy 0.0 at 28946.439453125 balance:4802.48837421875
+DATE:2021-06-16 00:00:00 buy 0.0 at 28609.369140625 balance:4802.48837421875
+DATE:2021-06-16 00:00:00 sell 0.0 at 28609.369140625 balance:4802.48837421875
+DATE:2021-06-21 00:00:00 buy 0.0 at 28501.640625 balance:4802.48837421875
+DATE:2021-06-22 00:00:00 buy 0.0 at 28575.16015625 balance:4802.48837421875
+DATE:2021-06-22 00:00:00 sell 0.0 at 28575.16015625 balance:4802.48837421875
+DATE:2021-06-23 00:00:00 buy 0.0 at 28468.240234375 balance:4802.48837421875
+DATE:2021-06-24 00:00:00 buy 0.0 at 28865.4609375 balance:4802.48837421875
+DATE:2021-06-24 00:00:00 sell 0.0 at 28865.4609375 balance:4802.48837421875
+DATE:2021-07-08 00:00:00 buy 0.0 at 27881.5 balance:4802.48837421875
+DATE:2021-07-09 00:00:00 buy 0.0 at 27131.5703125 balance:4802.48837421875
+DATE:2021-07-09 00:00:00 sell 0.0 at 27131.5703125 balance:4802.48837421875
+DATE:2021-07-12 00:00:00 buy 0.0 at 27672.69921875 balance:4802.48837421875
+DATE:2021-07-13 00:00:00 buy 0.0 at 27694.029296875 balance:4802.48837421875
+DATE:2021-07-13 00:00:00 sell 0.0 at 27694.029296875 balance:4802.48837421875
+DATE:2021-07-14 00:00:00 buy 0.0 at 27965.390625 balance:4802.48837421875
+DATE:2021-07-15 00:00:00 sell 0.0 at 27801.400390625 balance:4802.48837421875
+DATE:2021-07-20 00:00:00 buy 0.0 at 27395.830078125 balance:4802.48837421875
+DATE:2021-07-21 00:00:00 buy 0.0 at 27339.220703125 balance:4802.48837421875
+DATE:2021-07-21 00:00:00 sell 0.0 at 27339.220703125 balance:4802.48837421875
+DATE:2021-07-27 00:00:00 buy 0.0 at 26011.509765625 balance:4802.48837421875
+DATE:2021-07-28 00:00:00 buy 0.0 at 25356.740234375 balance:4802.48837421875
+DATE:2021-07-30 00:00:00 buy 0.0 at 26042.83984375 balance:4802.48837421875
+DATE:2021-08-04 00:00:00 sell 0.0 at 26161.830078125 balance:4802.48837421875
+DATE:2021-08-05 00:00:00 buy 0.0 at 26390.009765625 balance:4802.48837421875
+DATE:2021-08-06 00:00:00 buy 0.0 at 26262.970703125 balance:4802.48837421875
+DATE:2021-08-09 00:00:00 buy 0.0 at 25969.23046875 balance:4802.48837421875
+DATE:2021-08-10 00:00:00 sell 0.0 at 26456.609375 balance:4802.48837421875
+DATE:2021-08-20 00:00:00 buy 0.0 at 25241.3203125 balance:4802.48837421875
+DATE:2021-08-23 00:00:00 buy 0.0 at 25169.44921875 balance:4802.48837421875
+DATE:2021-08-26 00:00:00 buy 0.0 at 25673.779296875 balance:4802.48837421875
+DATE:2021-08-27 00:00:00 buy 0.0 at 25337.55078125 balance:4802.48837421875
+DATE:2021-08-30 00:00:00 buy 0.0 at 25406.490234375 balance:4802.48837421875
+DATE:2021-08-31 00:00:00 buy 0.0 at 25524.23046875 balance:4802.48837421875
+DATE:2021-09-02 00:00:00 buy 0.0 at 26203.51953125 balance:4802.48837421875
+DATE:2021-09-03 00:00:00 buy 0.0 at 26022.669921875 balance:4802.48837421875
+DATE:2021-09-06 00:00:00 buy 0.0 at 25827.169921875 balance:4802.48837421875
+DATE:2021-09-09 00:00:00 buy 0.0 at 26076.9296875 balance:4802.48837421875
+DATE:2021-09-20 00:00:00 buy 0.0 at 24640.4296875 balance:4802.48837421875
+DATE:2021-09-24 00:00:00 buy 0.0 at 24487.240234375 balance:4802.48837421875
+DATE:2021-09-27 00:00:00 buy 0.0 at 24131.419921875 balance:4802.48837421875
+DATE:2021-09-28 00:00:00 buy 0.0 at 24323.0 balance:4802.48837421875
+DATE:2021-10-04 00:00:00 buy 0.0 at 24478.6796875 balance:4802.48837421875
+DATE:2021-10-05 00:00:00 buy 0.0 at 23771.650390625 balance:4802.48837421875
+DATE:2021-10-06 00:00:00 buy 0.0 at 24259.19921875 balance:4802.48837421875
+DATE:2021-10-07 00:00:00 buy 0.0 at 24339.3203125 balance:4802.48837421875
+DATE:2021-10-08 00:00:00 buy 0.0 at 25064.80078125 balance:4802.48837421875
+DATE:2021-10-11 00:00:00 buy 0.0 at 25161.80078125 balance:4802.48837421875
+DATE:2021-10-12 00:00:00 buy 0.0 at 24995.94921875 balance:4802.48837421875
+DATE:2021-10-15 00:00:00 buy 0.0 at 25187.05078125 balance:4802.48837421875
+DATE:2021-10-18 00:00:00 buy 0.0 at 25425.3203125 balance:4802.48837421875
+DATE:2021-10-19 00:00:00 buy 0.0 at 25471.25 balance:4802.48837421875
+DATE:2021-10-21 00:00:00 buy 0.0 at 26141.849609375 balance:4802.48837421875
+DATE:2021-11-08 00:00:00 buy 0.0 at 24743.5390625 balance:4802.48837421875
+DATE:2021-11-09 00:00:00 buy 0.0 at 24952.8203125 balance:4802.48837421875
+DATE:2021-11-10 00:00:00 buy 0.0 at 24787.439453125 balance:4802.48837421875
+DATE:2021-11-11 00:00:00 buy 0.0 at 24856.109375 balance:4802.48837421875
+DATE:2021-11-12 00:00:00 buy 0.0 at 25522.830078125 balance:4802.48837421875
+DATE:2021-11-30 00:00:00 buy 0.0 at 23782.859375 balance:4802.48837421875
+DATE:2021-12-01 00:00:00 buy 0.0 at 23595.5703125 balance:4802.48837421875
+DATE:2021-12-03 00:00:00 buy 0.0 at 23675.259765625 balance:4802.48837421875
+DATE:2021-12-06 00:00:00 buy 0.0 at 23420.439453125 balance:4802.48837421875
+DATE:2021-12-07 00:00:00 buy 0.0 at 23704.509765625 balance:4802.48837421875
+DATE:2021-12-08 00:00:00 buy 0.0 at 24090.01953125 balance:4802.48837421875
+DATE:2021-12-17 00:00:00 sell 0.0 at 23463.779296875 balance:4802.48837421875
+DATE:2021-12-20 00:00:00 buy 0.0 at 23079.830078125 balance:4802.48837421875
+DATE:2021-12-21 00:00:00 buy 0.0 at 22795.5703125 balance:4802.48837421875
+DATE:2021-12-22 00:00:00 buy 0.0 at 23221.130859375 balance:4802.48837421875
+DATE:2021-12-23 00:00:00 buy 0.0 at 23141.7890625 balance:4802.48837421875
+DATE:2021-12-24 00:00:00 buy 0.0 at 23375.990234375 balance:4802.48837421875
+DATE:2021-12-24 00:00:00 sell 0.0 at 23375.990234375 balance:4802.48837421875
+DATE:2021-12-28 00:00:00 buy 0.0 at 23282.349609375 balance:4802.48837421875
+DATE:2021-12-29 00:00:00 buy 0.0 at 23253.98046875 balance:4802.48837421875
+DATE:2021-12-30 00:00:00 buy 0.0 at 23130.44921875 balance:4802.48837421875
+DATE:2021-12-31 00:00:00 sell 0.0 at 23553.7890625 balance:4802.48837421875
+DATE:2022-01-03 00:00:00 buy 0.0 at 23510.5390625 balance:4802.48837421875
+DATE:2022-01-04 00:00:00 buy 0.0 at 23400.619140625 balance:4802.48837421875
+DATE:2022-01-05 00:00:00 buy 0.0 at 23323.76953125 balance:4802.48837421875
+DATE:2022-01-06 00:00:00 buy 0.0 at 22843.19921875 balance:4802.48837421875
+DATE:2022-01-07 00:00:00 buy 0.0 at 23318.919921875 balance:4802.48837421875
+DATE:2022-01-07 00:00:00 sell 0.0 at 23318.919921875 balance:4802.48837421875
+DATE:2022-01-10 00:00:00 buy 0.0 at 23523.900390625 balance:4802.48837421875
+DATE:2022-01-11 00:00:00 buy 0.0 at 23678.689453125 balance:4802.48837421875
+DATE:2022-01-17 00:00:00 buy 0.0 at 24390.2890625 balance:4802.48837421875
+DATE:2022-01-18 00:00:00 buy 0.0 at 24274.75 balance:4802.48837421875
+DATE:2022-01-19 00:00:00 buy 0.0 at 24229.779296875 balance:4802.48837421875
+DATE:2022-01-28 00:00:00 buy 0.0 at 23818.939453125 balance:4802.48837421875
+DATE:2022-01-31 00:00:00 buy 0.0 at 23624.140625 balance:4802.48837421875
+DATE:2022-02-07 00:00:00 buy 0.0 at 24609.4296875 balance:4802.48837421875
+DATE:2022-02-08 00:00:00 buy 0.0 at 24548.05078125 balance:4802.48837421875
+DATE:2022-02-09 00:00:00 buy 0.0 at 24727.33984375 balance:4802.48837421875
+DATE:2022-02-25 00:00:00 buy 0.0 at 22908.099609375 balance:4802.48837421875
+DATE:2022-02-25 00:00:00 sell 0.0 at 22908.099609375 balance:4802.48837421875
+DATE:2022-03-04 00:00:00 sell 0 at 21879.130859375 balance:4802.48837421875
+DATE:2022-03-11 00:00:00 sell 0 at 20460.029296875 balance:4802.48837421875
+DATE:2022-03-14 00:00:00 buy 0.0 at 20203.83984375 balance:4802.48837421875
+DATE:2022-03-15 00:00:00 buy 0.0 at 18931.1796875 balance:4802.48837421875
+DATE:2022-03-16 00:00:00 buy 0.0 at 18956.01953125 balance:4802.48837421875
+DATE:2022-03-18 00:00:00 buy 0.0 at 21232.880859375 balance:4802.48837421875
+DATE:2022-03-18 00:00:00 sell 0.0 at 21232.880859375 balance:4802.48837421875
+DATE:2022-03-21 00:00:00 buy 0.0 at 21823.0703125 balance:4802.48837421875
+DATE:2022-03-25 00:00:00 buy 0.0 at 21735.609375 balance:4802.48837421875
+DATE:2022-03-25 00:00:00 sell 0.0 at 21735.609375 balance:4802.48837421875
+DATE:2022-03-28 00:00:00 buy 0.0 at 21422.19921875 balance:4802.48837421875
+DATE:2022-03-29 00:00:00 buy 0.0 at 21771.2890625 balance:4802.48837421875
+DATE:2022-03-31 00:00:00 buy 0.0 at 22262.16015625 balance:4802.48837421875
+DATE:2022-04-01 00:00:00 buy 0.0 at 21693.099609375 balance:4802.48837421875
+DATE:2022-04-01 00:00:00 sell 0.0 at 21693.099609375 balance:4802.48837421875
+DATE:2022-04-08 00:00:00 sell 0 at 21667.529296875 balance:4802.48837421875
+DATE:2022-04-11 00:00:00 buy 0.0 at 21688.029296875 balance:4802.48837421875
+DATE:2022-04-12 00:00:00 buy 0.0 at 21279.1796875 balance:4802.48837421875
+DATE:2022-04-13 00:00:00 buy 0.0 at 21192.619140625 balance:4802.48837421875
+DATE:2022-04-14 00:00:00 buy 0.0 at 21463.349609375 balance:4802.48837421875
+DATE:2022-04-22 00:00:00 sell 0.0 at 20261.609375 balance:4802.48837421875
+DATE:2022-04-25 00:00:00 buy 0.0 at 20284.599609375 balance:4802.48837421875
+DATE:2022-04-26 00:00:00 buy 0.0 at 19989.0390625 balance:4802.48837421875
+DATE:2022-04-27 00:00:00 buy 0.0 at 19723.4609375 balance:4802.48837421875
+DATE:2022-04-28 00:00:00 buy 0.0 at 20118.7890625 balance:4802.48837421875
+DATE:2022-04-29 00:00:00 buy 0.0 at 20271.400390625 balance:4802.48837421875
+DATE:2022-04-29 00:00:00 sell 0.0 at 20271.400390625 balance:4802.48837421875
+DATE:2022-05-06 00:00:00 sell 0 at 20287.060546875 balance:4802.48837421875
+DATE:2022-05-10 00:00:00 buy 0.0 at 19300.6796875 balance:4802.48837421875
+DATE:2022-05-11 00:00:00 buy 0.0 at 19511.80078125 balance:4802.48837421875
+DATE:2022-05-12 00:00:00 buy 0.0 at 19556.890625 balance:4802.48837421875
+DATE:2022-05-13 00:00:00 buy 0.0 at 19615.990234375 balance:4802.48837421875
+DATE:2022-05-13 00:00:00 sell 0.0 at 19615.990234375 balance:4802.48837421875
+DATE:2022-05-16 00:00:00 buy 0.0 at 20131.529296875 balance:4802.48837421875
+DATE:2022-05-17 00:00:00 buy 0.0 at 20193.599609375 balance:4802.48837421875
+DATE:2022-05-18 00:00:00 buy 0.0 at 20674.23046875 balance:4802.48837421875
+DATE:2022-05-19 00:00:00 buy 0.0 at 20146.9609375 balance:4802.48837421875
+DATE:2022-05-20 00:00:00 sell 0.0 at 20470.94921875 balance:4802.48837421875
+DATE:2022-05-23 00:00:00 buy 0.0 at 20608.650390625 balance:4802.48837421875
+DATE:2022-05-24 00:00:00 buy 0.0 at 20420.140625 balance:4802.48837421875
+DATE:2022-05-25 00:00:00 buy 0.0 at 20115.560546875 balance:4802.48837421875
+DATE:2022-05-26 00:00:00 buy 0.0 at 20272.220703125 balance:4802.48837421875
+DATE:2022-05-27 00:00:00 buy 0.0 at 20646.060546875 balance:4802.48837421875
+DATE:2022-05-27 00:00:00 sell 0.0 at 20646.060546875 balance:4802.48837421875
+DATE:2022-06-02 00:00:00 buy 0.0 at 21057.0390625 balance:4802.48837421875
+DATE:2022-06-06 00:00:00 buy 0.0 at 21282.509765625 balance:4802.48837421875
+DATE:2022-06-07 00:00:00 buy 0.0 at 21577.48046875 balance:4802.48837421875
+DATE:2022-06-10 00:00:00 sell 0.0 at 21522.5 balance:4802.48837421875
+DATE:2022-06-13 00:00:00 buy 0.0 at 21162.529296875 balance:4802.48837421875
+DATE:2022-06-14 00:00:00 buy 0.0 at 20783.5390625 balance:4802.48837421875
+DATE:2022-06-16 00:00:00 buy 0.0 at 21515.640625 balance:4802.48837421875
+DATE:2022-06-17 00:00:00 buy 0.0 at 20716.740234375 balance:4802.48837421875
+DATE:2022-06-17 00:00:00 sell 0.0 at 20716.740234375 balance:4802.48837421875
+DATE:2022-06-20 00:00:00 buy 0.0 at 20948.80078125 balance:4802.48837421875
+DATE:2022-06-21 00:00:00 buy 0.0 at 21264.98046875 balance:4802.48837421875
+DATE:2022-06-22 00:00:00 buy 0.0 at 21469.740234375 balance:4802.48837421875
+DATE:2022-06-23 00:00:00 buy 0.0 at 21157.580078125 balance:4802.48837421875
+DATE:2022-06-24 00:00:00 buy 0.0 at 21450.6796875 balance:4802.48837421875
+DATE:2022-06-24 00:00:00 sell 0.0 at 21450.6796875 balance:4802.48837421875
+DATE:2022-07-06 00:00:00 buy 0.0 at 21777.640625 balance:4802.48837421875
+DATE:2022-07-08 00:00:00 sell 0.0 at 21961.75 balance:4802.48837421875
+DATE:2022-07-14 00:00:00 buy 0.0 at 20818.26953125 balance:4802.48837421875
+DATE:2022-07-15 00:00:00 buy 0.0 at 20522.109375 balance:4802.48837421875
+DATE:2022-07-15 00:00:00 sell 0.0 at 20522.109375 balance:4802.48837421875
+DATE:2022-07-22 00:00:00 buy 0.0 at 20717.470703125 balance:4802.48837421875
+DATE:2022-07-22 00:00:00 sell 0.0 at 20717.470703125 balance:4802.48837421875
+DATE:2022-07-29 00:00:00 sell 0 at 20647.44921875 balance:4802.48837421875
+DATE:2022-08-01 00:00:00 buy 0.0 at 20026.599609375 balance:4802.48837421875
+DATE:2022-08-02 00:00:00 buy 0.0 at 19943.16015625 balance:4802.48837421875
+DATE:2022-08-03 00:00:00 buy 0.0 at 19865.689453125 balance:4802.48837421875
+DATE:2022-08-05 00:00:00 sell 0.0 at 20283.58984375 balance:4802.48837421875
+DATE:2022-08-08 00:00:00 buy 0.0 at 20065.349609375 balance:4802.48837421875
+DATE:2022-08-09 00:00:00 buy 0.0 at 20039.30078125 balance:4802.48837421875
+DATE:2022-08-10 00:00:00 buy 0.0 at 19956.509765625 balance:4802.48837421875
+DATE:2022-08-12 00:00:00 sell 0.0 at 20158.2890625 balance:4802.48837421875
+DATE:2022-08-19 00:00:00 sell 0 at 19656.80078125 balance:4802.48837421875
+DATE:2022-08-22 00:00:00 buy 0.0 at 19572.419921875 balance:4802.48837421875
+DATE:2022-08-23 00:00:00 buy 0.0 at 19644.23046875 balance:4802.48837421875
+DATE:2022-08-24 00:00:00 buy 0.0 at 19542.240234375 balance:4802.48837421875
+DATE:2022-08-25 00:00:00 buy 0.0 at 19418.4609375 balance:4802.48837421875
+DATE:2022-08-26 00:00:00 sell 0.0 at 20138.689453125 balance:4802.48837421875
+DATE:2022-09-02 00:00:00 sell 0 at 19572.470703125 balance:4802.48837421875
+DATE:2022-09-05 00:00:00 buy 0.0 at 19299.08984375 balance:4802.48837421875
+DATE:2022-09-06 00:00:00 buy 0.0 at 19261.69921875 balance:4802.48837421875
+DATE:2022-09-07 00:00:00 buy 0.0 at 18915.869140625 balance:4802.48837421875
+DATE:2022-09-08 00:00:00 buy 0.0 at 19043.83984375 balance:4802.48837421875
+DATE:2022-09-09 00:00:00 sell 0.0 at 18893.650390625 balance:4802.48837421875
+DATE:2022-09-16 00:00:00 buy 0.0 at 18732.439453125 balance:4802.48837421875
+DATE:2022-09-16 00:00:00 sell 0.0 at 18732.439453125 balance:4802.48837421875
+DATE:2022-09-23 00:00:00 sell 0 at 18055.58984375 balance:4802.48837421875
+DATE:2022-09-30 00:00:00 sell 0 at 17165.9296875 balance:4802.48837421875
+DATE:2022-10-03 00:00:00 buy 0.0 at 17050.25 balance:4802.48837421875
+DATE:2022-10-07 00:00:00 sell 0.0 at 17851.619140625 balance:4802.48837421875
+DATE:2022-10-13 00:00:00 buy 0.0 at 16700.650390625 balance:4802.48837421875
+DATE:2022-10-14 00:00:00 buy 0.0 at 16671.6796875 balance:4802.48837421875
+DATE:2022-10-14 00:00:00 sell 0.0 at 16671.6796875 balance:4802.48837421875
+DATE:2022-10-21 00:00:00 sell 0 at 16331.1103515625 balance:4802.48837421875
+DATE:2022-10-28 00:00:00 buy 0.0 at 15424.9404296875 balance:4802.48837421875
+DATE:2022-10-28 00:00:00 sell 0.0 at 15424.9404296875 balance:4802.48837421875
+DATE:2022-10-31 00:00:00 buy 0.0 at 14830.6904296875 balance:4802.48837421875
+DATE:2022-11-01 00:00:00 buy 0.0 at 14859.919921875 balance:4802.48837421875
+DATE:2022-11-02 00:00:00 buy 0.0 at 15389.5498046875 balance:4802.48837421875
+DATE:2022-11-03 00:00:00 buy 0.0 at 15477.740234375 balance:4802.48837421875
+DATE:2022-11-04 00:00:00 buy 0.0 at 15442.759765625 balance:4802.48837421875
+DATE:2022-11-04 00:00:00 sell 0.0 at 15442.759765625 balance:4802.48837421875
+DATE:2022-11-07 00:00:00 buy 0.0 at 16031.7900390625 balance:4802.48837421875
+DATE:2022-11-08 00:00:00 buy 0.0 at 16640.599609375 balance:4802.48837421875
+DATE:2022-11-09 00:00:00 buy 0.0 at 16552.80078125 balance:4802.48837421875
+DATE:2022-11-10 00:00:00 buy 0.0 at 16138.2197265625 balance:4802.48837421875
+DATE:2022-11-11 00:00:00 buy 0.0 at 17120.05078125 balance:4802.48837421875
+DATE:2022-11-11 00:00:00 sell 0.0 at 17120.05078125 balance:4802.48837421875
+DATE:2022-11-14 00:00:00 buy 0.0 at 17999.259765625 balance:4802.48837421875
+DATE:2022-11-18 00:00:00 sell 0.0 at 18316.359375 balance:4802.48837421875
+DATE:2022-11-22 00:00:00 buy 0.0 at 17625.189453125 balance:4802.48837421875
+DATE:2022-11-23 00:00:00 buy 0.0 at 17460.900390625 balance:4802.48837421875
+DATE:2022-11-25 00:00:00 buy 0.0 at 17673.19921875 balance:4802.48837421875
+DATE:2022-11-25 00:00:00 sell 0.0 at 17673.19921875 balance:4802.48837421875
+DATE:2022-11-28 00:00:00 buy 0.0 at 17000.23046875 balance:4802.48837421875
+DATE:2022-11-29 00:00:00 buy 0.0 at 17558.599609375 balance:4802.48837421875
+DATE:2022-11-30 00:00:00 buy 0.0 at 18141.560546875 balance:4802.48837421875
+DATE:2022-12-01 00:00:00 buy 0.0 at 19058.900390625 balance:4802.48837421875
+DATE:2022-12-02 00:00:00 buy 0.0 at 18785.279296875 balance:4802.48837421875
+DATE:2022-12-02 00:00:00 sell 0.0 at 18785.279296875 balance:4802.48837421875
+DATE:2022-12-05 00:00:00 buy 0.0 at 19221.6796875 balance:4802.48837421875
+DATE:2022-12-06 00:00:00 buy 0.0 at 19211.69921875 balance:4802.48837421875
+DATE:2022-12-07 00:00:00 buy 0.0 at 19380.80078125 balance:4802.48837421875
+DATE:2022-12-08 00:00:00 buy 0.0 at 18965.05078125 balance:4802.48837421875
+DATE:2022-12-09 00:00:00 sell 0.0 at 19484.23046875 balance:4802.48837421875
+DATE:2022-12-12 00:00:00 buy 0.0 at 19594.51953125 balance:4802.48837421875
+DATE:2022-12-15 00:00:00 buy 0.0 at 19612.669921875 balance:4802.48837421875
+DATE:2022-12-16 00:00:00 sell 0.0 at 19343.69921875 balance:4802.48837421875
+DATE:2022-12-19 00:00:00 buy 0.0 at 19472.2109375 balance:4802.48837421875
+DATE:2022-12-20 00:00:00 buy 0.0 at 19156.939453125 balance:4802.48837421875
+DATE:2022-12-21 00:00:00 buy 0.0 at 19190.91015625 balance:4802.48837421875
+DATE:2022-12-23 00:00:00 buy 0.0 at 19382.23046875 balance:4802.48837421875
+DATE:2022-12-23 00:00:00 sell 0.0 at 19382.23046875 balance:4802.48837421875
+DATE:2022-12-29 00:00:00 buy 0.0 at 19648.400390625 balance:4802.48837421875
+DATE:2022-12-30 00:00:00 buy 0.0 at 20030.849609375 balance:4802.48837421875
+DATE:2022-12-30 00:00:00 sell 0.0 at 20030.849609375 balance:4802.48837421875
+DATE:2023-01-03 00:00:00 buy 0.0 at 19570.4296875 balance:4802.48837421875
+DATE:2023-01-04 00:00:00 buy 0.0 at 20319.98046875 balance:4802.48837421875
+DATE:2023-01-05 00:00:00 buy 0.0 at 21295.869140625 balance:4802.48837421875
+DATE:2023-01-06 00:00:00 buy 0.0 at 21220.890625 balance:4802.48837421875
+DATE:2023-01-06 00:00:00 sell 0.0 at 21220.890625 balance:4802.48837421875
+DATE:2023-01-09 00:00:00 buy 0.0 at 21295.939453125 balance:4802.48837421875
+DATE:2023-01-10 00:00:00 buy 0.0 at 21370.419921875 balance:4802.48837421875
+DATE:2023-01-11 00:00:00 buy 0.0 at 21463.8203125 balance:4802.48837421875
+DATE:2023-01-12 00:00:00 buy 0.0 at 21599.8203125 balance:4802.48837421875
+DATE:2023-01-13 00:00:00 sell 0.0 at 21605.0703125 balance:4802.48837421875
+DATE:2023-01-16 00:00:00 buy 0.0 at 21818.650390625 balance:4802.48837421875
+DATE:2023-01-17 00:00:00 buy 0.0 at 21678.05078125 balance:4802.48837421875
+DATE:2023-01-18 00:00:00 buy 0.0 at 21514.80078125 balance:4802.48837421875
+DATE:2023-01-19 00:00:00 buy 0.0 at 21452.259765625 balance:4802.48837421875
+DATE:2023-01-20 00:00:00 buy 0.0 at 21812.4609375 balance:4802.48837421875
+DATE:2023-01-20 00:00:00 sell 0.0 at 21812.4609375 balance:4802.48837421875
+DATE:2023-01-27 00:00:00 sell 0 at 22614.919921875 balance:4802.48837421875
+DATE:2023-02-03 00:00:00 sell 0 at 21811.080078125 balance:4802.48837421875
+DATE:2023-02-10 00:00:00 sell 0 at 21559.439453125 balance:4802.48837421875
+DATE:2023-02-17 00:00:00 sell 0 at 20958.630859375 balance:4802.48837421875
+DATE:2023-02-24 00:00:00 sell 0 at 20223.669921875 balance:4802.48837421875
+DATE:2023-02-27 00:00:00 buy 0.0 at 19821.029296875 balance:4802.48837421875
+DATE:2023-02-28 00:00:00 buy 0.0 at 20020.169921875 balance:4802.48837421875
+DATE:2023-03-02 00:00:00 buy 0.0 at 20390.01953125 balance:4802.48837421875
+DATE:2023-03-03 00:00:00 buy 0.0 at 20703.140625 balance:4802.48837421875
+DATE:2023-03-03 00:00:00 sell 0.0 at 20703.140625 balance:4802.48837421875
+DATE:2023-03-10 00:00:00 sell 0 at 19580.779296875 balance:4802.48837421875
+DATE:2023-03-14 00:00:00 buy 0.0 at 19524.509765625 balance:4802.48837421875
+DATE:2023-03-15 00:00:00 buy 0.0 at 19523.490234375 balance:4802.48837421875
+DATE:2023-03-17 00:00:00 sell 0.0 at 19439.83984375 balance:4802.48837421875
+DATE:2023-03-20 00:00:00 buy 0.0 at 19352.900390625 balance:4802.48837421875
+DATE:2023-03-21 00:00:00 buy 0.0 at 19118.869140625 balance:4802.48837421875
+DATE:2023-03-22 00:00:00 buy 0.0 at 19428.359375 balance:4802.48837421875
+DATE:2023-03-24 00:00:00 sell 0.0 at 19919.650390625 balance:4802.48837421875
+DATE:2020-06-02 00:00:00 buy 4.0 at 23792.240234375 balance:4802.48837421875
+DATE:2020-06-03 00:00:00 buy 0.0 at 24303.560546875 balance:4802.48837421875
+DATE:2020-06-04 00:00:00 buy 0.0 at 24643.83984375 balance:4802.48837421875
+DATE:2020-06-05 00:00:00 buy 0.0 at 24388.1796875 balance:4802.48837421875
+DATE:2020-06-12 00:00:00 buy 0.0 at 23920.69921875 balance:4802.48837421875
+DATE:2020-06-15 00:00:00 buy 0.0 at 23991.380859375 balance:4802.48837421875
+DATE:2020-06-16 00:00:00 buy 0.0 at 24318.150390625 balance:4802.48837421875
+DATE:2020-06-17 00:00:00 buy 0.0 at 24363.390625 balance:4802.48837421875
+DATE:2020-06-18 00:00:00 buy 0.0 at 24386.310546875 balance:4802.48837421875
+DATE:2020-06-19 00:00:00 buy 0.0 at 24373.359375 balance:4802.48837421875
+DATE:2020-06-22 00:00:00 buy 0.0 at 24528.529296875 balance:4802.48837421875
+DATE:2020-06-29 00:00:00 buy 0.0 at 24627.640625 balance:4802.48837421875
+DATE:2020-06-30 00:00:00 buy 0.0 at 24468.240234375 balance:4802.48837421875
+DATE:2020-07-02 00:00:00 buy 0.0 at 24563.5703125 balance:4802.48837421875
+DATE:2020-07-03 00:00:00 buy 0.0 at 25319.279296875 balance:4802.48837421875
+DATE:2020-07-16 00:00:00 buy 0.0 at 25549.400390625 balance:4802.48837421875
+DATE:2020-07-17 00:00:00 buy 0.0 at 25142.060546875 balance:4802.48837421875
+DATE:2020-07-24 00:00:00 buy 0.0 at 25040.759765625 balance:4802.48837421875
+DATE:2020-07-27 00:00:00 buy 0.0 at 24909.9609375 balance:4802.48837421875
+DATE:2020-07-31 00:00:00 buy 0.0 at 24747.2890625 balance:4802.48837421875
+DATE:2020-08-03 00:00:00 buy 0.0 at 24566.810546875 balance:4802.48837421875
+DATE:2020-08-07 00:00:00 buy 0.0 at 24909.369140625 balance:4802.48837421875
+DATE:2020-08-10 00:00:00 buy 0.0 at 24376.8203125 balance:4802.48837421875
+DATE:2020-08-11 00:00:00 buy 0.0 at 24662.0390625 balance:4802.48837421875
+DATE:2020-08-13 00:00:00 buy 0.0 at 25490.01953125 balance:4802.48837421875
+DATE:2020-08-14 00:00:00 buy 0.0 at 25072.44921875 balance:4802.48837421875
+DATE:2020-08-20 00:00:00 buy 0.0 at 25055.349609375 balance:4802.48837421875
+DATE:2020-08-21 00:00:00 buy 0.0 at 25007.130859375 balance:4802.48837421875
+DATE:2020-09-09 00:00:00 buy 0.0 at 24295.419921875 balance:4802.48837421875
+DATE:2020-09-10 00:00:00 buy 0.0 at 24584.939453125 balance:4802.48837421875
+DATE:2020-09-11 00:00:00 buy 0.0 at 24352.630859375 balance:4802.48837421875
+DATE:2020-09-24 00:00:00 buy 0.0 at 23537.830078125 balance:4802.48837421875
+DATE:2020-09-25 00:00:00 buy 0.0 at 23425.75 balance:4802.48837421875
+DATE:2020-09-25 00:00:00 sell 0.0 at 23425.75 balance:4802.48837421875
+DATE:2020-09-29 00:00:00 buy 0.0 at 23584.609375 balance:4802.48837421875
+DATE:2020-09-30 00:00:00 buy 0.0 at 23548.890625 balance:4802.48837421875
+DATE:2020-10-05 00:00:00 buy 0.0 at 24039.390625 balance:4802.48837421875
+DATE:2020-10-06 00:00:00 buy 0.0 at 23895.2109375 balance:4802.48837421875
+DATE:2020-10-08 00:00:00 buy 0.0 at 24263.330078125 balance:4802.48837421875
+DATE:2020-10-09 00:00:00 buy 0.0 at 24343.810546875 balance:4802.48837421875
+DATE:2020-10-15 00:00:00 buy 0.0 at 24533.75 balance:4802.48837421875
+DATE:2020-10-16 00:00:00 buy 0.0 at 24194.41015625 balance:4802.48837421875
+DATE:2020-10-19 00:00:00 buy 0.0 at 24565.4296875 balance:4802.48837421875
+DATE:2020-10-20 00:00:00 buy 0.0 at 24571.640625 balance:4802.48837421875
+DATE:2020-10-21 00:00:00 buy 0.0 at 24695.5390625 balance:4802.48837421875
+DATE:2020-10-22 00:00:00 buy 0.0 at 24696.310546875 balance:4802.48837421875
+DATE:2020-10-30 00:00:00 buy 0.0 at 24535.900390625 balance:4802.48837421875
+DATE:2020-11-02 00:00:00 buy 0.0 at 24274.830078125 balance:4802.48837421875
+DATE:2020-11-03 00:00:00 buy 0.0 at 24689.560546875 balance:4802.48837421875
+DATE:2020-11-04 00:00:00 buy 0.0 at 24790.0 balance:4802.48837421875
+DATE:2020-11-05 00:00:00 buy 0.0 at 25500.91015625 balance:4802.48837421875
+DATE:2020-11-06 00:00:00 buy 0.0 at 25750.779296875 balance:4802.48837421875
+DATE:2020-11-09 00:00:00 buy 0.0 at 26157.76953125 balance:4802.48837421875
+DATE:2020-11-12 00:00:00 buy 0.0 at 26409.33984375 balance:4802.48837421875
+DATE:2020-11-13 00:00:00 buy 0.0 at 26114.599609375 balance:4802.48837421875
+DATE:2020-11-16 00:00:00 buy 0.0 at 26362.0703125 balance:4802.48837421875
+DATE:2020-11-17 00:00:00 buy 0.0 at 26515.08984375 balance:4802.48837421875
+DATE:2020-11-17 00:00:00 sell 0.0 at 26515.08984375 balance:4802.48837421875
+DATE:2020-11-19 00:00:00 buy 0.0 at 26460.609375 balance:4802.48837421875
+DATE:2020-11-20 00:00:00 buy 0.0 at 26406.869140625 balance:4802.48837421875
+DATE:2020-11-20 00:00:00 sell 0.0 at 26406.869140625 balance:4802.48837421875
+DATE:2020-11-23 00:00:00 buy 0.0 at 26659.7890625 balance:4802.48837421875
+DATE:2020-11-24 00:00:00 buy 0.0 at 26630.33984375 balance:4802.48837421875
+DATE:2020-11-24 00:00:00 sell 0.0 at 26630.33984375 balance:4802.48837421875
+DATE:2020-11-25 00:00:00 buy 0.0 at 26819.9609375 balance:4802.48837421875
+DATE:2020-11-26 00:00:00 sell 0.0 at 26695.25 balance:4802.48837421875
+DATE:2020-11-30 00:00:00 buy 0.0 at 26853.390625 balance:4802.48837421875
+DATE:2020-12-01 00:00:00 buy 0.0 at 26422.7109375 balance:4802.48837421875
+DATE:2020-12-01 00:00:00 sell 0.0 at 26422.7109375 balance:4802.48837421875
+DATE:2020-12-02 00:00:00 buy 0.0 at 26670.119140625 balance:4802.48837421875
+DATE:2020-12-03 00:00:00 sell 0.0 at 26623.419921875 balance:4802.48837421875
+DATE:2020-12-07 00:00:00 buy 0.0 at 26870.580078125 balance:4802.48837421875
+DATE:2020-12-08 00:00:00 buy 0.0 at 26460.349609375 balance:4802.48837421875
+DATE:2020-12-09 00:00:00 buy 0.0 at 26510.419921875 balance:4802.48837421875
+DATE:2020-12-09 00:00:00 sell 0.0 at 26510.419921875 balance:4802.48837421875
+DATE:2020-12-14 00:00:00 buy 0.0 at 26522.099609375 balance:4802.48837421875
+DATE:2020-12-15 00:00:00 buy 0.0 at 26418.9296875 balance:4802.48837421875
+DATE:2020-12-16 00:00:00 buy 0.0 at 26421.2109375 balance:4802.48837421875
+DATE:2020-12-16 00:00:00 sell 0.0 at 26421.2109375 balance:4802.48837421875
+DATE:2020-12-21 00:00:00 buy 0.0 at 26422.619140625 balance:4802.48837421875
+DATE:2020-12-22 00:00:00 buy 0.0 at 26260.779296875 balance:4802.48837421875
+DATE:2020-12-23 00:00:00 buy 0.0 at 26083.109375 balance:4802.48837421875
+DATE:2020-12-28 00:00:00 buy 0.0 at 26288.369140625 balance:4802.48837421875
+DATE:2020-12-29 00:00:00 buy 0.0 at 26490.44921875 balance:4802.48837421875
+DATE:2020-12-29 00:00:00 sell 0.0 at 26490.44921875 balance:4802.48837421875
+DATE:2020-12-30 00:00:00 buy 0.0 at 26695.109375 balance:4802.48837421875
+DATE:2020-12-31 00:00:00 buy 0.0 at 27194.7890625 balance:4802.48837421875
+DATE:2020-12-31 00:00:00 sell 0.0 at 27194.7890625 balance:4802.48837421875
+DATE:2021-01-04 00:00:00 buy 0.0 at 27087.130859375 balance:4802.48837421875
+DATE:2021-01-05 00:00:00 buy 0.0 at 27281.33984375 balance:4802.48837421875
+DATE:2021-01-05 00:00:00 sell 0.0 at 27281.33984375 balance:4802.48837421875
+DATE:2021-01-06 00:00:00 buy 0.0 at 27613.33984375 balance:4802.48837421875
+DATE:2021-01-07 00:00:00 buy 0.0 at 27715.939453125 balance:4802.48837421875
+DATE:2021-01-07 00:00:00 sell 0.0 at 27715.939453125 balance:4802.48837421875
+DATE:2021-01-08 00:00:00 buy 0.0 at 27630.029296875 balance:4802.48837421875
+DATE:2021-01-11 00:00:00 buy 0.0 at 28003.98046875 balance:4802.48837421875
+DATE:2021-01-11 00:00:00 sell 0.0 at 28003.98046875 balance:4802.48837421875
+DATE:2021-01-12 00:00:00 buy 0.0 at 27894.2890625 balance:4802.48837421875
+DATE:2021-01-13 00:00:00 buy 0.0 at 28309.3203125 balance:4802.48837421875
+DATE:2021-01-13 00:00:00 sell 0.0 at 28309.3203125 balance:4802.48837421875
+DATE:2021-01-14 00:00:00 buy 0.0 at 28408.119140625 balance:4802.48837421875
+DATE:2021-01-15 00:00:00 buy 0.0 at 28394.369140625 balance:4802.48837421875
+DATE:2021-01-15 00:00:00 sell 0.0 at 28394.369140625 balance:4802.48837421875
+DATE:2021-01-18 00:00:00 buy 0.0 at 28454.58984375 balance:4802.48837421875
+DATE:2021-01-19 00:00:00 sell 0.0 at 29100.169921875 balance:4802.48837421875
+DATE:2021-01-21 00:00:00 buy 0.0 at 29951.779296875 balance:4802.48837421875
+DATE:2021-01-22 00:00:00 buy 0.0 at 29809.23046875 balance:4802.48837421875
+DATE:2021-01-22 00:00:00 sell 0.0 at 29809.23046875 balance:4802.48837421875
+DATE:2021-01-28 00:00:00 buy 0.0 at 28914.849609375 balance:4802.48837421875
+DATE:2021-01-29 00:00:00 buy 0.0 at 28826.1796875 balance:4802.48837421875
+DATE:2021-01-29 00:00:00 sell 0.0 at 28826.1796875 balance:4802.48837421875
+DATE:2021-02-01 00:00:00 buy 0.0 at 28457.849609375 balance:4802.48837421875
+DATE:2021-02-02 00:00:00 buy 0.0 at 29378.119140625 balance:4802.48837421875
+DATE:2021-02-02 00:00:00 sell 0.0 at 29378.119140625 balance:4802.48837421875
+DATE:2021-02-04 00:00:00 buy 0.0 at 29093.5390625 balance:4802.48837421875
+DATE:2021-02-05 00:00:00 buy 0.0 at 29305.08984375 balance:4802.48837421875
+DATE:2021-02-05 00:00:00 sell 0.0 at 29305.08984375 balance:4802.48837421875
+DATE:2021-02-08 00:00:00 buy 0.0 at 29629.080078125 balance:4802.48837421875
+DATE:2021-02-09 00:00:00 buy 0.0 at 29442.5 balance:4802.48837421875
+DATE:2021-02-09 00:00:00 sell 0.0 at 29442.5 balance:4802.48837421875
+DATE:2021-02-10 00:00:00 buy 0.0 at 29796.189453125 balance:4802.48837421875
+DATE:2021-02-11 00:00:00 sell 0.0 at 29995.279296875 balance:4802.48837421875
+DATE:2021-02-19 00:00:00 buy 0.0 at 30483.4609375 balance:4802.48837421875
+DATE:2021-02-22 00:00:00 sell 0.0 at 31071.609375 balance:4802.48837421875
+DATE:2021-02-26 00:00:00 buy 0.0 at 29412.130859375 balance:4802.48837421875
+DATE:2021-03-01 00:00:00 sell 0.0 at 29457.890625 balance:4802.48837421875
+DATE:2021-03-02 00:00:00 buy 0.0 at 29708.390625 balance:4802.48837421875
+DATE:2021-03-03 00:00:00 sell 0.0 at 29249.4296875 balance:4802.48837421875
+DATE:2021-03-08 00:00:00 buy 0.0 at 29362.58984375 balance:4802.48837421875
+DATE:2021-03-09 00:00:00 buy 0.0 at 28665.259765625 balance:4802.48837421875
+DATE:2021-03-09 00:00:00 sell 0.0 at 28665.259765625 balance:4802.48837421875
+DATE:2021-03-12 00:00:00 buy 0.0 at 29550.369140625 balance:4802.48837421875
+DATE:2021-03-15 00:00:00 buy 0.0 at 28923.94921875 balance:4802.48837421875
+DATE:2021-03-15 00:00:00 sell 0.0 at 28923.94921875 balance:4802.48837421875
+DATE:2021-03-24 00:00:00 buy 0.0 at 28437.490234375 balance:4802.48837421875
+DATE:2021-03-25 00:00:00 buy 0.0 at 27628.080078125 balance:4802.48837421875
+DATE:2021-03-25 00:00:00 sell 0.0 at 27628.080078125 balance:4802.48837421875
+DATE:2021-03-26 00:00:00 buy 0.0 at 28043.650390625 balance:4802.48837421875
+DATE:2021-03-29 00:00:00 buy 0.0 at 28317.3203125 balance:4802.48837421875
+DATE:2021-03-29 00:00:00 sell 0.0 at 28317.3203125 balance:4802.48837421875
+DATE:2021-03-30 00:00:00 buy 0.0 at 28552.76953125 balance:4802.48837421875
+DATE:2021-03-31 00:00:00 buy 0.0 at 28802.529296875 balance:4802.48837421875
+DATE:2021-03-31 00:00:00 sell 0.0 at 28802.529296875 balance:4802.48837421875
+DATE:2021-04-07 00:00:00 buy 0.0 at 29101.400390625 balance:4802.48837421875
+DATE:2021-04-08 00:00:00 sell 0.0 at 28604.119140625 balance:4802.48837421875
+DATE:2021-04-12 00:00:00 buy 0.0 at 28791.970703125 balance:4802.48837421875
+DATE:2021-04-13 00:00:00 buy 0.0 at 28557.83984375 balance:4802.48837421875
+DATE:2021-04-13 00:00:00 sell 0.0 at 28557.83984375 balance:4802.48837421875
+DATE:2021-04-14 00:00:00 buy 0.0 at 28796.55078125 balance:4802.48837421875
+DATE:2021-04-15 00:00:00 buy 0.0 at 28872.8203125 balance:4802.48837421875
+DATE:2021-04-15 00:00:00 sell 0.0 at 28872.8203125 balance:4802.48837421875
+DATE:2021-04-16 00:00:00 buy 0.0 at 28827.169921875 balance:4802.48837421875
+DATE:2021-04-19 00:00:00 sell 0.0 at 28960.130859375 balance:4802.48837421875
+DATE:2021-04-21 00:00:00 buy 0.0 at 28702.26953125 balance:4802.48837421875
+DATE:2021-04-22 00:00:00 buy 0.0 at 28716.98046875 balance:4802.48837421875
+DATE:2021-04-22 00:00:00 sell 0.0 at 28716.98046875 balance:4802.48837421875
+DATE:2021-05-03 00:00:00 buy 0.0 at 28659.91015625 balance:4802.48837421875
+DATE:2021-05-04 00:00:00 buy 0.0 at 28438.150390625 balance:4802.48837421875
+DATE:2021-05-04 00:00:00 sell 0.0 at 28438.150390625 balance:4802.48837421875
+DATE:2021-05-05 00:00:00 buy 0.0 at 28427.669921875 balance:4802.48837421875
+DATE:2021-05-06 00:00:00 sell 0.0 at 28647.970703125 balance:4802.48837421875
+DATE:2021-05-11 00:00:00 buy 0.0 at 28286.560546875 balance:4802.48837421875
+DATE:2021-05-12 00:00:00 sell 0.0 at 28073.919921875 balance:4802.48837421875
+DATE:2021-05-13 00:00:00 buy 0.0 at 27920.009765625 balance:4802.48837421875
+DATE:2021-05-14 00:00:00 buy 0.0 at 27872.689453125 balance:4802.48837421875
+DATE:2021-05-14 00:00:00 sell 0.0 at 27872.689453125 balance:4802.48837421875
+DATE:2021-05-17 00:00:00 buy 0.0 at 28130.509765625 balance:4802.48837421875
+DATE:2021-05-18 00:00:00 sell 0.0 at 28438.029296875 balance:4802.48837421875
+DATE:2021-05-21 00:00:00 buy 0.0 at 28584.33984375 balance:4802.48837421875
+DATE:2021-05-24 00:00:00 buy 0.0 at 28417.990234375 balance:4802.48837421875
+DATE:2021-05-24 00:00:00 sell 0.0 at 28417.990234375 balance:4802.48837421875
+DATE:2021-05-25 00:00:00 buy 0.0 at 28461.5 balance:4802.48837421875
+DATE:2021-05-26 00:00:00 sell 0.0 at 29056.279296875 balance:4802.48837421875
+DATE:2021-05-27 00:00:00 buy 0.0 at 28998.390625 balance:4802.48837421875
+DATE:2021-05-28 00:00:00 buy 0.0 at 29219.4609375 balance:4802.48837421875
+DATE:2021-05-28 00:00:00 sell 0.0 at 29219.4609375 balance:4802.48837421875
+DATE:2021-06-07 00:00:00 buy 0.0 at 28985.599609375 balance:4802.48837421875
+DATE:2021-06-08 00:00:00 buy 0.0 at 28900.51953125 balance:4802.48837421875
+DATE:2021-06-08 00:00:00 sell 0.0 at 28900.51953125 balance:4802.48837421875
+DATE:2021-06-09 00:00:00 buy 0.0 at 28771.140625 balance:4802.48837421875
+DATE:2021-06-10 00:00:00 buy 0.0 at 28792.01953125 balance:4802.48837421875
+DATE:2021-06-10 00:00:00 sell 0.0 at 28792.01953125 balance:4802.48837421875
+DATE:2021-06-15 00:00:00 buy 0.0 at 28946.439453125 balance:4802.48837421875
+DATE:2021-06-16 00:00:00 buy 0.0 at 28609.369140625 balance:4802.48837421875
+DATE:2021-06-16 00:00:00 sell 0.0 at 28609.369140625 balance:4802.48837421875
+DATE:2021-06-21 00:00:00 buy 0.0 at 28501.640625 balance:4802.48837421875
+DATE:2021-06-22 00:00:00 buy 0.0 at 28575.16015625 balance:4802.48837421875
+DATE:2021-06-22 00:00:00 sell 0.0 at 28575.16015625 balance:4802.48837421875
+DATE:2021-06-23 00:00:00 buy 0.0 at 28468.240234375 balance:4802.48837421875
+DATE:2021-06-24 00:00:00 buy 0.0 at 28865.4609375 balance:4802.48837421875
+DATE:2021-06-24 00:00:00 sell 0.0 at 28865.4609375 balance:4802.48837421875
+DATE:2021-07-08 00:00:00 buy 0.0 at 27881.5 balance:4802.48837421875
+DATE:2021-07-09 00:00:00 buy 0.0 at 27131.5703125 balance:4802.48837421875
+DATE:2021-07-09 00:00:00 sell 0.0 at 27131.5703125 balance:4802.48837421875
+DATE:2021-07-12 00:00:00 buy 0.0 at 27672.69921875 balance:4802.48837421875
+DATE:2021-07-13 00:00:00 buy 0.0 at 27694.029296875 balance:4802.48837421875
+DATE:2021-07-13 00:00:00 sell 0.0 at 27694.029296875 balance:4802.48837421875
+DATE:2021-07-14 00:00:00 buy 0.0 at 27965.390625 balance:4802.48837421875
+DATE:2021-07-15 00:00:00 sell 0.0 at 27801.400390625 balance:4802.48837421875
+DATE:2021-07-20 00:00:00 buy 0.0 at 27395.830078125 balance:4802.48837421875
+DATE:2021-07-21 00:00:00 buy 0.0 at 27339.220703125 balance:4802.48837421875
+DATE:2021-07-21 00:00:00 sell 0.0 at 27339.220703125 balance:4802.48837421875
+DATE:2021-07-27 00:00:00 buy 0.0 at 26011.509765625 balance:4802.48837421875
+DATE:2021-07-28 00:00:00 buy 0.0 at 25356.740234375 balance:4802.48837421875
+DATE:2021-07-30 00:00:00 buy 0.0 at 26042.83984375 balance:4802.48837421875
+DATE:2021-08-04 00:00:00 sell 0.0 at 26161.830078125 balance:4802.48837421875
+DATE:2021-08-05 00:00:00 buy 0.0 at 26390.009765625 balance:4802.48837421875
+DATE:2021-08-06 00:00:00 buy 0.0 at 26262.970703125 balance:4802.48837421875
+DATE:2021-08-09 00:00:00 buy 0.0 at 25969.23046875 balance:4802.48837421875
+DATE:2021-08-10 00:00:00 sell 0.0 at 26456.609375 balance:4802.48837421875
+DATE:2021-08-20 00:00:00 buy 0.0 at 25241.3203125 balance:4802.48837421875
+DATE:2021-08-23 00:00:00 buy 0.0 at 25169.44921875 balance:4802.48837421875
+DATE:2021-08-26 00:00:00 buy 0.0 at 25673.779296875 balance:4802.48837421875
+DATE:2021-08-27 00:00:00 buy 0.0 at 25337.55078125 balance:4802.48837421875
+DATE:2021-08-30 00:00:00 buy 0.0 at 25406.490234375 balance:4802.48837421875
+DATE:2021-08-31 00:00:00 buy 0.0 at 25524.23046875 balance:4802.48837421875
+DATE:2021-09-02 00:00:00 buy 0.0 at 26203.51953125 balance:4802.48837421875
+DATE:2021-09-03 00:00:00 buy 0.0 at 26022.669921875 balance:4802.48837421875
+DATE:2021-09-06 00:00:00 buy 0.0 at 25827.169921875 balance:4802.48837421875
+DATE:2021-09-09 00:00:00 buy 0.0 at 26076.9296875 balance:4802.48837421875
+DATE:2021-09-20 00:00:00 buy 0.0 at 24640.4296875 balance:4802.48837421875
+DATE:2021-09-24 00:00:00 buy 0.0 at 24487.240234375 balance:4802.48837421875
+DATE:2021-09-27 00:00:00 buy 0.0 at 24131.419921875 balance:4802.48837421875
+DATE:2021-09-28 00:00:00 buy 0.0 at 24323.0 balance:4802.48837421875
+DATE:2021-10-04 00:00:00 buy 0.0 at 24478.6796875 balance:4802.48837421875
+DATE:2021-10-05 00:00:00 buy 0.0 at 23771.650390625 balance:4802.48837421875
+DATE:2021-10-06 00:00:00 buy 0.0 at 24259.19921875 balance:4802.48837421875
+DATE:2021-10-07 00:00:00 buy 0.0 at 24339.3203125 balance:4802.48837421875
+DATE:2021-10-08 00:00:00 buy 0.0 at 25064.80078125 balance:4802.48837421875
+DATE:2021-10-11 00:00:00 buy 0.0 at 25161.80078125 balance:4802.48837421875
+DATE:2021-10-12 00:00:00 buy 0.0 at 24995.94921875 balance:4802.48837421875
+DATE:2021-10-15 00:00:00 buy 0.0 at 25187.05078125 balance:4802.48837421875
+DATE:2021-10-18 00:00:00 buy 0.0 at 25425.3203125 balance:4802.48837421875
+DATE:2021-10-19 00:00:00 buy 0.0 at 25471.25 balance:4802.48837421875
+DATE:2021-10-21 00:00:00 buy 0.0 at 26141.849609375 balance:4802.48837421875
+DATE:2021-11-08 00:00:00 buy 0.0 at 24743.5390625 balance:4802.48837421875
+DATE:2021-11-09 00:00:00 buy 0.0 at 24952.8203125 balance:4802.48837421875
+DATE:2021-11-10 00:00:00 buy 0.0 at 24787.439453125 balance:4802.48837421875
+DATE:2021-11-11 00:00:00 buy 0.0 at 24856.109375 balance:4802.48837421875
+DATE:2021-11-12 00:00:00 buy 0.0 at 25522.830078125 balance:4802.48837421875
+DATE:2021-11-30 00:00:00 buy 0.0 at 23782.859375 balance:4802.48837421875
+DATE:2021-12-01 00:00:00 buy 0.0 at 23595.5703125 balance:4802.48837421875
+DATE:2021-12-03 00:00:00 buy 0.0 at 23675.259765625 balance:4802.48837421875
+DATE:2021-12-06 00:00:00 buy 0.0 at 23420.439453125 balance:4802.48837421875
+DATE:2021-12-07 00:00:00 buy 0.0 at 23704.509765625 balance:4802.48837421875
+DATE:2021-12-08 00:00:00 buy 0.0 at 24090.01953125 balance:4802.48837421875
+DATE:2021-12-17 00:00:00 sell 0.0 at 23463.779296875 balance:4802.48837421875
+DATE:2021-12-20 00:00:00 buy 0.0 at 23079.830078125 balance:4802.48837421875
+DATE:2021-12-21 00:00:00 buy 0.0 at 22795.5703125 balance:4802.48837421875
+DATE:2021-12-22 00:00:00 buy 0.0 at 23221.130859375 balance:4802.48837421875
+DATE:2021-12-23 00:00:00 buy 0.0 at 23141.7890625 balance:4802.48837421875
+DATE:2021-12-24 00:00:00 buy 0.0 at 23375.990234375 balance:4802.48837421875
+DATE:2021-12-24 00:00:00 sell 0.0 at 23375.990234375 balance:4802.48837421875
+DATE:2021-12-28 00:00:00 buy 0.0 at 23282.349609375 balance:4802.48837421875
+DATE:2021-12-29 00:00:00 buy 0.0 at 23253.98046875 balance:4802.48837421875
+DATE:2021-12-30 00:00:00 buy 0.0 at 23130.44921875 balance:4802.48837421875
+DATE:2021-12-31 00:00:00 sell 0.0 at 23553.7890625 balance:4802.48837421875
+DATE:2022-01-03 00:00:00 buy 0.0 at 23510.5390625 balance:4802.48837421875
+DATE:2022-01-04 00:00:00 buy 0.0 at 23400.619140625 balance:4802.48837421875
+DATE:2022-01-05 00:00:00 buy 0.0 at 23323.76953125 balance:4802.48837421875
+DATE:2022-01-06 00:00:00 buy 0.0 at 22843.19921875 balance:4802.48837421875
+DATE:2022-01-07 00:00:00 buy 0.0 at 23318.919921875 balance:4802.48837421875
+DATE:2022-01-07 00:00:00 sell 0.0 at 23318.919921875 balance:4802.48837421875
+DATE:2022-01-10 00:00:00 buy 0.0 at 23523.900390625 balance:4802.48837421875
+DATE:2022-01-11 00:00:00 buy 0.0 at 23678.689453125 balance:4802.48837421875
+DATE:2022-01-17 00:00:00 buy 0.0 at 24390.2890625 balance:4802.48837421875
+DATE:2022-01-18 00:00:00 buy 0.0 at 24274.75 balance:4802.48837421875
+DATE:2022-01-19 00:00:00 buy 0.0 at 24229.779296875 balance:4802.48837421875
+DATE:2022-01-28 00:00:00 buy 0.0 at 23818.939453125 balance:4802.48837421875
+DATE:2022-01-31 00:00:00 buy 0.0 at 23624.140625 balance:4802.48837421875
+DATE:2022-02-07 00:00:00 buy 0.0 at 24609.4296875 balance:4802.48837421875
+DATE:2022-02-08 00:00:00 buy 0.0 at 24548.05078125 balance:4802.48837421875
+DATE:2022-02-09 00:00:00 buy 0.0 at 24727.33984375 balance:4802.48837421875
+DATE:2022-02-25 00:00:00 buy 0.0 at 22908.099609375 balance:4802.48837421875
+DATE:2022-02-25 00:00:00 sell 0.0 at 22908.099609375 balance:4802.48837421875
+DATE:2022-03-04 00:00:00 sell 0 at 21879.130859375 balance:4802.48837421875
+DATE:2022-03-11 00:00:00 sell 0 at 20460.029296875 balance:4802.48837421875
+DATE:2022-03-14 00:00:00 buy 0.0 at 20203.83984375 balance:4802.48837421875
+DATE:2022-03-15 00:00:00 buy 0.0 at 18931.1796875 balance:4802.48837421875
+DATE:2022-03-16 00:00:00 buy 0.0 at 18956.01953125 balance:4802.48837421875
+DATE:2022-03-18 00:00:00 buy 0.0 at 21232.880859375 balance:4802.48837421875
+DATE:2022-03-18 00:00:00 sell 0.0 at 21232.880859375 balance:4802.48837421875
+DATE:2022-03-21 00:00:00 buy 0.0 at 21823.0703125 balance:4802.48837421875
+DATE:2022-03-25 00:00:00 buy 0.0 at 21735.609375 balance:4802.48837421875
+DATE:2022-03-25 00:00:00 sell 0.0 at 21735.609375 balance:4802.48837421875
+DATE:2022-03-28 00:00:00 buy 0.0 at 21422.19921875 balance:4802.48837421875
+DATE:2022-03-29 00:00:00 buy 0.0 at 21771.2890625 balance:4802.48837421875
+DATE:2022-03-31 00:00:00 buy 0.0 at 22262.16015625 balance:4802.48837421875
+DATE:2022-04-01 00:00:00 buy 0.0 at 21693.099609375 balance:4802.48837421875
+DATE:2022-04-01 00:00:00 sell 0.0 at 21693.099609375 balance:4802.48837421875
+DATE:2022-04-08 00:00:00 sell 0 at 21667.529296875 balance:4802.48837421875
+DATE:2022-04-11 00:00:00 buy 0.0 at 21688.029296875 balance:4802.48837421875
+DATE:2022-04-12 00:00:00 buy 0.0 at 21279.1796875 balance:4802.48837421875
+DATE:2022-04-13 00:00:00 buy 0.0 at 21192.619140625 balance:4802.48837421875
+DATE:2022-04-14 00:00:00 buy 0.0 at 21463.349609375 balance:4802.48837421875
+DATE:2022-04-22 00:00:00 sell 0.0 at 20261.609375 balance:4802.48837421875
+DATE:2022-04-25 00:00:00 buy 0.0 at 20284.599609375 balance:4802.48837421875
+DATE:2022-04-26 00:00:00 buy 0.0 at 19989.0390625 balance:4802.48837421875
+DATE:2022-04-27 00:00:00 buy 0.0 at 19723.4609375 balance:4802.48837421875
+DATE:2022-04-28 00:00:00 buy 0.0 at 20118.7890625 balance:4802.48837421875
+DATE:2022-04-29 00:00:00 buy 0.0 at 20271.400390625 balance:4802.48837421875
+DATE:2022-04-29 00:00:00 sell 0.0 at 20271.400390625 balance:4802.48837421875
+DATE:2022-05-06 00:00:00 sell 0 at 20287.060546875 balance:4802.48837421875
+DATE:2022-05-10 00:00:00 buy 0.0 at 19300.6796875 balance:4802.48837421875
+DATE:2022-05-11 00:00:00 buy 0.0 at 19511.80078125 balance:4802.48837421875
+DATE:2022-05-12 00:00:00 buy 0.0 at 19556.890625 balance:4802.48837421875
+DATE:2022-05-13 00:00:00 buy 0.0 at 19615.990234375 balance:4802.48837421875
+DATE:2022-05-13 00:00:00 sell 0.0 at 19615.990234375 balance:4802.48837421875
+DATE:2022-05-16 00:00:00 buy 0.0 at 20131.529296875 balance:4802.48837421875
+DATE:2022-05-17 00:00:00 buy 0.0 at 20193.599609375 balance:4802.48837421875
+DATE:2022-05-18 00:00:00 buy 0.0 at 20674.23046875 balance:4802.48837421875
+DATE:2022-05-19 00:00:00 buy 0.0 at 20146.9609375 balance:4802.48837421875
+DATE:2022-05-20 00:00:00 sell 0.0 at 20470.94921875 balance:4802.48837421875
+DATE:2022-05-23 00:00:00 buy 0.0 at 20608.650390625 balance:4802.48837421875
+DATE:2022-05-24 00:00:00 buy 0.0 at 20420.140625 balance:4802.48837421875
+DATE:2022-05-25 00:00:00 buy 0.0 at 20115.560546875 balance:4802.48837421875
+DATE:2022-05-26 00:00:00 buy 0.0 at 20272.220703125 balance:4802.48837421875
+DATE:2022-05-27 00:00:00 buy 0.0 at 20646.060546875 balance:4802.48837421875
+DATE:2022-05-27 00:00:00 sell 0.0 at 20646.060546875 balance:4802.48837421875
+DATE:2022-06-02 00:00:00 buy 0.0 at 21057.0390625 balance:4802.48837421875
+DATE:2022-06-06 00:00:00 buy 0.0 at 21282.509765625 balance:4802.48837421875
+DATE:2022-06-07 00:00:00 buy 0.0 at 21577.48046875 balance:4802.48837421875
+DATE:2022-06-10 00:00:00 sell 0.0 at 21522.5 balance:4802.48837421875
+DATE:2022-06-13 00:00:00 buy 0.0 at 21162.529296875 balance:4802.48837421875
+DATE:2022-06-14 00:00:00 buy 0.0 at 20783.5390625 balance:4802.48837421875
+DATE:2022-06-16 00:00:00 buy 0.0 at 21515.640625 balance:4802.48837421875
+DATE:2022-06-17 00:00:00 buy 0.0 at 20716.740234375 balance:4802.48837421875
+DATE:2022-06-17 00:00:00 sell 0.0 at 20716.740234375 balance:4802.48837421875
+DATE:2022-06-20 00:00:00 buy 0.0 at 20948.80078125 balance:4802.48837421875
+DATE:2022-06-21 00:00:00 buy 0.0 at 21264.98046875 balance:4802.48837421875
+DATE:2022-06-22 00:00:00 buy 0.0 at 21469.740234375 balance:4802.48837421875
+DATE:2022-06-23 00:00:00 buy 0.0 at 21157.580078125 balance:4802.48837421875
+DATE:2022-06-24 00:00:00 buy 0.0 at 21450.6796875 balance:4802.48837421875
+DATE:2022-06-24 00:00:00 sell 0.0 at 21450.6796875 balance:4802.48837421875
+DATE:2022-07-06 00:00:00 buy 0.0 at 21777.640625 balance:4802.48837421875
+DATE:2022-07-08 00:00:00 sell 0.0 at 21961.75 balance:4802.48837421875
+DATE:2022-07-14 00:00:00 buy 0.0 at 20818.26953125 balance:4802.48837421875
+DATE:2022-07-15 00:00:00 buy 0.0 at 20522.109375 balance:4802.48837421875
+DATE:2022-07-15 00:00:00 sell 0.0 at 20522.109375 balance:4802.48837421875
+DATE:2022-07-22 00:00:00 buy 0.0 at 20717.470703125 balance:4802.48837421875
+DATE:2022-07-22 00:00:00 sell 0.0 at 20717.470703125 balance:4802.48837421875
+DATE:2022-07-29 00:00:00 sell 0 at 20647.44921875 balance:4802.48837421875
+DATE:2022-08-01 00:00:00 buy 0.0 at 20026.599609375 balance:4802.48837421875
+DATE:2022-08-02 00:00:00 buy 0.0 at 19943.16015625 balance:4802.48837421875
+DATE:2022-08-03 00:00:00 buy 0.0 at 19865.689453125 balance:4802.48837421875
+DATE:2022-08-05 00:00:00 sell 0.0 at 20283.58984375 balance:4802.48837421875
+DATE:2022-08-08 00:00:00 buy 0.0 at 20065.349609375 balance:4802.48837421875
+DATE:2022-08-09 00:00:00 buy 0.0 at 20039.30078125 balance:4802.48837421875
+DATE:2022-08-10 00:00:00 buy 0.0 at 19956.509765625 balance:4802.48837421875
+DATE:2022-08-12 00:00:00 sell 0.0 at 20158.2890625 balance:4802.48837421875
+DATE:2022-08-19 00:00:00 sell 0 at 19656.80078125 balance:4802.48837421875
+DATE:2022-08-22 00:00:00 buy 0.0 at 19572.419921875 balance:4802.48837421875
+DATE:2022-08-23 00:00:00 buy 0.0 at 19644.23046875 balance:4802.48837421875
+DATE:2022-08-24 00:00:00 buy 0.0 at 19542.240234375 balance:4802.48837421875
+DATE:2022-08-25 00:00:00 buy 0.0 at 19418.4609375 balance:4802.48837421875
+DATE:2022-08-26 00:00:00 sell 0.0 at 20138.689453125 balance:4802.48837421875
+DATE:2022-09-02 00:00:00 sell 0 at 19572.470703125 balance:4802.48837421875
+DATE:2022-09-05 00:00:00 buy 0.0 at 19299.08984375 balance:4802.48837421875
+DATE:2022-09-06 00:00:00 buy 0.0 at 19261.69921875 balance:4802.48837421875
+DATE:2022-09-07 00:00:00 buy 0.0 at 18915.869140625 balance:4802.48837421875
+DATE:2022-09-08 00:00:00 buy 0.0 at 19043.83984375 balance:4802.48837421875
+DATE:2022-09-09 00:00:00 sell 0.0 at 18893.650390625 balance:4802.48837421875
+DATE:2022-09-16 00:00:00 buy 0.0 at 18732.439453125 balance:4802.48837421875
+DATE:2022-09-16 00:00:00 sell 0.0 at 18732.439453125 balance:4802.48837421875
+DATE:2022-09-23 00:00:00 sell 0 at 18055.58984375 balance:4802.48837421875
+DATE:2022-09-30 00:00:00 sell 0 at 17165.9296875 balance:4802.48837421875
+DATE:2022-10-03 00:00:00 buy 0.0 at 17050.25 balance:4802.48837421875
+DATE:2022-10-07 00:00:00 sell 0.0 at 17851.619140625 balance:4802.48837421875
+DATE:2022-10-13 00:00:00 buy 0.0 at 16700.650390625 balance:4802.48837421875
+DATE:2022-10-14 00:00:00 buy 0.0 at 16671.6796875 balance:4802.48837421875
+DATE:2022-10-14 00:00:00 sell 0.0 at 16671.6796875 balance:4802.48837421875
+DATE:2022-10-21 00:00:00 sell 0 at 16331.1103515625 balance:4802.48837421875
+DATE:2022-10-28 00:00:00 buy 0.0 at 15424.9404296875 balance:4802.48837421875
+DATE:2022-10-28 00:00:00 sell 0.0 at 15424.9404296875 balance:4802.48837421875
+DATE:2022-10-31 00:00:00 buy 0.0 at 14830.6904296875 balance:4802.48837421875
+DATE:2022-11-01 00:00:00 buy 0.0 at 14859.919921875 balance:4802.48837421875
+DATE:2022-11-02 00:00:00 buy 0.0 at 15389.5498046875 balance:4802.48837421875
+DATE:2022-11-03 00:00:00 buy 0.0 at 15477.740234375 balance:4802.48837421875
+DATE:2022-11-04 00:00:00 buy 0.0 at 15442.759765625 balance:4802.48837421875
+DATE:2022-11-04 00:00:00 sell 0.0 at 15442.759765625 balance:4802.48837421875
+DATE:2022-11-07 00:00:00 buy 0.0 at 16031.7900390625 balance:4802.48837421875
+DATE:2022-11-08 00:00:00 buy 0.0 at 16640.599609375 balance:4802.48837421875
+DATE:2022-11-09 00:00:00 buy 0.0 at 16552.80078125 balance:4802.48837421875
+DATE:2022-11-10 00:00:00 buy 0.0 at 16138.2197265625 balance:4802.48837421875
+DATE:2022-11-11 00:00:00 buy 0.0 at 17120.05078125 balance:4802.48837421875
+DATE:2022-11-11 00:00:00 sell 0.0 at 17120.05078125 balance:4802.48837421875
+DATE:2022-11-14 00:00:00 buy 0.0 at 17999.259765625 balance:4802.48837421875
+DATE:2022-11-18 00:00:00 sell 0.0 at 18316.359375 balance:4802.48837421875
+DATE:2022-11-22 00:00:00 buy 0.0 at 17625.189453125 balance:4802.48837421875
+DATE:2022-11-23 00:00:00 buy 0.0 at 17460.900390625 balance:4802.48837421875
+DATE:2022-11-25 00:00:00 buy 0.0 at 17673.19921875 balance:4802.48837421875
+DATE:2022-11-25 00:00:00 sell 0.0 at 17673.19921875 balance:4802.48837421875
+DATE:2022-11-28 00:00:00 buy 0.0 at 17000.23046875 balance:4802.48837421875
+DATE:2022-11-29 00:00:00 buy 0.0 at 17558.599609375 balance:4802.48837421875
+DATE:2022-11-30 00:00:00 buy 0.0 at 18141.560546875 balance:4802.48837421875
+DATE:2022-12-01 00:00:00 buy 0.0 at 19058.900390625 balance:4802.48837421875
+DATE:2022-12-02 00:00:00 buy 0.0 at 18785.279296875 balance:4802.48837421875
+DATE:2022-12-02 00:00:00 sell 0.0 at 18785.279296875 balance:4802.48837421875
+DATE:2022-12-05 00:00:00 buy 0.0 at 19221.6796875 balance:4802.48837421875
+DATE:2022-12-06 00:00:00 buy 0.0 at 19211.69921875 balance:4802.48837421875
+DATE:2022-12-07 00:00:00 buy 0.0 at 19380.80078125 balance:4802.48837421875
+DATE:2022-12-08 00:00:00 buy 0.0 at 18965.05078125 balance:4802.48837421875
+DATE:2022-12-09 00:00:00 sell 0.0 at 19484.23046875 balance:4802.48837421875
+DATE:2022-12-12 00:00:00 buy 0.0 at 19594.51953125 balance:4802.48837421875
+DATE:2022-12-15 00:00:00 buy 0.0 at 19612.669921875 balance:4802.48837421875
+DATE:2022-12-16 00:00:00 sell 0.0 at 19343.69921875 balance:4802.48837421875
+DATE:2022-12-19 00:00:00 buy 0.0 at 19472.2109375 balance:4802.48837421875
+DATE:2022-12-20 00:00:00 buy 0.0 at 19156.939453125 balance:4802.48837421875
+DATE:2022-12-21 00:00:00 buy 0.0 at 19190.91015625 balance:4802.48837421875
+DATE:2022-12-23 00:00:00 buy 0.0 at 19382.23046875 balance:4802.48837421875
+DATE:2022-12-23 00:00:00 sell 0.0 at 19382.23046875 balance:4802.48837421875
+DATE:2022-12-29 00:00:00 buy 0.0 at 19648.400390625 balance:4802.48837421875
+DATE:2022-12-30 00:00:00 buy 0.0 at 20030.849609375 balance:4802.48837421875
+DATE:2022-12-30 00:00:00 sell 0.0 at 20030.849609375 balance:4802.48837421875
+DATE:2023-01-03 00:00:00 buy 0.0 at 19570.4296875 balance:4802.48837421875
+DATE:2023-01-04 00:00:00 buy 0.0 at 20319.98046875 balance:4802.48837421875
+DATE:2023-01-05 00:00:00 buy 0.0 at 21295.869140625 balance:4802.48837421875
+DATE:2023-01-06 00:00:00 buy 0.0 at 21220.890625 balance:4802.48837421875
+DATE:2023-01-06 00:00:00 sell 0.0 at 21220.890625 balance:4802.48837421875
+DATE:2023-01-09 00:00:00 buy 0.0 at 21295.939453125 balance:4802.48837421875
+DATE:2023-01-10 00:00:00 buy 0.0 at 21370.419921875 balance:4802.48837421875
+DATE:2023-01-11 00:00:00 buy 0.0 at 21463.8203125 balance:4802.48837421875
+DATE:2023-01-12 00:00:00 buy 0.0 at 21599.8203125 balance:4802.48837421875
+DATE:2023-01-13 00:00:00 sell 0.0 at 21605.0703125 balance:4802.48837421875
+DATE:2023-01-16 00:00:00 buy 0.0 at 21818.650390625 balance:4802.48837421875
+DATE:2023-01-17 00:00:00 buy 0.0 at 21678.05078125 balance:4802.48837421875
+DATE:2023-01-18 00:00:00 buy 0.0 at 21514.80078125 balance:4802.48837421875
+DATE:2023-01-19 00:00:00 buy 0.0 at 21452.259765625 balance:4802.48837421875
+DATE:2023-01-20 00:00:00 buy 0.0 at 21812.4609375 balance:4802.48837421875
+DATE:2023-01-20 00:00:00 sell 0.0 at 21812.4609375 balance:4802.48837421875
+DATE:2023-01-27 00:00:00 sell 0 at 22614.919921875 balance:4802.48837421875
+DATE:2023-02-03 00:00:00 sell 0 at 21811.080078125 balance:4802.48837421875
+DATE:2023-02-10 00:00:00 sell 0 at 21559.439453125 balance:4802.48837421875
+DATE:2023-02-17 00:00:00 sell 0 at 20958.630859375 balance:4802.48837421875
+DATE:2023-02-24 00:00:00 sell 0 at 20223.669921875 balance:4802.48837421875
+DATE:2023-02-27 00:00:00 buy 0.0 at 19821.029296875 balance:4802.48837421875
+DATE:2023-02-28 00:00:00 buy 0.0 at 20020.169921875 balance:4802.48837421875
+DATE:2023-03-02 00:00:00 buy 0.0 at 20390.01953125 balance:4802.48837421875
+DATE:2023-03-03 00:00:00 buy 0.0 at 20703.140625 balance:4802.48837421875
+DATE:2023-03-03 00:00:00 sell 0.0 at 20703.140625 balance:4802.48837421875
+DATE:2023-03-10 00:00:00 sell 0 at 19580.779296875 balance:4802.48837421875
+DATE:2023-03-14 00:00:00 buy 0.0 at 19524.509765625 balance:4802.48837421875
+DATE:2023-03-15 00:00:00 buy 0.0 at 19523.490234375 balance:4802.48837421875
+DATE:2023-03-17 00:00:00 sell 0.0 at 19439.83984375 balance:4802.48837421875
+DATE:2023-03-20 00:00:00 buy 0.0 at 19352.900390625 balance:4802.48837421875
+DATE:2023-03-21 00:00:00 buy 0.0 at 19118.869140625 balance:4802.48837421875
+DATE:2023-03-22 00:00:00 buy 0.0 at 19428.359375 balance:4802.48837421875
+DATE:2023-03-24 00:00:00 sell 0.0 at 19919.650390625 balance:4802.48837421875
+DATE:2020-06-04 BUY 4 stocks at 24643.84  balance:1395.07
+DATE:2020-06-15 SELL 4 stocks at 23991.38  balance:97235.84
+DATE:2020-06-16 BUY 3 stocks at 24318.15  balance:24259.5
+DATE:2020-06-18 SELL 3 stocks at 24386.31  balance:97323.32
+DATE:2020-06-19 BUY 3 stocks at 24373.36  balance:24181.31
+DATE:2020-06-24 SELL 3 stocks at 25034.87  balance:99188.28
+DATE:2020-06-26 BUY 4 stocks at 24697.98  balance:366.72
+DATE:2020-07-22 SELL 4 stocks at 25575.25  balance:102534.73
+DATE:2020-07-23 BUY 4 stocks at 25235.9  balance:1560.85
+DATE:2020-07-30 SELL 4 stocks at 24979.24  balance:101347.91
+DATE:2020-07-31 BUY 4 stocks at 24747.29  balance:2329.06
+DATE:2020-08-05 SELL 4 stocks at 25029.39  balance:102316.47
+DATE:2020-08-07 BUY 4 stocks at 24909.37  balance:2649.1
+DATE:2020-08-11 SELL 4 stocks at 24662.04  balance:101169.02
+DATE:2020-08-14 BUY 4 stocks at 25072.45  balance:849.13
+DATE:2020-08-17 SELL 4 stocks at 25212.28  balance:101567.15
+DATE:2020-08-18 BUY 3 stocks at 25470.97  balance:25131.31
+DATE:2020-08-24 SELL 3 stocks at 25352.79  balance:101090.8
+DATE:2020-08-26 BUY 3 stocks at 25520.41  balance:24506.6
+DATE:2020-08-27 SELL 3 stocks at 25469.77  balance:100816.58
+DATE:2020-08-28 BUY 3 stocks at 25330.77  balance:24801.47
+DATE:2020-09-10 SELL 3 stocks at 24584.94  balance:98460.41
+DATE:2020-09-11 BUY 4 stocks at 24352.63  balance:1020.66
+DATE:2020-09-14 SELL 4 stocks at 24569.03  balance:99169.02
+DATE:2020-09-16 BUY 3 stocks at 24823.96  balance:24674.8
+DATE:2020-09-29 SELL 3 stocks at 23584.61  balance:95336.65
+DATE:2020-09-30 BUY 4 stocks at 23548.89  balance:1112.82
+DATE:2020-10-07 SELL 4 stocks at 23999.79  balance:96987.18
+DATE:2020-10-12 BUY 4 stocks at 24217.25  balance:89.12
+DATE:2020-11-27 SELL 4 stocks at 26758.49  balance:106983.94
+DATE:2020-11-30 BUY 3 stocks at 26853.39  balance:26399.6
+DATE:2020-12-24 SELL 3 stocks at 26342.87  balance:105325.47
+DATE:2020-12-29 BUY 3 stocks at 26490.45  balance:25830.28
+DATE:2020-12-31 SELL 3 stocks at 27194.79  balance:107308.59
+DATE:2021-01-04 BUY 3 stocks at 27087.13  balance:26022.82
+DATE:2021-01-26 SELL 3 stocks at 29892.85  balance:115584.78
+DATE:2021-01-27 BUY 3 stocks at 29556.58  balance:26888.44
+DATE:2021-02-02 SELL 3 stocks at 29378.12  balance:114908.22
+DATE:2021-02-03 BUY 3 stocks at 29305.41  balance:26965.62
+DATE:2021-02-10 SELL 3 stocks at 29796.19  balance:116237.98
+DATE:2021-02-17 BUY 3 stocks at 30636.37  balance:24301.3
+DATE:2021-03-04 SELL 3 stocks at 29525.48  balance:112762.59
+DATE:2021-03-05 BUY 3 stocks at 28667.14  balance:26735.37
+DATE:2021-03-18 SELL 3 stocks at 29317.61  balance:114573.86
+DATE:2021-03-19 BUY 3 stocks at 29158.48  balance:27072.18
+DATE:2021-03-29 SELL 3 stocks at 28317.32  balance:111913.7
+DATE:2021-03-30 BUY 3 stocks at 28552.77  balance:26229.69
+DATE:2021-04-07 SELL 3 stocks at 29101.4  balance:113420.4
+DATE:2021-04-08 BUY 3 stocks at 28604.12  balance:27582.3
+DATE:2021-04-09 SELL 3 stocks at 29152.44  balance:114925.92
+DATE:2021-04-12 BUY 3 stocks at 28791.97  balance:28524.1
+DATE:2021-04-15 SELL 3 stocks at 28872.82  balance:115029.95
+DATE:2021-04-16 BUY 3 stocks at 28827.17  balance:28522.5
+DATE:2021-04-19 SELL 3 stocks at 28960.13  balance:115289.95
+DATE:2021-04-22 BUY 4 stocks at 28716.98  balance:387.57
+DATE:2021-04-23 SELL 4 stocks at 28798.45  balance:115431.61
+DATE:2021-04-27 BUY 3 stocks at 28895.38  balance:28719.46
+DATE:2021-04-28 SELL 3 stocks at 28991.94  balance:115582.21
+DATE:2021-05-03 BUY 4 stocks at 28659.91  balance:908.18
+DATE:2021-05-05 SELL 4 stocks at 28427.67  balance:114471.04
+DATE:2021-05-06 BUY 3 stocks at 28647.97  balance:28501.34
+DATE:2021-05-13 SELL 3 stocks at 27920.01  balance:112152.48
+DATE:2021-05-14 BUY 4 stocks at 27872.69  balance:628.28
+DATE:2021-05-17 SELL 4 stocks at 28130.51  balance:113004.04
+DATE:2021-05-21 BUY 3 stocks at 28584.34  balance:27225.29
+DATE:2021-05-24 SELL 3 stocks at 28417.99  balance:112368.43
+DATE:2021-05-27 BUY 3 stocks at 28998.39  balance:25347.16
+DATE:2021-06-02 SELL 3 stocks at 29414.64  balance:113476.37
+DATE:2021-06-03 BUY 3 stocks at 29365.32  balance:25353.98
+DATE:2021-06-10 SELL 3 stocks at 28792.02  balance:111617.75
+DATE:2021-06-11 BUY 3 stocks at 28864.9  balance:24997.07
+DATE:2021-06-18 SELL 3 stocks at 28586.04  balance:110643.7
+DATE:2021-06-21 BUY 3 stocks at 28501.64  balance:25113.13
+DATE:2021-06-24 SELL 3 stocks at 28865.46  balance:111596.93
+DATE:2021-06-30 BUY 3 stocks at 29107.9  balance:24247.03
+DATE:2021-07-08 SELL 3 stocks at 27881.5  balance:107782.8
+DATE:2021-07-09 BUY 3 stocks at 27131.57  balance:26363.67
+DATE:2021-07-14 SELL 3 stocks at 27965.39  balance:110150.77
+DATE:2021-07-15 BUY 3 stocks at 27801.4  balance:26721.55
+DATE:2021-07-23 SELL 3 stocks at 27740.95  balance:109836.21
+DATE:2021-07-26 BUY 4 stocks at 26825.73  balance:2501.1
+DATE:2021-08-03 SELL 4 stocks at 26289.06  balance:107520.64
+DATE:2021-08-04 BUY 4 stocks at 26161.83  balance:2841.92
+DATE:2021-08-05 SELL 4 stocks at 26390.01  balance:108264.73
+DATE:2021-08-06 BUY 4 stocks at 26262.97  balance:3181.33
+DATE:2021-08-10 SELL 4 stocks at 26456.61  balance:108870.2
+DATE:2021-08-12 BUY 4 stocks at 26623.77  balance:2343.17
+DATE:2021-08-16 SELL 4 stocks at 26365.19  balance:107666.83
+DATE:2021-08-17 BUY 4 stocks at 26137.9  balance:3083.86
+DATE:2021-08-25 SELL 4 stocks at 25930.05  balance:106669.23
+DATE:2021-08-26 BUY 4 stocks at 25673.78  balance:3943.3
+DATE:2021-09-07 SELL 4 stocks at 26207.22  balance:108635.91
+DATE:2021-09-09 BUY 4 stocks at 26076.93  balance:4296.9
+DATE:2021-09-13 SELL 4 stocks at 25885.3  balance:107703.5
+DATE:2021-09-14 BUY 4 stocks at 25827.7  balance:4361.71
+DATE:2021-09-30 SELL 4 stocks at 24494.26  balance:102211.38
+DATE:2021-10-05 BUY 4 stocks at 23771.65  balance:7096.25
+DATE:2021-10-06 SELL 4 stocks at 24259.2  balance:104006.9
+DATE:2021-10-07 BUY 4 stocks at 24339.32  balance:6620.41
+DATE:2021-10-08 SELL 4 stocks at 25064.8  balance:106749.28
+DATE:2021-10-11 BUY 4 stocks at 25161.8  balance:6071.88
+DATE:2021-10-19 SELL 4 stocks at 25471.25  balance:107824.43
+DATE:2021-10-21 BUY 4 stocks at 26141.85  balance:3225.66
+DATE:2021-10-26 SELL 4 stocks at 26234.94  balance:108029.0
+DATE:2021-10-27 BUY 4 stocks at 25795.17  balance:4817.36
+DATE:2021-11-05 SELL 4 stocks at 24950.68  balance:104490.34
+DATE:2021-11-08 BUY 4 stocks at 24743.54  balance:5486.49
+DATE:2021-11-10 SELL 4 stocks at 24787.44  balance:104507.35
+DATE:2021-11-15 BUY 4 stocks at 25437.99  balance:2724.86
+DATE:2021-11-16 SELL 4 stocks at 25446.65  balance:104379.14
+DATE:2021-11-23 BUY 4 stocks at 24688.99  balance:5593.56
+DATE:2021-11-26 SELL 4 stocks at 24502.68  balance:103476.86
+DATE:2021-11-29 BUY 4 stocks at 23910.49  balance:7806.21
+DATE:2021-12-17 SELL 4 stocks at 23463.78  balance:101539.31
+DATE:2021-12-20 BUY 4 stocks at 23079.83  balance:9192.3
+DATE:2021-12-24 SELL 4 stocks at 23375.99  balance:102574.7
+DATE:2021-12-29 BUY 4 stocks at 23253.98  balance:9530.88
+DATE:2021-12-30 SELL 4 stocks at 23130.45  balance:101932.39
+DATE:2022-01-04 BUY 4 stocks at 23400.62  balance:8301.84
+DATE:2022-01-07 SELL 4 stocks at 23318.92  balance:101456.26
+DATE:2022-01-10 BUY 4 stocks at 23523.9  balance:7332.43
+DATE:2022-01-17 SELL 4 stocks at 24390.29  balance:104766.75
+DATE:2022-01-18 BUY 4 stocks at 24274.75  balance:7638.63
+DATE:2022-01-21 SELL 4 stocks at 24897.59  balance:107099.52
+DATE:2022-01-24 BUY 4 stocks at 24693.43  balance:8296.17
+DATE:2022-02-04 SELL 4 stocks at 24392.86  balance:105740.76
+DATE:2022-02-09 BUY 4 stocks at 24727.34  balance:6801.73
+DATE:2022-02-18 SELL 4 stocks at 24633.66  balance:105208.27
+DATE:2022-02-21 BUY 4 stocks at 24109.59  balance:8740.98
+DATE:2022-07-08 SELL 4 stocks at 21961.75  balance:96473.78
+DATE:2022-07-11 BUY 4 stocks at 21470.77  balance:10564.94
+DATE:2022-08-26 SELL 4 stocks at 20138.69  balance:91014.98
+DATE:2022-08-29 BUY 4 stocks at 19960.29  balance:11149.87
+DATE:2023-02-10 SELL 4 stocks at 21559.44  balance:97275.52
+DATE:2023-02-13 BUY 4 stocks at 20910.08  balance:13610.1
+DATE:2023-03-30 SELL 4 stocks at 20216.79  balance:94372.13
