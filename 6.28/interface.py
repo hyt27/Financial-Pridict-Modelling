@@ -51,6 +51,12 @@ def meachinlearning(task_id = '1',stock_id = '000001.SZ',start = '2001-1-1',end 
     elif modelname ==  'linearregression':
         linearregression_train(datapath = datapath,startdate = start,enddate =end)
         mse,actual,pred,whole_predict = predict('linearregression',datapath = datapath,startdate = start,enddate = end)
+    elif modelname ==  'randomforest':
+        mse_train, mse_test, y_train, train_pred, y_test, test_pred, mtr, whole_predict = predict('randomforest',datapath = datapath,startdate = start,enddate = end)
+    elif modelname ==  'svm':
+        mse_train, mse_test, y_train, train_pred, y_test, test_pred, mtr, whole_predict = predict('svm',datapath = datapath,startdate = start,enddate = end)
+    elif modelname ==  'gru':
+        mse_train, mse_test, y_train, train_pred, y_test, test_pred, scaled_data, whole_predict = predict('svm',datapath = datapath,startdate = start,enddate = end)
     
     plt.ioff()
     #####作prediction图并保存
@@ -85,7 +91,7 @@ def meachinlearning(task_id = '1',stock_id = '000001.SZ',start = '2001-1-1',end 
         yield_curve,final_balance,yield_rate,benchmark_yield = buy_and_sell_in_one_day(whole_predict,log_path,balance=balance)
 
     elif strategy == 'buy_and_sell_with_ma':
-        yield_curve,final_balance,yield_rate,benchmark_yield = buy_and_sell_in_5_days(whole_predict,log_path,balance=balance)
+        yield_curve,final_balance,yield_rate,benchmark_yield = buy_and_sell_with_ma(whole_predict,log_path,balance=balance)
 
     # plt.ioff()
     #####作收益曲线图并保存

@@ -150,77 +150,43 @@ def predict(which_model,datapath = 'stock_data/0066.HK.csv',startdate = "2022-01
 
         
     if which_model == 'randomforest':
-        lookback = 600               
-        #csv_file_path = 'SSE_Index.csv'  # 替换为你的 CSV 文件路径
-        #df = pd.read_csv(csv_file_path)
-        #df['Date'] = pd.to_datetime(df['Date'])
-        #df.set_index('Date', inplace=True)
-        #scaler = MinMaxScaler(feature_range=(-1, 1))
-        #mtr = scaler.fit_transform(df.values)
-        #mtr=data_to_be_predict
-        #scaler = MinMaxScaler(feature_range=(-1, 1))
-        mtr = scaler.fit_transform(data_to_be_predict.values)
-        # 构建训练集和测试集
+        lookback = 100
+
+        mtr = scaler.fit_transform(data_to_be_predict['Close'].values.reshape(-1, 1))
+
         x_train, y_train, x_test, y_test = [], [], [], []
         for i in range(len(mtr) - lookback):
             x_train.append(mtr[i:i+lookback])
             y_train.append(mtr[i+lookback])
-
         for i in range(len(mtr) - lookback, len(mtr)):
             x_test.append(mtr[i-lookback:i])
             y_test.append(mtr[i])
 
-        # 转换为 numpy 数组并重塑为二维数组
         x_train, y_train, x_test, y_test = np.array(x_train), np.array(y_train), np.array(x_test), np.array(y_test)
         x_train = x_train.reshape(x_train.shape[0], -1)
         x_test = x_test.reshape(x_test.shape[0], -1)
-        # 构建训练集和测试集
-        #x_train, y_train, x_test, y_test = [], [], [], []
-        #for i in range(len(mtr) - lookback):
-         #   x_train.append(mtr[i:i+lookback])
-         #   y_train.append(mtr[i+lookback])
-         #   for j in range(len(mtr) - lookback, len(mtr)):
-         #       x_test.append(mtr[j-lookback:j])
-         #       y_test.append(mtr[j])
 
-        
-        # Load pre-trained Random Forest model
         model = torch.load('pthfile/randomforest_model.pth')
-        
-        #model = RandomForestRegressor(n_estimators=100, random_state=42)
-        #model.fit(x_train, y_train.ravel())
 
         train_pred = model.predict(x_train)
         test_pred = model.predict(x_test)
-        
+
+        # 将缩放后的数据还原为原始数值
+        train_pred = scaler.inverse_transform(train_pred.reshape(-1, 1)).flatten()
+        test_pred = scaler.inverse_transform(test_pred.reshape(-1, 1)).flatten()
+        mtr = scaler.inverse_transform(mtr)
+
         mse_train = mean_squared_error(y_train, train_pred)
         mse_test = mean_squared_error(y_test, test_pred)
-        # 打印均方误差
-        # print('MSE ON TRAIN:', mse_train)
-        # print('MSE ON TEST:', mse_test)   
-        
-        # # 绘制训练集的预测结果
-        # plt.figure(figsize=(12, 6))
-        # plt.plot(y_train, label='Actual Train')
-        # plt.plot(train_pred, label='Predicted Train')
-        # plt.legend()
-        # plt.title('Random Forest Predictions on Train Data')
-        # plt.show()
 
-        # # 绘制测试集的预测结果
-        # plt.figure(figsize=(12, 6))
-        # plt.plot(y_test, label='Actual Test')
-        # plt.plot(test_pred, label='Predicted Test')
-        # plt.legend()
-        # plt.title('Random Forest Predictions on Test Data')
-        # plt.show()
-        
-        # No prediction plot for Random Forest model, so return None for plot variables
-        # whole_predict = pd.DataFrame({'Date': df.index[lookback:], 'pred_close': np.concatenate([train_pred, test_pred]), 'act_close': np.concatenate([y_train, y_test])})
-        whole_predict = pd.DataFrame({'Date':data_to_be_predict.index, 'pred_close': np.concatenate([train_pred, test_pred]), 'open':data_to_be_predict['Open'],'act_close':data_to_be_predict['Close']})
+        whole_predict = pd.DataFrame({'Date': data_to_be_predict.index, 'pred_close': np.concatenate([train_pred, test_pred]), 'act_close': data_to_be_predict['Close'], 'open': data_to_be_predict['Open']})
+
+        #print(test_pred)
+        #print(train_pred)
+        #print(mtr)
+        #print(whole_predict)
     
         return mse_train, mse_test, y_train, train_pred, y_test, test_pred, mtr, whole_predict
-        #return mse_train, mse_test, y_train, train_pred, y_test, test_pred, mtr
 
 
     elif which_model == 'svm':
@@ -233,7 +199,8 @@ def predict(which_model,datapath = 'stock_data/0066.HK.csv',startdate = "2022-01
         #scaler = MinMaxScaler(feature_range=(-1, 1))
         #mtr = scaler.fit_transform(df.values)
         #scaler = MinMaxScaler(feature_range=(-1, 1))
-        mtr = scaler.fit_transform(data_to_be_predict.values)
+        #mtr = scaler.fit_transform(data_to_be_predict.values)
+        mtr = scaler.fit_transform(data_to_be_predict['Close'].values.reshape(-1,1))
         # 构建训练集和测试集
         x_train, y_train, x_test, y_test = [], [], [], []
         for i in range(len(mtr) - lookback):
@@ -250,10 +217,15 @@ def predict(which_model,datapath = 'stock_data/0066.HK.csv',startdate = "2022-01
 
         # Load pre-trained SVM model
         model = torch.load('pthfile/svm_model.pth')
-
+        
         # 进行预测
         train_pred = model.predict(x_train)
         test_pred = model.predict(x_test)
+        
+        # 将缩放后的数据还原为原始数值
+        train_pred = scaler.inverse_transform(train_pred.reshape(-1, 1)).flatten()
+        test_pred = scaler.inverse_transform(test_pred.reshape(-1, 1)).flatten()
+        mtr = scaler.inverse_transform(mtr)
         
         # 计算均方误差
         mse_train = mean_squared_error(y_train, train_pred)
@@ -264,17 +236,17 @@ def predict(which_model,datapath = 'stock_data/0066.HK.csv',startdate = "2022-01
         # print('MSE ON TEST:', mse_test)
 
         # 绘制预测结果
-        plt.plot(y_train, label='Actual Train')
-        plt.plot(train_pred, label='Predicted Train')
-        plt.legend()
-        plt.title('SVM Predictions on Train Data')
-        plt.show()
+        #plt.plot(y_train, label='Actual Train')
+        #plt.plot(train_pred, label='Predicted Train')
+        #plt.legend()
+        #plt.title('SVM Predictions on Train Data')
+        #plt.show()
         
-        plt.plot(y_test, label='Actual Test')
-        plt.plot(test_pred, label='Predicted Test')
-        plt.legend()
-        plt.title('SVM Predictions on Test Data')
-        plt.show()
+        #plt.plot(y_test, label='Actual Test')
+        #plt.plot(test_pred, label='Predicted Test')
+        #plt.legend()
+        #plt.title('SVM Predictions on Test Data')
+        #plt.show()
         
         whole_predict = pd.DataFrame({'Date':data_to_be_predict.index, 'pred_close': np.concatenate([train_pred, test_pred]), 'open':data_to_be_predict['Open'],'act_close':data_to_be_predict['Close']})
 
@@ -326,20 +298,20 @@ def predict(which_model,datapath = 'stock_data/0066.HK.csv',startdate = "2022-01
 
         # 可视化预测结果
         # 绘制训练集预测结果
-        plt.figure(figsize=(12, 6))
-        plt.plot(df.index[lookback:len(train_pred) + lookback], df['Close'][lookback:len(train_pred) + lookback], label='Actual Train')
-        plt.plot(df.index[lookback:len(train_pred) + lookback], train_pred, label='Predicted Train')
-        plt.legend()
-        plt.title('GRU Predictions on Train Data')
-        plt.show()
+        #plt.figure(figsize=(12, 6))
+        #plt.plot(df.index[lookback:len(train_pred) + lookback], df['Close'][lookback:len(train_pred) + lookback], label='Actual Train')
+        #plt.plot(df.index[lookback:len(train_pred) + lookback], train_pred, label='Predicted Train')
+        #plt.legend()
+        #plt.title('GRU Predictions on Train Data')
+        #plt.show()
 
         
-        plt.figure(figsize=(12, 6))
-        plt.plot(df.index[lookback:], df['Close'][lookback:], label='Actual Test')
-        plt.plot(df.index[lookback:], test_pred, label='Predicted Test (GRU Model)')
-        plt.legend()
-        plt.title('GRU Predictions on Test Data')
-        plt.show()
+        #plt.figure(figsize=(12, 6))
+        #plt.plot(df.index[lookback:], df['Close'][lookback:], label='Actual Test')
+        #plt.plot(df.index[lookback:], test_pred, label='Predicted Test (GRU Model)')
+        #plt.legend()
+        #plt.title('GRU Predictions on Test Data')
+        #plt.show()
 
         # 计算均方误差
         mse_train = mean_squared_error(y_train, train_pred)
