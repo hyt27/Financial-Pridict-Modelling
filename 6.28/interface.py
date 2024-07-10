@@ -208,7 +208,15 @@ if __name__ == '__main__':
     modelname = sys.argv[6]
     strategy = sys.argv[7]
     initial_balance = int(sys.argv[8])
-    
+    #task_id = 19
+    #category = 1
+    #stock_id = '000004.SZ'
+    #start = 2020-1-1
+    #end = 2024-1-1
+    #modelname = 'lstm'
+    #strategy = 'buy_and_select_when_sell'
+    #initial_balance = 100000
+    #python interface.py 19 1 000004.SZ 2020-1-1 2024-1-1 lstm buy_and_select_when_sell 100000
 
     ####机器学习
     if category == '1':

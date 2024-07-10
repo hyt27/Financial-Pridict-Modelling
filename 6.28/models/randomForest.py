@@ -66,7 +66,7 @@ def randomforest_train():
     
     model = RandomForestRegressor(n_estimators=100, random_state=42)
     model.fit(x_train, y_train.ravel())
-    torch.save(model, 'pthfile/randomforest_model.pth')
+    torch.save(model, 'randomforest_model.pth')
     
     train_pred = model.predict(x_train)
     test_pred = model.predict(x_test)
