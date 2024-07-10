@@ -56,7 +56,7 @@ def meachinlearning(task_id = '1',stock_id = '000001.SZ',start = '2001-1-1',end 
     elif modelname ==  'svm':
         mse_train, mse_test, y_train, train_pred, y_test, test_pred, mtr, whole_predict = predict('svm',datapath = datapath,startdate = start,enddate = end)
     elif modelname ==  'gru':
-        mse_train, mse_test, y_train, train_pred, y_test, test_pred, scaled_data, whole_predict = predict('svm',datapath = datapath,startdate = start,enddate = end)
+        mse_train,mse_test,testPredictPlot,trainPredictPlot,data,whole_predict = predict('gru',datapath = datapath,startdate = start,enddate = end)
     
     plt.ioff()
     #####作prediction图并保存

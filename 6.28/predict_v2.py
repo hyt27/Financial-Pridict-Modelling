@@ -256,73 +256,52 @@ def predict(which_model,datapath = 'stock_data/0066.HK.csv',startdate = "2022-01
 
 
     elif which_model == 'gru':
-        # 数据准备
-        def prepare_data(data, lookback):
-            x, y = [], []
-            for i in range(len(data) - lookback):
-                x.append(data[i:(i + lookback)])
-                y.append(data[i + lookback])
-            return np.array(x), np.array(y)
-
-        # 加载数据
-        csv_file_path = 'SSE_Index.csv'
-        df = pd.read_csv(csv_file_path)
-        df['Date'] = pd.to_datetime(df['Date'])
-        df.set_index('Date', inplace=True)
-
-        # 数据预处理
-        scaler = MinMaxScaler(feature_range=(-1, 1))
-        scaled_data = scaler.fit_transform(df.values)
-
-        # 定义超参数
-        lookback = 100
-
-        # 加载预训练的GRU模型
-        loaded_model = torch.jit.load('pthfile/gru_model_script.pth')
-
-        # 准备测试集
-        train_data_scaled = scaler.transform(df.values)
-        x_train, y_train = prepare_data(train_data_scaled, lookback)
-        x_train = torch.from_numpy(x_train).type(torch.Tensor)  # 将 ndarray 转换为 Tensor
+        lookback = 50
+        # Open = data_to_be_predict['Open'].values.reshape(-1,1)
+        data_close = scaler.fit_transform(data_to_be_predict['Close'].values.reshape(-1,1))
         
-        test_data_scaled = scaler.transform(df.values)
-        x_test, y_test = prepare_data(test_data_scaled, lookback)
-        x_test = torch.from_numpy(x_test).type(torch.Tensor)  # 将 ndarray 转换为 Tensor
+        x_train, y_train, x_test, y_test = split_data(data_close, lookback)
 
-        # 使用加载的模型进行预测
-        loaded_model.eval()
-        train_pred = loaded_model(x_train)
-        train_pred = scaler.inverse_transform(train_pred.detach().numpy())
-        test_pred = loaded_model(x_test)
-        test_pred = scaler.inverse_transform(test_pred.detach().numpy())
+        x_test = torch.from_numpy(x_test).type(torch.Tensor)
+        y_test_lstm = torch.from_numpy(y_test).type(torch.Tensor)
+        x_train = torch.from_numpy(x_train).type(torch.Tensor)
+        y_train_lstm = torch.from_numpy(y_train).type(torch.Tensor)
 
-        # 可视化预测结果
-        # 绘制训练集预测结果
-        #plt.figure(figsize=(12, 6))
-        #plt.plot(df.index[lookback:len(train_pred) + lookback], df['Close'][lookback:len(train_pred) + lookback], label='Actual Train')
-        #plt.plot(df.index[lookback:len(train_pred) + lookback], train_pred, label='Predicted Train')
-        #plt.legend()
-        #plt.title('GRU Predictions on Train Data')
-        #plt.show()
+        model = torch.load('pthfile/gru_model_script.pth')
 
-        
-        #plt.figure(figsize=(12, 6))
-        #plt.plot(df.index[lookback:], df['Close'][lookback:], label='Actual Test')
-        #plt.plot(df.index[lookback:], test_pred, label='Predicted Test (GRU Model)')
-        #plt.legend()
-        #plt.title('GRU Predictions on Test Data')
-        #plt.show()
 
-        # 计算均方误差
-        mse_train = mean_squared_error(y_train, train_pred)
-        mse_test = mean_squared_error(y_test, test_pred)#df['Close'][lookback:]
-        # print('MSE ON TRAIN:', mse_train)
-        # print('MSE ON TEST:', mse_test) 
-        
-        whole_predict = pd.DataFrame({'Date':data_to_be_predict.index, 'pred_close': np.concatenate([train_pred, test_pred]), 'open':data_to_be_predict['Open'],'act_close':data_to_be_predict['Close']})
+        data_close = scaler.inverse_transform(data_close)
 
-        return mse_train, mse_test, y_train, train_pred, y_test, test_pred, scaled_data, whole_predict
+        test_pred = model(x_test)
+        test_pred = pd.DataFrame((test_pred.detach().numpy()))
+        train_pred = model(x_train)
+        train_pred = pd.DataFrame((train_pred.detach().numpy()))
 
+        trainPredictPlot=np.empty_like(data_close)
+        trainPredictPlot[:,:]=np.nan
+        trainPredictPlot[lookback:len(scaler.inverse_transform(train_pred))+lookback] = scaler.inverse_transform(train_pred)
+
+        testPredictPlot=np.empty_like(data_close)
+        testPredictPlot[:,:] = np.nan
+        testPredictPlot[len(train_pred)+(lookback):len(data_close)] = scaler.inverse_transform(test_pred)
+
+        ####整体predict序列
+        whole_predict = np.empty_like(data_close)
+        whole_predict[:,:] = np.nan
+        whole_predict[lookback:len(scaler.inverse_transform(train_pred))+lookback] = scaler.inverse_transform(train_pred)
+        whole_predict[len(train_pred)+(lookback):len(data_close)] = scaler.inverse_transform(test_pred)
+        # actual = data_close[lookback:]
+
+        whole_predict = pd.DataFrame({'Date':data_to_be_predict.index,'pred_close':whole_predict.flatten(),'act_close':data_to_be_predict['Close'],'open':data_to_be_predict['Open']})
+
+        trainPredictPlot = pd.DataFrame({'Date':data_to_be_predict.index,'Close':trainPredictPlot.flatten()})
+        testPredictPlot = pd.DataFrame({'Date':data_to_be_predict.index,'Close':testPredictPlot.flatten()})
+        data_close = pd.DataFrame({'Date':data_to_be_predict.index,'Close':data_close.flatten()})
+
+        mse_test = mean_squared_error(y_test_lstm.detach().numpy(),test_pred)
+        mse_train = mean_squared_error(y_train_lstm.detach().numpy(),train_pred)
+
+        return mse_train,mse_test,testPredictPlot,trainPredictPlot,data_close,whole_predict
         #return mse_train, mse_test, y_train, train_pred, y_test, test_pred, scaled_data
 
         # elif which_model == 'arima':
