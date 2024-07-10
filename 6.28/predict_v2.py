@@ -149,7 +149,7 @@ def predict(which_model,datapath = 'stock_data/0066.HK.csv',startdate = "2022-01
         
 
         
-    if which_model == 'randomforest':
+    elif which_model == 'randomforest':
         lookback = 100
 
         mtr = scaler.fit_transform(data_to_be_predict['Close'].values.reshape(-1, 1))
