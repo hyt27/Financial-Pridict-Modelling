@@ -9583,3 +9583,37 @@ DATE:2023-12-25 BUY 67052 at 9.18  SELL at 9.19  predicted close price=9.23  tod
 DATE:2023-12-26 BUY 67052 at 9.19  SELL at 9.1  predicted close price=9.24  todayield:-6034.68  balance:610181.94
 DATE:2023-12-27 BUY 67052 at 9.1  SELL at 9.12  predicted close price=9.25  todayield:1341.04  balance:611522.98
 DATE:2023-12-28 BUY 67126 at 9.11  SELL at 9.45  predicted close price=9.24  todayield:22822.84  balance:634345.82
+DATE:2020-01-15 BUY 10274 stocks at 9.73  balance:3.99
+DATE:2020-06-16 SELL 10274 stocks at 10.07  balance:103328.67
+DATE:2020-12-25 BUY 12863 stocks at 8.03  balance:7.8
+DATE:2020-12-28 SELL 12863 stocks at 8.14  balance:104576.5
+DATE:2021-01-07 BUY 12922 stocks at 8.09  balance:6.16
+DATE:2021-01-20 SELL 12922 stocks at 8.64  balance:111507.1
+DATE:2021-01-25 BUY 14182 stocks at 7.86  balance:3.14
+DATE:2021-02-22 SELL 14182 stocks at 7.99  balance:113170.01
+DATE:2021-07-20 BUY 15309 stocks at 7.39  balance:2.56
+DATE:2022-03-22 SELL 15309 stocks at 9.4  balance:143720.08
+DATE:2022-04-22 BUY 15350 stocks at 9.36  balance:0.98
+DATE:2022-04-29 SELL 15350 stocks at 11.0  balance:168631.48
+DATE:2022-06-14 BUY 19648 stocks at 8.58  balance:1.06
+DATE:2022-09-16 SELL 19648 stocks at 10.32  balance:202504.82
+DATE:2022-09-19 BUY 22246 stocks at 9.1  balance:5.49
+DATE:2022-11-25 SELL 22246 stocks at 9.5  balance:211067.75
+DATE:2022-12-08 BUY 21142 stocks at 9.98  balance:7.29
+DATE:2022-12-12 SELL 21142 stocks at 10.13  balance:213897.34
+DATE:2022-12-13 BUY 21490 stocks at 9.95  balance:7.69
+DATE:2022-12-14 SELL 21490 stocks at 10.1  balance:216774.52
+DATE:2022-12-15 BUY 21779 stocks at 9.95  balance:8.46
+DATE:2022-12-20 SELL 21779 stocks at 10.29  balance:223823.04
+DATE:2022-12-21 BUY 23829 stocks at 9.39  balance:1.6
+DATE:2022-12-26 SELL 23829 stocks at 10.03  balance:238695.76
+DATE:2023-01-03 BUY 23602 stocks at 10.11  balance:7.96
+DATE:2023-01-04 SELL 23602 stocks at 10.31  balance:243028.24
+DATE:2023-01-05 BUY 23007 stocks at 10.56  balance:1.44
+DATE:2023-06-07 SELL 23007 stocks at 11.46  balance:263318.9
+DATE:2023-09-11 BUY 20280 stocks at 12.98  balance:5.53
+DATE:2023-09-25 SELL 20280 stocks at 12.4  balance:251150.61
+DATE:2023-09-26 BUY 20870 stocks at 12.03  balance:9.19
+DATE:2023-10-09 SELL 20870 stocks at 12.13  balance:252833.19
+DATE:2023-10-10 BUY 21566 stocks at 11.72  balance:3.85
+DATE:2023-11-07 SELL 21566 stocks at 11.32  balance:243813.6
