@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>submit task</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid black; padding: 8px; text-align: left; }
+        #modal { display: none; position: fixed; z-index: 1; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.4); }
+        #modalContent { background-color: #fefefe; margin: 15% auto; padding: 20px; border: 1px solid #888; width: 50%; }
+        #close { color: #aaa; float: right; font-size: 28px; font-weight: bold; }
+        #close:hover, #close:focus { color: black; text-decoration: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+<h1>submit task</h1>
+
+<button class="btn btn-primary btn-sm position-absolute rt-0" data-target="#submitmodal" data-toggle="modal"
+        type="button">submit task
+</button>
+</div>
+<!-- 弹出框 -->
+<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal fade" id="submitmodal" role="dialog"
+     tabindex="-1">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">submit task</h5>
+                <button aria-label="Close" class="close" data-dismiss="modal" type="button">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="modal-body">
+                        <form>
+                            <!-- Category -->
+                            <div class="form-group">
+                                <label for="category" class="col-form-label">Category:</label>
+                                <select class="form-control" id="category">
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                </select>
+                            </div>
+
+                            <!-- Stock -->
+                            <div class="form-group">
+                                <label for="stock" class="col-form-label">Stock:</label>
+                                <input type="text" class="form-control" id="stock">
+                            </div>
+
+                            <!-- Start Date -->
+                            <div class="form-group">
+                                <label for="start-date" class="col-form-label">Start Date:</label>
+                                <input type="date" class="form-control" id="start-date">
+                            </div>
+
+                            <!-- End Date -->
+                            <div class="form-group">
+                                <label for="end-date" class="col-form-label">End Date:</label>
+                                <input type="date" class="form-control" id="end-date">
+                            </div>
+
+                            <!-- Model -->
+                            <div class="form-group">
+                                <label for="model" class="col-form-label">Model:</label>
+                                <select class="form-control" id="model">
+                                    <option value="model1">Model 1</option>
+                                    <option value="model2">Model 2</option>
+                                </select>
+                            </div>
+
+                            <!-- Strategy -->
+                            <div class="form-group">
+                                <label for="strategy" class="col-form-label">Strategy:</label>
+                                <select class="form-control" id="strategy">
+                                    <option value="strategy1">Strategy 1</option>
+                                    <option value="strategy2">Strategy 2</option>
+                                </select>
+                            </div>
+
+                            <!-- Initial -->
+                            <div class="form-group">
+                                <label for="initial" class="col-form-label">Initial:</label>
+                                <input type="number" class="form-control" id="initial">
+                            </div>
+                        </form>
+                    </div>
+
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" data-dismiss="modal" type="button">cancel</button>
+                <button class="btn btn-primary" id="sendBtn" type="button">submit</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 提示框 -->
+<div aria-hidden="true" aria-labelledby="hintModalLabel" class="modal fade" id="hintModal" role="dialog"
+     tabindex="-1">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="hintModalLabel">Hint</h5>
+            </div>
+            <div class="modal-body" id="hintBody">
+                Submitted!
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<form id="parameterForm">
+    <label for="selectOption">选择参数:</label>
+    <select id="selectOption">
+        <option value="option1">选项1</option>
+        <option value="option2">选项2</option>
+        <option value="option3">选项3</option>
+    </select><br><br>
+
+    <label for="numberInput">输入数字:</label>
+    <input type="number" id="numberInput" name="numberInput"><br><br>
+
+    <label for="dateInput1">日期选择1:</label>
+    <input type="text" id="dateInput1" name="dateInput1"><br><br>
+
+    <label for="dateInput2">日期选择2:</label>
+    <input type="text" id="dateInput2" name="dateInput2"><br><br>
+
+    <button type="button" onclick="submitParameters()">提交参数</button>
+</form>
+
+<table id="resultsTable">
+    <tr>
+        <th>选择参数</th>
+        <th>输入数字</th>
+        <th>日期1</th>
+        <th>日期2</th>
+        <th>结果</th>
+    </tr>
+</table>
+
+<div id="modal">
+    <div id="modalContent">
+        <span id="close">&times;</span>
+        <img src="https://via.placeholder.com/800" alt="展示图片" style="width:100%;">
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<script>
+    flatpickr("#dateInput1", {});
+    flatpickr("#dateInput2", {});
+
+    function submitParameters() {
+        const selectOption = document.getElementById("selectOption").value;
+        const numberInput = document.getElementById("numberInput").value;
+        const dateInput1 = document.getElementById("dateInput1").value;
+        const dateInput2 = document.getElementById("dateInput2").value;
+
+        const table = document.getElementById("resultsTable");
+        const row = table.insertRow(-1);
+        row.insertCell(0).innerText = selectOption;
+        row.insertCell(1).innerText = numberInput;
+        row.insertCell(2).innerText = dateInput1;
+        row.insertCell(3).innerText = dateInput2;
+        const resultCell = row.insertCell(4);
+        resultCell.innerText = "正在处理中...";
+
+        setTimeout(() => {
+            resultCell.innerHTML = "<button onclick='showImage()'>查看图片</button>";
+        }, 2000);
+    }
+
+    function showImage() {
+        const modal = document.getElementById("modal");
+        modal.style.display = "block";
+        const close = document.getElementById("close");
+        close.onclick = function() {
+            modal.style.display = "none";
+        };
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        };
+    }
+</script>
+
+</body>
+</html>

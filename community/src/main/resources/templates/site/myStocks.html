@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" href="https://static.nowcoder.com/images/logo_87_87.png"/>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
+  <title>My Stocks</title>
+</head>
+<body>
+<div class="nk-container">
+  <!-- Header -->
+  <header class="bg-dark sticky-top" th:fragment="header">
+    <div class="container">
+      <!-- Navigation -->
+      <nav class="navbar navbar-expand-lg navbar-dark">
+        <!-- logo -->
+        <a class="navbar-brand" href="#"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Functions -->
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item ml-3 btn-group-vertical">
+              <a class="nav-link" th:href="@{/index}">Home</a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical" th:if="${loginUser!=null}">
+              <a class="nav-link position-relative" th:href="@{/letter/list}">Messages<span class="badge badge-danger" th:text="${allUnreadCount!=0?allUnreadCount:''}">12</span></a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical" th:if="${loginUser==null}">
+              <a class="nav-link" th:href="@{/register}">Register</a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical" th:if="${loginUser==null}">
+              <a class="nav-link" th:href="@{/login}">Login</a>
+            </li>
+            <!-- New "My Stocks" page link -->
+            <li class="nav-item ml-3 btn-group-vertical">
+              <a class="nav-link" th:href="@{/stock/myStocks}">My Stocks</a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical dropdown" th:if="${loginUser!=null}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img th:src="${loginUser.headerUrl}" class="rounded-circle" style="width:30px;"/>
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item text-center" th:href="@{|/user/profile/${loginUser.id}|}">Profile</a>
+                <a class="dropdown-item text-center" th:href="@{/user/setting}">Settings</a>
+                <a class="dropdown-item text-center" th:href="@{/logout}">Logout</a>
+                <div class="dropdown-divider"></div>
+                <span class="dropdown-item text-center text-secondary" th:utext="${loginUser.username}">nowcoder</span>
+              </div>
+            </li>
+          </ul>
+          <!-- Search -->
+          <form class="form-inline my-2 my-lg-0" action="site/search.html">
+            <input class="form-control mr-sm-2" type="search" aria-label="Search" />
+            <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <div class="container mt-5">
+    <h1 class="text-center">My Stocks</h1>
+    <table class="table table-bordered mt-3">
+      <thead>
+      <tr>
+        <th>Stock Name</th>
+        <th>Stock Code</th>
+        <th>Latest Price</th>
+        <th>Price Chart</th>
+      </tr>
+      </thead>
+      <tbody id="my-stock-table-body">
+      <!-- Data rows will be dynamically added by JavaScript -->
+      </tbody>
+    </table>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    async function fetchMyStockData() {
+      const response = await fetch('/community/stock/myStocks/data'); // Adjust the request URL
+      const stocks = await response.json();
+      return stocks;
+    }
+
+    async function getLatestPrice(stockCode) {
+      const response = await fetch('/community/stock/latestPrice?code=' + stockCode); // Adjust the request URL
+      const price = await response.text();
+      return parseFloat(price);
+    }
+
+    async function loadMyStockData() {
+      const stocks = await fetchMyStockData();
+      const tableBody = document.getElementById("my-stock-table-body");
+      tableBody.innerHTML = ""; // Clear existing table data
+
+      for (const stock of stocks) {
+        const latestPrice = await getLatestPrice(stock.code);
+
+        const row = document.createElement("tr");
+
+        const nameCell = document.createElement("td");
+        nameCell.textContent = stock.name;
+        row.appendChild(nameCell);
+
+        const codeCell = document.createElement("td");
+        codeCell.textContent = stock.code;
+        row.appendChild(codeCell);
+
+        const priceCell = document.createElement("td");
+        priceCell.textContent = latestPrice.toFixed(2);
+        row.appendChild(priceCell);
+
+        const chartCell = document.createElement("td");
+        const canvas = document.createElement("canvas");
+        canvas.width = 400; // Increase width for better data display
+        canvas.height = 200; // Increase height for better data display
+        chartCell.appendChild(canvas);
+        row.appendChild(chartCell);
+
+        tableBody.appendChild(row);
+
+        const ctx = canvas.getContext('2d');
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            labels: Array.from({ length: 10 }, (_, i) => new Date(Date.now() - (i * 60000)).toLocaleTimeString()), // Sample labels
+            datasets: [{
+              label: stock.name,
+              data: Array.from({ length: 10 }, () => latestPrice), // Sample data
+              borderColor: 'rgba(75, 192, 192, 1)',
+              borderWidth: 2,
+              pointRadius: 0 // Hide data points
+            }]
+          },
+          options: {
+            scales: {
+              x: {
+                beginAtZero: true,
+                title: {
+                  display: true,
+                  text: 'Time'
+                },
+                ticks: {
+                  autoSkip: true,
+                  maxTicksLimit: 10
+                }
+              },
+              y: {
+                beginAtZero: false, // Allow Y-axis to adapt to data range
+                title: {
+                  display: true,
+                  text: 'Price'
+                }
+              }
+            },
+            elements: {
+              line: {
+                tension: 0.4 // Make the curve smoother
+              }
+            },
+            plugins: {
+              legend: {
+                display: true,
+                position: 'bottom'
+              }
+            }
+          }
+        });
+      }
+    }
+
+    window.onload = () => {
+      loadMyStockData();
+      setInterval(loadMyStockData, 60000); // Refresh data every minute
+    };
+  </script>
+</body>
+</html>

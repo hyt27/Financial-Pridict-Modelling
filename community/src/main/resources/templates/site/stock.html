@@ -1,0 +1,292 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" href="https://static.nowcoder.com/images/logo_87_87.png"/>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
+  <title>Stock Price Display</title>
+</head>
+<body>
+<div class="nk-container">
+  <header class="bg-dark sticky-top" th:fragment="header">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="#"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item ml-3 btn-group-vertical">
+              <a class="nav-link" th:href="@{/index}">Home</a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical" th:if="${loginUser!=null}">
+              <a class="nav-link position-relative" th:href="@{/letter/list}">Messages<span class="badge badge-danger" th:text="${allUnreadCount!=0?allUnreadCount:''}">12</span></a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical" th:if="${loginUser==null}">
+              <a class="nav-link" th:href="@{/register}">Register</a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical" th:if="${loginUser==null}">
+              <a class="nav-link" th:href="@{/login}">Login</a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical">
+              <a class="nav-link" th:href="@{/stock}">Stock Price Display</a>
+            </li>
+            <li class="nav-item ml-3 btn-group-vertical dropdown" th:if="${loginUser!=null}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <img th:src="${loginUser.headerUrl}" class="rounded-circle" style="width:30px;"/>
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item text-center" th:href="@{|/user/profile/${loginUser.id}|}">Profile</a>
+                <a class="dropdown-item text-center" th:href="@{/user/setting}">Settings</a>
+                <a class="dropdown-item text-center" th:href="@{/logout}">Logout</a>
+                <div class="dropdown-divider"></div>
+                <span class="dropdown-item text-center text-secondary" th:utext="${loginUser.username}">nowcoder</span>
+              </div>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0" action="site/search.html">
+            <input class="form-control mr-sm-2" type="search" aria-label="Search" />
+            <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+    </div>
+  </header>
+  <div class="container mt-5">
+    <h1 class="text-center">Stock Price Display</h1>
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="all-stocks-tab" data-toggle="tab" href="#all-stocks" role="tab" aria-controls="all-stocks" aria-selected="true">All Stocks</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="my-following-tab" data-toggle="tab" href="#my-following" role="tab" aria-controls="my-following" aria-selected="false">My Following</a>
+      </li>
+    </ul>
+    <div class="tab-content" id="myTabContent">
+      <div class="tab-pane fade show active" id="all-stocks" role="tabpanel" aria-labelledby="all-stocks-tab">
+        <table class="table table-bordered mt-3">
+          <thead>
+          <tr>
+            <th>Stock Name</th>
+            <th>Stock Code</th>
+            <th>Action</th>
+          </tr>
+          </thead>
+          <tbody id="stock-table-body">
+          <!-- Data rows will be dynamically added by JavaScript -->
+          </tbody>
+        </table>
+      </div>
+      <div class="tab-pane fade" id="my-following" role="tabpanel" aria-labelledby="my-following-tab">
+        <table class="table table-bordered mt-3">
+          <thead>
+          <tr>
+            <th>Stock Name</th>
+            <th>Stock Code</th>
+            <th>Current Price</th>
+            <th>Open Price</th>
+            <th>High Price</th>
+            <th>Low Price</th>
+            <th>Previous Close Price</th>
+            <th>Price Change</th>
+            <th>Price Change %</th>
+            <th>Company Name</th>
+            <th>Exchange</th>
+            <th>Industry</th>
+            <th>Website</th>
+            <th>Country</th>
+          </tr>
+          </thead>
+          <tbody id="my-following-table-body">
+          <!-- Data rows will be dynamically added by JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
+  <script>
+    async function fetchStockData() {
+      const response = await fetch('/community/stock/data'); // Adjust the request URL
+      const stocks = await response.json();
+      console.log("Fetched Stock Data:", stocks); // 添加日志输出
+      return stocks;
+    }
+
+    async function fetchMyFollowingStockData() {
+      const response = await fetch('/community/stock/my-following'); // Adjust the request URL
+      const stocks = await response.json();
+      console.log("Fetched My Following Stock Data:", stocks); // 添加日志输出
+      return stocks;
+    }
+
+    async function isFollowing(stockCode) {
+      const response = await fetch(`/community/stock/isFollowing?stockCode=${stockCode}`);
+      const result = response.ok && await response.json();
+      console.log(`Stock Code: ${stockCode}, Is Following: ${result}`); // 添加日志输出
+      return result;
+    }
+
+    function updateStockTable(stocks) {
+      const tableBody = document.getElementById("stock-table-body");
+      tableBody.innerHTML = ""; // Clear existing table data
+
+      stocks.forEach(async stock => {
+        const row = document.createElement("tr");
+
+        const nameCell = document.createElement("td");
+        nameCell.textContent = stock.ticker; // 使用 ticker 显示股票代码
+        row.appendChild(nameCell);
+
+        const codeCell = document.createElement("td");
+        codeCell.textContent = stock.ticker; // 使用 ticker 显示股票代码
+        row.appendChild(codeCell);
+
+        const actionCell = document.createElement("td");
+        const followButton = document.createElement("button");
+        followButton.textContent = "Follow";
+        followButton.className = "btn btn-primary";
+        followButton.onclick = async () => {
+          if (followButton.classList.contains("btn-primary")) {
+            const response = await fetch('/community/stock/follow', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json'
+              },
+              body: JSON.stringify({ stockCode: stock.ticker }) // 使用 ticker 作为股票代码
+            });
+            if (response.ok) {
+              followButton.classList.remove("btn-primary");
+              followButton.classList.add("btn-secondary");
+              followButton.textContent = "Unfollow";
+              alert('Follow Success');
+            } else {
+              alert('Follow Failure');
+            }
+          } else {
+            const response = await fetch('/community/stock/unfollow', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json'
+              },
+              body: JSON.stringify({ stockCode: stock.ticker }) // 使用 ticker 作为股票代码
+            });
+            if (response.ok) {
+              followButton.classList.remove("btn-secondary");
+              followButton.classList.add("btn-primary");
+              followButton.textContent = "Follow";
+              alert('Unfollow Success');
+            } else {
+              alert('Unfollow Failure');
+            }
+          }
+        };
+        actionCell.appendChild(followButton);
+        row.appendChild(actionCell);
+
+        tableBody.appendChild(row);
+
+        if (await isFollowing(stock.ticker)) { // 使用 ticker 作为股票代码
+          followButton.classList.remove("btn-primary");
+          followButton.classList.add("btn-secondary");
+          followButton.textContent = "Unfollow";
+        }
+      });
+    }
+
+
+    function updateMyFollowingTable(stocks) {
+      const tableBody = document.getElementById("my-following-table-body");
+      tableBody.innerHTML = ""; // Clear existing table data
+
+      stocks.forEach(stock => {
+        const row = document.createElement("tr");
+
+        const nameCell = document.createElement("td");
+        nameCell.textContent = stock.ticker;
+        row.appendChild(nameCell);
+
+        const codeCell = document.createElement("td");
+        codeCell.textContent = stock.ticker;
+        row.appendChild(codeCell);
+
+        const currentPriceCell = document.createElement("td");
+        currentPriceCell.textContent = stock.currentPrice;
+        row.appendChild(currentPriceCell);
+
+        const openPriceCell = document.createElement("td");
+        openPriceCell.textContent = stock.openPrice;
+        row.appendChild(openPriceCell);
+
+        const highPriceCell = document.createElement("td");
+        highPriceCell.textContent = stock.highPrice;
+        row.appendChild(highPriceCell);
+
+        const lowPriceCell = document.createElement("td");
+        lowPriceCell.textContent = stock.lowPrice;
+        row.appendChild(lowPriceCell);
+
+        const prevClosePriceCell = document.createElement("td");
+        prevClosePriceCell.textContent = stock.prevClosePrice;
+        row.appendChild(prevClosePriceCell);
+
+        const priceChangeCell = document.createElement("td");
+        priceChangeCell.textContent = stock.priceChange;
+        row.appendChild(priceChangeCell);
+
+        const priceChangePercentCell = document.createElement("td");
+        priceChangePercentCell.textContent = stock.priceChangePercent;
+        row.appendChild(priceChangePercentCell);
+
+        const companyNameCell = document.createElement("td");
+        companyNameCell.textContent = stock.companyName;
+        row.appendChild(companyNameCell);
+
+        const exchangeCell = document.createElement("td");
+        exchangeCell.textContent = stock.exchange;
+        row.appendChild(exchangeCell);
+
+        const industryCell = document.createElement("td");
+        industryCell.textContent = stock.industry;
+        row.appendChild(industryCell);
+
+        const websiteCell = document.createElement("td");
+        const websiteLink = document.createElement("a");
+        websiteLink.href = stock.website;
+        websiteLink.textContent = stock.website;
+        websiteCell.appendChild(websiteLink);
+        row.appendChild(websiteCell);
+
+        const countryCell = document.createElement("td");
+        countryCell.textContent = stock.country;
+        row.appendChild(countryCell);
+
+        tableBody.appendChild(row);
+      });
+    }
+
+    async function loadStockData() {
+      const stocks = await fetchStockData();
+      updateStockTable(stocks);
+    }
+
+    async function loadMyFollowingStockData() {
+      const stocks = await fetchMyFollowingStockData();
+      updateMyFollowingTable(stocks);
+    }
+
+    window.onload = () => {
+      loadStockData();
+      setInterval(loadStockData, 60000); // Refresh data every minute
+
+      loadMyFollowingStockData();
+      setInterval(loadMyFollowingStockData, 60000); // Refresh data every minute
+    };
+  </script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+version: '3'
+
+services:
+
+
+
+  mysql:
+    image: mysql:5.7
+    platform: linux/amd64
+    networks:
+      default:
+        aliases:
+          - mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: xzh830600
+      MYSQL_DATABASE: community
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - mysql-data:/var/lib/mysql
+
+
+  redis:
+    image: redis:alpine
+    networks:
+      default:
+        aliases:
+          - redis
+    restart: always
+    command: redis-server --databases 17
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+
+  zookeeper:
+    image: confluentinc/cp-zookeeper:latest
+    platform: linux/amd64
+    restart: always
+    container_name: zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+    ports:
+      - "2181:2181"
+    volumes:
+      - zookeeper-data:/var/lib/zookeeper/data
+      - zookeeper-log:/var/lib/zookeeper/log
+    healthcheck:
+      test: [ "CMD", "echo", "ruok", "|", "nc", "localhost", "2181", "|", "grep", "imok" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  kafka:
+    image: wurstmeister/kafka
+    networks:
+      default:
+        aliases:
+          - kafka
+    platform: linux/amd64
+    expose:
+      - "9999"
+    restart: always
+    depends_on:
+      zookeeper:
+        condition: service_healthy
+    environment:
+      KAFKA_BROKER_ID: 0
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      # 设置监听器，以支持内部和外部通信
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_INTERNAL:PLAINTEXT
+      KAFKA_LISTENERS: PLAINTEXT://0.0.0.0:9092,PLAINTEXT_INTERNAL://0.0.0.0:29092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092,PLAINTEXT_INTERNAL://kafka:29092
+#      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT_INTERNAL:PLAINTEXT,PLAINTEXT_EXTERNAL:PLAINTEXT
+##      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT_INTERNAL://kafka:29092,PLAINTEXT_EXTERNAL://host.docker.internal:9092
+#      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+#      KAFKA_LISTENERS: "PLAINTEXT://0.0.0.0:9092"
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT_INTERNAL
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+      JMX_PORT: 9999
+    ports:
+      - "9092:9092"
+      - "29092:29092"
+      - "9999:9999"
+    volumes:
+      - kafka-data:/var/lib/kafka/data
+
+  app:
+    image: springapp:2.2
+    restart: always
+#    volumes:
+#      - ./src/main/resources:/app/resources
+    volumes:
+      - type: bind
+        source: ./src/main/resources
+        target: /app/src/main/resources
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mysql
+      - redis
+      - kafka
+
+volumes:
+  mysql-data:
+  redis-data:
+  zookeeper-data:
+  zookeeper-log:
+  kafka-data:

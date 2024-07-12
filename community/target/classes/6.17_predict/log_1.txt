@@ -1,0 +1,1282 @@
+DATE:2020-03-20 BUY 12527 stocks at 7.98  balance:4.55
+DATE:2020-03-25 SELL 12527 stocks at 8.12  balance:101591.56
+DATE:2020-03-31 BUY 12855 stocks at 7.9  balance:6.59
+DATE:2020-04-07 SELL 12855 stocks at 8.26  balance:106050.85
+DATE:2020-04-13 BUY 12929 stocks at 8.2  balance:1.25
+DATE:2020-04-17 SELL 12929 stocks at 8.25  balance:106526.83
+DATE:2020-04-27 BUY 12753 stocks at 8.35  balance:7.34
+DATE:2020-04-28 SELL 12753 stocks at 8.51  balance:108394.28
+DATE:2020-04-29 BUY 13312 stocks at 8.14  balance:2.09
+DATE:2020-05-11 SELL 13312 stocks at 8.44  balance:112209.31
+DATE:2020-05-19 BUY 13450 stocks at 8.34  balance:2.66
+DATE:2020-05-27 SELL 13450 stocks at 8.59  balance:115387.97
+DATE:2020-06-09 BUY 12648 stocks at 9.12  balance:3.6
+DATE:2020-06-11 SELL 12648 stocks at 9.1  balance:114950.77
+DATE:2020-06-12 BUY 12825 stocks at 8.96  balance:4.3
+DATE:2020-06-15 SELL 12825 stocks at 9.61  balance:123092.33
+DATE:2020-06-23 BUY 12052 stocks at 10.21  balance:4.49
+DATE:2020-06-30 SELL 12052 stocks at 10.8  balance:129996.88
+DATE:2020-07-06 BUY 11825 stocks at 10.99  balance:1.15
+DATE:2020-07-07 SELL 11825 stocks at 11.55  balance:136402.34
+DATE:2020-07-09 BUY 12131 stocks at 11.24  balance:9.0
+DATE:2020-07-13 SELL 12131 stocks at 12.52  balance:151691.67
+DATE:2020-07-17 BUY 13039 stocks at 11.63  balance:2.61
+DATE:2020-07-22 SELL 13039 stocks at 13.25  balance:172544.76
+DATE:2020-07-28 BUY 13657 stocks at 12.63  balance:5.11
+DATE:2020-07-30 SELL 13657 stocks at 13.16  balance:179497.58
+DATE:2020-08-10 BUY 13942 stocks at 12.87  balance:10.21
+DATE:2020-08-11 SELL 13942 stocks at 13.47  balance:187564.81
+DATE:2020-08-12 BUY 14718 stocks at 12.74  balance:1.24
+DATE:2020-08-19 SELL 14718 stocks at 12.86  balance:189028.67
+DATE:2020-08-20 BUY 15376 stocks at 12.29  balance:0.94
+DATE:2020-09-16 SELL 15376 stocks at 10.32  balance:158474.97
+DATE:2020-09-17 BUY 15562 stocks at 10.18  balance:6.29
+DATE:2020-09-21 SELL 15562 stocks at 11.31  balance:175783.7
+DATE:2020-09-25 BUY 16241 stocks at 10.82  balance:3.36
+DATE:2020-10-12 SELL 16241 stocks at 11.8  balance:191398.02
+DATE:2020-10-15 BUY 17618 stocks at 10.86  balance:9.14
+DATE:2020-11-06 SELL 17618 stocks at 9.59  balance:168746.12
+DATE:2020-11-12 BUY 17946 stocks at 9.4  balance:3.11
+DATE:2020-11-19 SELL 17946 stocks at 9.39  balance:168296.98
+DATE:2020-11-23 BUY 18032 stocks at 9.33  balance:7.95
+DATE:2020-12-01 SELL 18032 stocks at 9.24  balance:166407.03
+DATE:2020-12-07 BUY 18101 stocks at 9.19  balance:8.94
+DATE:2020-12-30 SELL 18101 stocks at 8.19  balance:148063.41
+DATE:2021-01-07 BUY 18296 stocks at 8.09  balance:4.36
+DATE:2021-01-15 SELL 18296 stocks at 7.74  balance:141431.31
+DATE:2021-01-25 BUY 17988 stocks at 7.86  balance:3.21
+DATE:2021-02-18 SELL 17988 stocks at 7.6  balance:136534.29
+DATE:2021-03-03 BUY 17321 stocks at 7.88  balance:3.86
+DATE:2021-03-16 SELL 17321 stocks at 8.08  balance:139775.6
+DATE:2021-03-25 BUY 17082 stocks at 8.18  balance:2.92
+DATE:2021-04-08 SELL 17082 stocks at 8.12  balance:138528.45
+DATE:2021-04-09 BUY 17289 stocks at 8.01  balance:2.01
+DATE:2021-04-19 SELL 17289 stocks at 7.96  balance:137443.55
+DATE:2021-04-28 BUY 17481 stocks at 7.86  balance:1.66
+DATE:2021-05-12 SELL 17481 stocks at 7.81  balance:136350.79
+DATE:2021-05-18 BUY 17565 stocks at 7.76  balance:5.5
+DATE:2021-05-25 SELL 17565 stocks at 7.74  balance:135781.86
+DATE:2021-06-07 BUY 17182 stocks at 7.9  balance:3.34
+DATE:2021-06-09 SELL 17182 stocks at 7.93  balance:136079.47
+DATE:2021-06-11 BUY 17133 stocks at 7.94  balance:2.64
+DATE:2021-06-24 SELL 17133 stocks at 7.89  balance:135006.28
+DATE:2021-06-25 BUY 17149 stocks at 7.87  balance:3.16
+DATE:2021-06-28 SELL 17149 stocks at 7.91  balance:135475.4
+DATE:2021-06-30 BUY 17341 stocks at 7.81  balance:1.56
+DATE:2021-07-14 SELL 17341 stocks at 7.69  balance:133180.5
+DATE:2021-07-19 BUY 17587 stocks at 7.57  balance:6.97
+DATE:2021-08-06 SELL 17587 stocks at 6.9  balance:121199.51
+DATE:2021-08-09 BUY 17897 stocks at 6.77  balance:0.47
+DATE:2021-08-10 SELL 17897 stocks at 6.98  balance:124759.13
+DATE:2021-08-18 BUY 17691 stocks at 7.05  balance:0.17
+DATE:2021-08-25 SELL 17691 stocks at 7.06  balance:124736.26
+DATE:2021-08-26 BUY 17788 stocks at 7.01  balance:4.97
+DATE:2021-09-01 SELL 17788 stocks at 7.07  balance:125602.64
+DATE:2021-09-13 BUY 17014 stocks at 7.38  balance:1.65
+DATE:2021-09-16 SELL 17014 stocks at 7.49  balance:127270.85
+DATE:2021-09-22 BUY 17573 stocks at 7.24  balance:4.16
+DATE:2021-09-23 SELL 17573 stocks at 7.47  balance:131103.82
+DATE:2021-09-28 BUY 17735 stocks at 7.39  balance:2.85
+DATE:2021-10-11 SELL 17735 stocks at 7.42  balance:131425.48
+DATE:2021-10-13 BUY 18248 stocks at 7.2  balance:0.46
+DATE:2021-11-01 SELL 18248 stocks at 7.01  balance:127752.65
+DATE:2021-11-02 BUY 18590 stocks at 6.87  balance:1.03
+DATE:2021-11-09 SELL 18590 stocks at 6.93  balance:128662.26
+DATE:2021-11-19 BUY 18065 stocks at 7.12  balance:0.87
+DATE:2021-11-22 SELL 18065 stocks at 7.27  balance:131162.69
+DATE:2021-11-23 BUY 18364 stocks at 7.14  balance:4.39
+DATE:2021-11-26 SELL 18364 stocks at 7.36  balance:134987.72
+DATE:2021-11-30 BUY 18847 stocks at 7.16  balance:2.72
+DATE:2021-12-06 SELL 18847 stocks at 7.37  balance:138724.54
+DATE:2021-12-07 BUY 19102 stocks at 7.26  balance:2.41
+DATE:2021-12-13 SELL 19102 stocks at 7.33  balance:139838.05
+DATE:2021-12-24 BUY 17922 stocks at 7.8  balance:4.51
+DATE:2022-01-04 SELL 17922 stocks at 7.78  balance:139256.41
+DATE:2022-01-18 BUY 16416 stocks at 8.48  balance:6.97
+DATE:2022-02-07 SELL 16416 stocks at 8.15  balance:133623.44
+DATE:2022-02-18 BUY 15478 stocks at 8.63  balance:8.23
+DATE:2022-02-21 SELL 15478 stocks at 8.89  balance:137428.77
+DATE:2022-02-24 BUY 15436 stocks at 8.9  balance:7.15
+DATE:2022-03-03 SELL 15436 stocks at 8.91  balance:137363.12
+DATE:2022-03-07 BUY 15640 stocks at 8.78  balance:2.72
+DATE:2022-03-08 SELL 15640 stocks at 8.89  balance:138861.57
+DATE:2022-03-09 BUY 16217 stocks at 8.56  balance:2.41
+DATE:2022-03-14 SELL 16217 stocks at 8.89  balance:143984.12
+DATE:2022-03-16 BUY 17217 stocks at 8.36  balance:6.82
+DATE:2022-03-18 SELL 17217 stocks at 8.9  balance:153038.92
+DATE:2022-04-11 BUY 13292 stocks at 11.51  balance:2.1
+DATE:2022-04-20 SELL 13292 stocks at 11.1  balance:147351.5
+DATE:2022-04-21 BUY 13626 stocks at 10.81  balance:10.25
+DATE:2022-04-29 SELL 13626 stocks at 11.0  balance:149701.39
+DATE:2022-05-10 BUY 14529 stocks at 10.3  balance:7.8
+DATE:2022-05-11 SELL 14529 stocks at 10.9  balance:158168.02
+DATE:2022-05-13 BUY 14987 stocks at 10.55  balance:7.74
+DATE:2022-05-16 SELL 14987 stocks at 12.3  balance:184108.2
+DATE:2022-05-18 BUY 17185 stocks at 10.71  balance:1.63
+DATE:2022-05-20 SELL 17185 stocks at 11.65  balance:199946.62
+DATE:2022-05-24 BUY 17847 stocks at 11.2  balance:0.25
+DATE:2022-06-08 SELL 17847 stocks at 9.36  balance:166831.01
+DATE:2022-06-09 BUY 18490 stocks at 9.02  balance:1.17
+DATE:2022-06-21 SELL 18490 stocks at 8.73  balance:161209.03
+DATE:2022-06-23 BUY 18717 stocks at 8.61  balance:7.31
+DATE:2022-06-24 SELL 18717 stocks at 8.85  balance:165437.43
+DATE:2022-07-04 BUY 18645 stocks at 8.87  balance:6.66
+DATE:2022-07-14 SELL 18645 stocks at 8.69  balance:161821.08
+DATE:2022-07-15 BUY 19397 stocks at 8.34  balance:1.57
+DATE:2022-07-20 SELL 19397 stocks at 8.36  balance:161949.68
+DATE:2022-07-22 BUY 19865 stocks at 8.15  balance:1.36
+DATE:2022-07-25 SELL 19865 stocks at 8.22  balance:163079.38
+DATE:2022-08-02 BUY 19761 stocks at 8.25  balance:2.22
+DATE:2022-08-10 SELL 19761 stocks at 7.95  balance:156897.94
+DATE:2022-08-25 BUY 18717 stocks at 8.38  balance:2.43
+DATE:2022-09-02 SELL 18717 stocks at 9.24  balance:172722.68
+DATE:2022-09-14 BUY 19555 stocks at 8.83  balance:0.23
+DATE:2022-09-15 SELL 19555 stocks at 9.91  balance:193538.35
+DATE:2022-09-21 BUY 20737 stocks at 9.33  balance:4.1
+DATE:2022-10-13 SELL 20737 stocks at 8.11  balance:167962.54
+DATE:2022-10-21 BUY 20109 stocks at 8.35  balance:2.02
+DATE:2022-11-02 SELL 20109 stocks at 7.88  balance:158254.94
+DATE:2022-11-22 BUY 17159 stocks at 9.22  balance:1.5
+DATE:2022-11-24 SELL 17159 stocks at 9.64  balance:165199.22
+DATE:2022-12-05 BUY 15879 stocks at 10.4  balance:8.08
+DATE:2022-12-06 SELL 15879 stocks at 10.8  balance:171278.34
+DATE:2022-12-07 BUY 17157 stocks at 9.98  balance:0.11
+DATE:2022-12-14 SELL 17157 stocks at 10.1  balance:173060.54
+DATE:2022-12-15 BUY 17387 stocks at 9.95  balance:7.99
+DATE:2022-12-16 SELL 17387 stocks at 10.24  balance:177819.41
+DATE:2022-12-21 BUY 18931 stocks at 9.39  balance:3.99
+DATE:2022-12-26 SELL 18931 stocks at 10.03  balance:189635.08
+DATE:2022-12-30 BUY 18604 stocks at 10.19  balance:3.45
+DATE:2023-01-05 SELL 18604 stocks at 10.56  balance:196206.3
+DATE:2023-01-09 BUY 19497 stocks at 10.06  balance:7.63
+DATE:2023-01-20 SELL 19497 stocks at 10.17  balance:198034.35
+DATE:2023-02-07 BUY 18765 stocks at 10.55  balance:4.21
+DATE:2023-02-14 SELL 18765 stocks at 10.6  balance:198654.63
+DATE:2023-02-15 BUY 19059 stocks at 10.42  balance:0.27
+DATE:2023-02-22 SELL 19059 stocks at 10.25  balance:195101.06
+DATE:2023-02-27 BUY 19103 stocks at 10.21  balance:0.92
+DATE:2023-03-02 SELL 19103 stocks at 10.18  balance:194216.65
+DATE:2023-03-03 BUY 19242 stocks at 10.09  balance:6.62
+DATE:2023-03-06 SELL 19242 stocks at 10.12  balance:194482.52
+DATE:2023-03-07 BUY 19268 stocks at 10.09  balance:10.07
+DATE:2023-03-16 SELL 19268 stocks at 9.66  balance:185896.98
+DATE:2023-03-17 BUY 19439 stocks at 9.56  balance:4.39
+DATE:2023-03-20 SELL 19439 stocks at 9.6  balance:186376.19
+DATE:2023-03-21 BUY 19388 stocks at 9.61  balance:1.62
+DATE:2023-03-22 SELL 19388 stocks at 9.69  balance:187627.11
+DATE:2023-03-29 BUY 19257 stocks at 9.74  balance:7.66
+DATE:2023-04-10 SELL 19257 stocks at 9.67  balance:185980.77
+DATE:2023-04-18 BUY 19306 stocks at 9.63  balance:8.21
+DATE:2023-05-04 SELL 19306 stocks at 9.98  balance:192431.62
+DATE:2023-05-22 BUY 18080 stocks at 10.64  balance:2.71
+DATE:2023-06-05 SELL 18080 stocks at 10.18  balance:183817.84
+DATE:2023-06-20 BUY 15326 stocks at 11.99  balance:3.97
+DATE:2023-06-29 SELL 15326 stocks at 11.42  balance:174799.36
+DATE:2023-06-30 BUY 15355 stocks at 11.38  balance:7.04
+DATE:2023-07-03 SELL 15355 stocks at 11.44  balance:175439.88
+DATE:2023-07-05 BUY 15479 stocks at 11.33  balance:10.19
+DATE:2023-07-07 SELL 15479 stocks at 11.48  balance:177478.11
+DATE:2023-07-11 BUY 15414 stocks at 11.51  balance:9.74
+DATE:2023-07-12 SELL 15414 stocks at 11.4  balance:175500.91
+DATE:2023-07-13 BUY 14620 stocks at 12.0  balance:8.27
+DATE:2023-07-14 SELL 14620 stocks at 12.28  balance:179308.48
+DATE:2023-08-22 BUY 13297 stocks at 13.48  balance:11.15
+DATE:2023-08-23 SELL 13297 stocks at 13.5  balance:179287.28
+DATE:2023-09-06 BUY 13578 stocks at 13.2  balance:3.92
+DATE:2023-09-07 SELL 13578 stocks at 13.5  balance:183068.62
+DATE:2023-09-08 BUY 13657 stocks at 13.4  balance:9.92
+DATE:2023-09-25 SELL 13657 stocks at 12.4  balance:169136.57
+DATE:2023-09-26 BUY 14055 stocks at 12.03  balance:4.2
+DATE:2023-10-25 SELL 14055 stocks at 11.36  balance:159461.43
+DATE:2023-11-01 BUY 14297 stocks at 11.15  balance:2.06
+DATE:2023-11-07 SELL 14297 stocks at 11.32  balance:161633.7
+DATE:2023-11-14 BUY 14261 stocks at 11.33  balance:8.1
+DATE:2023-11-15 SELL 14261 stocks at 11.64  balance:165790.34
+DATE:2023-11-28 BUY 14153 stocks at 11.71  balance:8.99
+DATE:2023-12-08 SELL 14153 stocks at 11.59  balance:163829.02
+DATE:2023-12-20 BUY 13903 stocks at 11.78  balance:2.55
+DATE:2023-12-29 SELL 13903 stocks at 11.0  balance:152736.73
+DATE:2020-03-20 BUY 12527 stocks at 7.98  balance:4.55
+DATE:2020-03-25 SELL 12527 stocks at 8.12  balance:101591.56
+DATE:2020-03-31 BUY 12855 stocks at 7.9  balance:6.59
+DATE:2020-04-07 SELL 12855 stocks at 8.26  balance:106050.85
+DATE:2020-04-13 BUY 12929 stocks at 8.2  balance:1.25
+DATE:2020-04-17 SELL 12929 stocks at 8.25  balance:106526.83
+DATE:2020-04-27 BUY 12753 stocks at 8.35  balance:7.34
+DATE:2020-04-28 SELL 12753 stocks at 8.51  balance:108394.28
+DATE:2020-04-29 BUY 13312 stocks at 8.14  balance:2.09
+DATE:2020-05-11 SELL 13312 stocks at 8.44  balance:112209.31
+DATE:2020-05-19 BUY 13450 stocks at 8.34  balance:2.66
+DATE:2020-05-27 SELL 13450 stocks at 8.59  balance:115387.97
+DATE:2020-06-09 BUY 12648 stocks at 9.12  balance:3.6
+DATE:2020-06-11 SELL 12648 stocks at 9.1  balance:114950.77
+DATE:2020-06-12 BUY 12825 stocks at 8.96  balance:4.3
+DATE:2020-06-15 SELL 12825 stocks at 9.61  balance:123092.33
+DATE:2020-06-23 BUY 12052 stocks at 10.21  balance:4.49
+DATE:2020-06-30 SELL 12052 stocks at 10.8  balance:129996.88
+DATE:2020-07-06 BUY 11825 stocks at 10.99  balance:1.15
+DATE:2020-07-07 SELL 11825 stocks at 11.55  balance:136402.34
+DATE:2020-07-09 BUY 12131 stocks at 11.24  balance:9.0
+DATE:2020-07-13 SELL 12131 stocks at 12.52  balance:151691.67
+DATE:2020-07-17 BUY 13039 stocks at 11.63  balance:2.61
+DATE:2020-07-22 SELL 13039 stocks at 13.25  balance:172544.76
+DATE:2020-07-28 BUY 13657 stocks at 12.63  balance:5.11
+DATE:2020-07-30 SELL 13657 stocks at 13.16  balance:179497.58
+DATE:2020-08-10 BUY 13942 stocks at 12.87  balance:10.21
+DATE:2020-08-11 SELL 13942 stocks at 13.47  balance:187564.81
+DATE:2020-08-12 BUY 14718 stocks at 12.74  balance:1.24
+DATE:2020-08-19 SELL 14718 stocks at 12.86  balance:189028.67
+DATE:2020-08-20 BUY 15376 stocks at 12.29  balance:0.94
+DATE:2020-09-16 SELL 15376 stocks at 10.32  balance:158474.97
+DATE:2020-09-17 BUY 15562 stocks at 10.18  balance:6.29
+DATE:2020-09-21 SELL 15562 stocks at 11.31  balance:175783.7
+DATE:2020-09-25 BUY 16241 stocks at 10.82  balance:3.36
+DATE:2020-10-12 SELL 16241 stocks at 11.8  balance:191398.02
+DATE:2020-10-15 BUY 17618 stocks at 10.86  balance:9.14
+DATE:2020-11-06 SELL 17618 stocks at 9.59  balance:168746.12
+DATE:2020-11-12 BUY 17946 stocks at 9.4  balance:3.11
+DATE:2020-11-19 SELL 17946 stocks at 9.39  balance:168296.98
+DATE:2020-11-23 BUY 18032 stocks at 9.33  balance:7.95
+DATE:2020-12-01 SELL 18032 stocks at 9.24  balance:166407.03
+DATE:2020-12-07 BUY 18101 stocks at 9.19  balance:8.94
+DATE:2020-12-30 SELL 18101 stocks at 8.19  balance:148063.41
+DATE:2021-01-07 BUY 18296 stocks at 8.09  balance:4.36
+DATE:2021-01-15 SELL 18296 stocks at 7.74  balance:141431.31
+DATE:2021-01-25 BUY 17988 stocks at 7.86  balance:3.21
+DATE:2021-02-18 SELL 17988 stocks at 7.6  balance:136534.29
+DATE:2021-03-03 BUY 17321 stocks at 7.88  balance:3.86
+DATE:2021-03-16 SELL 17321 stocks at 8.08  balance:139775.6
+DATE:2021-03-25 BUY 17082 stocks at 8.18  balance:2.92
+DATE:2021-04-08 SELL 17082 stocks at 8.12  balance:138528.45
+DATE:2021-04-09 BUY 17289 stocks at 8.01  balance:2.01
+DATE:2021-04-19 SELL 17289 stocks at 7.96  balance:137443.55
+DATE:2021-04-28 BUY 17481 stocks at 7.86  balance:1.66
+DATE:2021-05-12 SELL 17481 stocks at 7.81  balance:136350.79
+DATE:2021-05-18 BUY 17565 stocks at 7.76  balance:5.5
+DATE:2021-05-25 SELL 17565 stocks at 7.74  balance:135781.86
+DATE:2021-06-07 BUY 17182 stocks at 7.9  balance:3.34
+DATE:2021-06-09 SELL 17182 stocks at 7.93  balance:136079.47
+DATE:2021-06-11 BUY 17133 stocks at 7.94  balance:2.64
+DATE:2021-06-24 SELL 17133 stocks at 7.89  balance:135006.28
+DATE:2021-06-25 BUY 17149 stocks at 7.87  balance:3.16
+DATE:2021-06-28 SELL 17149 stocks at 7.91  balance:135475.4
+DATE:2021-06-30 BUY 17341 stocks at 7.81  balance:1.56
+DATE:2021-07-14 SELL 17341 stocks at 7.69  balance:133180.5
+DATE:2021-07-19 BUY 17587 stocks at 7.57  balance:6.97
+DATE:2021-08-06 SELL 17587 stocks at 6.9  balance:121199.51
+DATE:2021-08-09 BUY 17897 stocks at 6.77  balance:0.47
+DATE:2021-08-10 SELL 17897 stocks at 6.98  balance:124759.13
+DATE:2021-08-18 BUY 17691 stocks at 7.05  balance:0.17
+DATE:2021-08-25 SELL 17691 stocks at 7.06  balance:124736.26
+DATE:2021-08-26 BUY 17788 stocks at 7.01  balance:4.97
+DATE:2021-09-01 SELL 17788 stocks at 7.07  balance:125602.64
+DATE:2021-09-13 BUY 17014 stocks at 7.38  balance:1.65
+DATE:2021-09-16 SELL 17014 stocks at 7.49  balance:127270.85
+DATE:2021-09-22 BUY 17573 stocks at 7.24  balance:4.16
+DATE:2021-09-23 SELL 17573 stocks at 7.47  balance:131103.82
+DATE:2021-09-28 BUY 17735 stocks at 7.39  balance:2.85
+DATE:2021-10-11 SELL 17735 stocks at 7.42  balance:131425.48
+DATE:2021-10-13 BUY 18248 stocks at 7.2  balance:0.46
+DATE:2021-11-01 SELL 18248 stocks at 7.01  balance:127752.65
+DATE:2021-11-02 BUY 18590 stocks at 6.87  balance:1.03
+DATE:2021-11-09 SELL 18590 stocks at 6.93  balance:128662.26
+DATE:2021-11-19 BUY 18065 stocks at 7.12  balance:0.87
+DATE:2021-11-22 SELL 18065 stocks at 7.27  balance:131162.69
+DATE:2021-11-23 BUY 18364 stocks at 7.14  balance:4.39
+DATE:2021-11-26 SELL 18364 stocks at 7.36  balance:134987.72
+DATE:2021-11-30 BUY 18847 stocks at 7.16  balance:2.72
+DATE:2021-12-06 SELL 18847 stocks at 7.37  balance:138724.54
+DATE:2021-12-07 BUY 19102 stocks at 7.26  balance:2.41
+DATE:2021-12-13 SELL 19102 stocks at 7.33  balance:139838.05
+DATE:2021-12-24 BUY 17922 stocks at 7.8  balance:4.51
+DATE:2022-01-04 SELL 17922 stocks at 7.78  balance:139256.41
+DATE:2022-01-18 BUY 16416 stocks at 8.48  balance:6.97
+DATE:2022-02-07 SELL 16416 stocks at 8.15  balance:133623.44
+DATE:2022-02-18 BUY 15478 stocks at 8.63  balance:8.23
+DATE:2022-02-21 SELL 15478 stocks at 8.89  balance:137428.77
+DATE:2022-02-24 BUY 15436 stocks at 8.9  balance:7.15
+DATE:2022-03-03 SELL 15436 stocks at 8.91  balance:137363.12
+DATE:2022-03-07 BUY 15640 stocks at 8.78  balance:2.72
+DATE:2022-03-08 SELL 15640 stocks at 8.89  balance:138861.57
+DATE:2022-03-09 BUY 16217 stocks at 8.56  balance:2.41
+DATE:2022-03-14 SELL 16217 stocks at 8.89  balance:143984.12
+DATE:2022-03-16 BUY 17217 stocks at 8.36  balance:6.82
+DATE:2022-03-18 SELL 17217 stocks at 8.9  balance:153038.92
+DATE:2022-04-11 BUY 13292 stocks at 11.51  balance:2.1
+DATE:2022-04-20 SELL 13292 stocks at 11.1  balance:147351.5
+DATE:2022-04-21 BUY 13626 stocks at 10.81  balance:10.25
+DATE:2022-04-29 SELL 13626 stocks at 11.0  balance:149701.39
+DATE:2022-05-10 BUY 14529 stocks at 10.3  balance:7.8
+DATE:2022-05-11 SELL 14529 stocks at 10.9  balance:158168.02
+DATE:2022-05-13 BUY 14987 stocks at 10.55  balance:7.74
+DATE:2022-05-16 SELL 14987 stocks at 12.3  balance:184108.2
+DATE:2022-05-18 BUY 17185 stocks at 10.71  balance:1.63
+DATE:2022-05-20 SELL 17185 stocks at 11.65  balance:199946.62
+DATE:2022-05-24 BUY 17847 stocks at 11.2  balance:0.25
+DATE:2022-06-08 SELL 17847 stocks at 9.36  balance:166831.01
+DATE:2022-06-09 BUY 18490 stocks at 9.02  balance:1.17
+DATE:2022-06-21 SELL 18490 stocks at 8.73  balance:161209.03
+DATE:2022-06-23 BUY 18717 stocks at 8.61  balance:7.31
+DATE:2022-06-24 SELL 18717 stocks at 8.85  balance:165437.43
+DATE:2022-07-04 BUY 18645 stocks at 8.87  balance:6.66
+DATE:2022-07-14 SELL 18645 stocks at 8.69  balance:161821.08
+DATE:2022-07-15 BUY 19397 stocks at 8.34  balance:1.57
+DATE:2022-07-20 SELL 19397 stocks at 8.36  balance:161949.68
+DATE:2022-07-22 BUY 19865 stocks at 8.15  balance:1.36
+DATE:2022-07-25 SELL 19865 stocks at 8.22  balance:163079.38
+DATE:2022-08-02 BUY 19761 stocks at 8.25  balance:2.22
+DATE:2022-08-10 SELL 19761 stocks at 7.95  balance:156897.94
+DATE:2022-08-25 BUY 18717 stocks at 8.38  balance:2.43
+DATE:2022-09-02 SELL 18717 stocks at 9.24  balance:172722.68
+DATE:2022-09-14 BUY 19555 stocks at 8.83  balance:0.23
+DATE:2022-09-15 SELL 19555 stocks at 9.91  balance:193538.35
+DATE:2022-09-21 BUY 20737 stocks at 9.33  balance:4.1
+DATE:2022-10-13 SELL 20737 stocks at 8.11  balance:167962.54
+DATE:2022-10-21 BUY 20109 stocks at 8.35  balance:2.02
+DATE:2022-11-02 SELL 20109 stocks at 7.88  balance:158254.94
+DATE:2022-11-22 BUY 17159 stocks at 9.22  balance:1.5
+DATE:2022-11-24 SELL 17159 stocks at 9.64  balance:165199.22
+DATE:2022-12-05 BUY 15879 stocks at 10.4  balance:8.08
+DATE:2022-12-06 SELL 15879 stocks at 10.8  balance:171278.34
+DATE:2022-12-07 BUY 17157 stocks at 9.98  balance:0.11
+DATE:2022-12-14 SELL 17157 stocks at 10.1  balance:173060.54
+DATE:2022-12-15 BUY 17387 stocks at 9.95  balance:7.99
+DATE:2022-12-16 SELL 17387 stocks at 10.24  balance:177819.41
+DATE:2022-12-21 BUY 18931 stocks at 9.39  balance:3.99
+DATE:2022-12-26 SELL 18931 stocks at 10.03  balance:189635.08
+DATE:2022-12-30 BUY 18604 stocks at 10.19  balance:3.45
+DATE:2023-01-05 SELL 18604 stocks at 10.56  balance:196206.3
+DATE:2023-01-09 BUY 19497 stocks at 10.06  balance:7.63
+DATE:2023-01-20 SELL 19497 stocks at 10.17  balance:198034.35
+DATE:2023-02-07 BUY 18765 stocks at 10.55  balance:4.21
+DATE:2023-02-14 SELL 18765 stocks at 10.6  balance:198654.63
+DATE:2023-02-15 BUY 19059 stocks at 10.42  balance:0.27
+DATE:2023-02-22 SELL 19059 stocks at 10.25  balance:195101.06
+DATE:2023-02-27 BUY 19103 stocks at 10.21  balance:0.92
+DATE:2023-03-02 SELL 19103 stocks at 10.18  balance:194216.65
+DATE:2023-03-03 BUY 19242 stocks at 10.09  balance:6.62
+DATE:2023-03-06 SELL 19242 stocks at 10.12  balance:194482.52
+DATE:2023-03-07 BUY 19268 stocks at 10.09  balance:10.07
+DATE:2023-03-16 SELL 19268 stocks at 9.66  balance:185896.98
+DATE:2023-03-17 BUY 19439 stocks at 9.56  balance:4.39
+DATE:2023-03-20 SELL 19439 stocks at 9.6  balance:186376.19
+DATE:2023-03-21 BUY 19388 stocks at 9.61  balance:1.62
+DATE:2023-03-22 SELL 19388 stocks at 9.69  balance:187627.11
+DATE:2023-03-29 BUY 19257 stocks at 9.74  balance:7.66
+DATE:2023-04-10 SELL 19257 stocks at 9.67  balance:185980.77
+DATE:2023-04-18 BUY 19306 stocks at 9.63  balance:8.21
+DATE:2023-05-04 SELL 19306 stocks at 9.98  balance:192431.62
+DATE:2023-05-22 BUY 18080 stocks at 10.64  balance:2.71
+DATE:2023-06-05 SELL 18080 stocks at 10.18  balance:183817.84
+DATE:2023-06-20 BUY 15326 stocks at 11.99  balance:3.97
+DATE:2023-06-29 SELL 15326 stocks at 11.42  balance:174799.36
+DATE:2023-06-30 BUY 15355 stocks at 11.38  balance:7.04
+DATE:2023-07-03 SELL 15355 stocks at 11.44  balance:175439.88
+DATE:2023-07-05 BUY 15479 stocks at 11.33  balance:10.19
+DATE:2023-07-07 SELL 15479 stocks at 11.48  balance:177478.11
+DATE:2023-07-11 BUY 15414 stocks at 11.51  balance:9.74
+DATE:2023-07-12 SELL 15414 stocks at 11.4  balance:175500.91
+DATE:2023-07-13 BUY 14620 stocks at 12.0  balance:8.27
+DATE:2023-07-14 SELL 14620 stocks at 12.28  balance:179308.48
+DATE:2023-08-22 BUY 13297 stocks at 13.48  balance:11.15
+DATE:2023-08-23 SELL 13297 stocks at 13.5  balance:179287.28
+DATE:2023-09-06 BUY 13578 stocks at 13.2  balance:3.92
+DATE:2023-09-07 SELL 13578 stocks at 13.5  balance:183068.62
+DATE:2023-09-08 BUY 13657 stocks at 13.4  balance:9.92
+DATE:2023-09-25 SELL 13657 stocks at 12.4  balance:169136.57
+DATE:2023-09-26 BUY 14055 stocks at 12.03  balance:4.2
+DATE:2023-10-25 SELL 14055 stocks at 11.36  balance:159461.43
+DATE:2023-11-01 BUY 14297 stocks at 11.15  balance:2.06
+DATE:2023-11-07 SELL 14297 stocks at 11.32  balance:161633.7
+DATE:2023-11-14 BUY 14261 stocks at 11.33  balance:8.1
+DATE:2023-11-15 SELL 14261 stocks at 11.64  balance:165790.34
+DATE:2023-11-28 BUY 14153 stocks at 11.71  balance:8.99
+DATE:2023-12-08 SELL 14153 stocks at 11.59  balance:163829.02
+DATE:2023-12-20 BUY 13903 stocks at 11.78  balance:2.55
+DATE:2023-12-29 SELL 13903 stocks at 11.0  balance:152736.73
+DATE:2020-03-20 BUY 12527 stocks at 7.98  balance:4.55
+DATE:2020-03-25 SELL 12527 stocks at 8.12  balance:101591.56
+DATE:2020-03-27 BUY 12538 stocks at 8.1  balance:3.29
+DATE:2020-03-30 SELL 12538 stocks at 8.0  balance:100176.89
+DATE:2020-03-31 BUY 12676 stocks at 7.9  balance:6.45
+DATE:2020-04-07 SELL 12676 stocks at 8.26  balance:104574.1
+DATE:2020-04-13 BUY 12749 stocks at 8.2  balance:0.93
+DATE:2020-04-17 SELL 12749 stocks at 8.25  balance:105043.45
+DATE:2020-04-27 BUY 12576 stocks at 8.35  balance:2.35
+DATE:2020-04-28 SELL 12576 stocks at 8.51  balance:106884.98
+DATE:2020-04-29 BUY 13126 stocks at 8.14  balance:7.29
+DATE:2020-05-07 SELL 13126 stocks at 8.25  balance:108156.01
+DATE:2020-05-08 BUY 13058 stocks at 8.28  balance:3.33
+DATE:2020-05-11 SELL 13058 stocks at 8.44  balance:110069.58
+DATE:2020-05-19 BUY 13193 stocks at 8.34  balance:6.95
+DATE:2020-05-22 SELL 13193 stocks at 8.32  balance:109630.02
+DATE:2020-05-25 BUY 13447 stocks at 8.15  balance:4.09
+DATE:2020-05-27 SELL 13447 stocks at 8.59  balance:115363.66
+DATE:2020-06-09 BUY 12645 stocks at 9.12  balance:6.66
+DATE:2020-06-11 SELL 12645 stocks at 9.1  balance:114926.57
+DATE:2020-06-23 BUY 11252 stocks at 10.21  balance:9.18
+DATE:2020-06-30 SELL 11252 stocks at 10.8  balance:121372.81
+DATE:2020-07-06 BUY 11040 stocks at 10.99  balance:6.81
+DATE:2020-07-07 SELL 11040 stocks at 11.55  balance:127353.04
+DATE:2020-07-10 BUY 11306 stocks at 11.26  balance:9.29
+DATE:2020-07-13 SELL 11306 stocks at 12.52  balance:141376.39
+DATE:2020-07-17 BUY 12152 stocks at 11.63  balance:6.23
+DATE:2020-07-22 SELL 12152 stocks at 13.25  balance:160810.92
+DATE:2020-07-27 BUY 12491 stocks at 12.87  balance:3.52
+DATE:2020-07-30 SELL 12491 stocks at 13.16  balance:164171.38
+DATE:2020-08-07 BUY 12340 stocks at 13.3  balance:0.15
+DATE:2020-08-11 SELL 12340 stocks at 13.47  balance:166003.86
+DATE:2020-08-12 BUY 13026 stocks at 12.74  balance:2.83
+DATE:2020-08-19 SELL 13026 stocks at 12.86  balance:167299.43
+DATE:2020-08-20 BUY 13608 stocks at 12.29  balance:6.93
+DATE:2020-09-21 SELL 13608 stocks at 11.31  balance:153713.34
+DATE:2020-09-25 BUY 14202 stocks at 10.82  balance:1.6
+DATE:2020-10-12 SELL 14202 stocks at 11.8  balance:167367.34
+DATE:2020-10-15 BUY 15406 stocks at 10.86  balance:7.98
+DATE:2020-11-06 SELL 15406 stocks at 9.59  balance:147559.46
+DATE:2020-11-11 BUY 15479 stocks at 9.53  balance:0.33
+DATE:2020-11-19 SELL 15479 stocks at 9.39  balance:145159.19
+DATE:2020-11-23 BUY 15553 stocks at 9.33  balance:6.17
+DATE:2020-12-01 SELL 15553 stocks at 9.24  balance:143529.07
+DATE:2020-12-07 BUY 15613 stocks at 9.19  balance:2.55
+DATE:2020-12-30 SELL 15613 stocks at 8.19  balance:127706.79
+DATE:2021-01-07 BUY 15781 stocks at 8.09  balance:0.2
+DATE:2021-01-15 SELL 15781 stocks at 7.74  balance:121986.35
+DATE:2021-01-25 BUY 15515 stocks at 7.86  balance:1.87
+DATE:2021-02-18 SELL 15515 stocks at 7.6  balance:117762.58
+DATE:2021-03-03 BUY 14940 stocks at 7.88  balance:0.06
+DATE:2021-03-08 SELL 14940 stocks at 8.08  balance:120558.33
+DATE:2021-03-10 BUY 15140 stocks at 7.96  balance:7.78
+DATE:2021-03-16 SELL 15140 stocks at 8.08  balance:122179.94
+DATE:2021-03-22 BUY 15098 stocks at 8.09  balance:0.48
+DATE:2021-03-23 SELL 15098 stocks at 8.22  balance:123944.7
+DATE:2021-03-25 BUY 15147 stocks at 8.18  balance:5.07
+DATE:2021-04-08 SELL 15147 stocks at 8.12  balance:122838.82
+DATE:2021-04-09 BUY 15331 stocks at 8.01  balance:0.67
+DATE:2021-04-19 SELL 15331 stocks at 7.96  balance:121876.79
+DATE:2021-04-28 BUY 15501 stocks at 7.86  balance:2.37
+DATE:2021-05-12 SELL 15501 stocks at 7.81  balance:120907.8
+DATE:2021-05-18 BUY 15576 stocks at 7.76  balance:1.78
+DATE:2021-05-25 SELL 15576 stocks at 7.74  balance:120403.3
+DATE:2021-06-07 BUY 15236 stocks at 7.9  balance:2.79
+DATE:2021-06-09 SELL 15236 stocks at 7.93  balance:120667.2
+DATE:2021-06-11 BUY 15192 stocks at 7.94  balance:6.53
+DATE:2021-06-21 SELL 15192 stocks at 7.8  balance:118350.09
+DATE:2021-06-22 BUY 15168 stocks at 7.8  balance:4.19
+DATE:2021-06-24 SELL 15168 stocks at 7.89  balance:119524.13
+DATE:2021-06-25 BUY 15182 stocks at 7.87  balance:5.95
+DATE:2021-06-28 SELL 15182 stocks at 7.91  balance:119939.45
+DATE:2021-06-30 BUY 15352 stocks at 7.81  balance:4.36
+DATE:2021-07-07 SELL 15352 stocks at 7.67  balance:117601.13
+DATE:2021-07-08 BUY 15328 stocks at 7.67  balance:0.1
+DATE:2021-07-14 SELL 15328 stocks at 7.69  balance:117719.18
+DATE:2021-07-16 BUY 15323 stocks at 7.68  balance:3.24
+DATE:2021-08-10 SELL 15323 stocks at 6.98  balance:106818.74
+DATE:2021-08-18 BUY 15147 stocks at 7.05  balance:0.35
+DATE:2021-08-25 SELL 15147 stocks at 7.06  balance:106799.15
+DATE:2021-08-26 BUY 15230 stocks at 7.01  balance:4.83
+DATE:2021-09-01 SELL 15230 stocks at 7.07  balance:107540.95
+DATE:2021-09-10 BUY 14489 stocks at 7.42  balance:0.31
+DATE:2021-09-16 SELL 14489 stocks at 7.49  balance:108381.84
+DATE:2021-09-22 BUY 14965 stocks at 7.24  balance:2.74
+DATE:2021-09-23 SELL 14965 stocks at 7.47  balance:111645.97
+DATE:2021-09-28 BUY 15103 stocks at 7.39  balance:1.31
+DATE:2021-10-11 SELL 15103 stocks at 7.42  balance:111919.89
+DATE:2021-10-13 BUY 15539 stocks at 7.2  balance:5.52
+DATE:2021-11-01 SELL 15539 stocks at 7.01  balance:108792.31
+DATE:2021-11-02 BUY 15831 stocks at 6.87  balance:0.71
+DATE:2021-11-09 SELL 15831 stocks at 6.93  balance:109566.92
+DATE:2021-11-19 BUY 15383 stocks at 7.12  balance:7.1
+DATE:2021-11-26 SELL 15383 stocks at 7.36  balance:113078.8
+DATE:2021-11-30 BUY 15788 stocks at 7.16  balance:2.8
+DATE:2021-12-06 SELL 15788 stocks at 7.37  balance:116209.1
+DATE:2021-12-07 BUY 16001 stocks at 7.26  balance:6.99
+DATE:2021-12-13 SELL 16001 stocks at 7.33  balance:117141.84
+DATE:2021-12-24 BUY 15013 stocks at 7.8  balance:5.31
+DATE:2022-01-04 SELL 15013 stocks at 7.78  balance:116654.61
+DATE:2022-01-18 BUY 13752 stocks at 8.48  balance:2.67
+DATE:2022-02-07 SELL 13752 stocks at 8.15  balance:111935.77
+DATE:2022-02-18 BUY 12966 stocks at 8.63  balance:5.62
+DATE:2022-02-21 SELL 12966 stocks at 8.89  balance:115123.51
+DATE:2022-02-25 BUY 12859 stocks at 8.95  balance:0.93
+DATE:2022-02-28 SELL 12859 stocks at 8.91  balance:114425.68
+DATE:2022-03-01 BUY 13148 stocks at 8.7  balance:3.76
+DATE:2022-03-03 SELL 13148 stocks at 8.91  balance:117000.15
+DATE:2022-03-07 BUY 13321 stocks at 8.78  balance:6.68
+DATE:2022-03-08 SELL 13321 stocks at 8.89  balance:118276.42
+DATE:2022-03-09 BUY 13813 stocks at 8.56  balance:1.67
+DATE:2022-03-14 SELL 13813 stocks at 8.89  balance:122639.6
+DATE:2022-03-16 BUY 14665 stocks at 8.36  balance:3.42
+DATE:2022-03-18 SELL 14665 stocks at 8.9  balance:130352.25
+DATE:2022-04-11 BUY 11321 stocks at 11.51  balance:8.44
+DATE:2022-04-29 SELL 11321 stocks at 11.0  balance:124377.55
+DATE:2022-05-09 BUY 11730 stocks at 10.6  balance:2.25
+DATE:2022-05-11 SELL 11730 stocks at 10.9  balance:127693.04
+DATE:2022-05-13 BUY 12099 stocks at 10.55  balance:10.3
+DATE:2022-05-16 SELL 12099 stocks at 12.3  balance:148634.53
+DATE:2022-05-18 BUY 13873 stocks at 10.71  balance:10.13
+DATE:2022-05-20 SELL 13873 stocks at 11.65  balance:161420.47
+DATE:2022-05-24 BUY 14408 stocks at 11.2  balance:2.46
+DATE:2022-06-22 SELL 14408 stocks at 8.87  balance:127635.28
+DATE:2022-06-23 BUY 14819 stocks at 8.61  balance:5.41
+DATE:2022-06-24 SELL 14819 stocks at 8.85  balance:130983.07
+DATE:2022-07-04 BUY 14762 stocks at 8.87  balance:4.85
+DATE:2022-07-14 SELL 14762 stocks at 8.69  balance:128119.86
+DATE:2022-07-15 BUY 15357 stocks at 8.34  balance:4.06
+DATE:2022-07-20 SELL 15357 stocks at 8.36  balance:128221.68
+DATE:2022-07-21 BUY 15537 stocks at 8.25  balance:2.98
+DATE:2022-07-25 SELL 15537 stocks at 8.22  balance:127551.09
+DATE:2022-08-02 BUY 15456 stocks at 8.25  balance:0.83
+DATE:2022-08-10 SELL 15456 stocks at 7.95  balance:122716.3
+DATE:2022-08-25 BUY 14639 stocks at 8.38  balance:4.67
+DATE:2022-08-31 SELL 14639 stocks at 8.34  balance:121935.22
+DATE:2022-09-01 BUY 14865 stocks at 8.2  balance:5.65
+DATE:2022-09-02 SELL 14865 stocks at 9.24  balance:137179.69
+DATE:2022-09-14 BUY 15530 stocks at 8.83  balance:8.65
+DATE:2022-09-15 SELL 15530 stocks at 9.91  balance:153710.88
+DATE:2022-09-21 BUY 16469 stocks at 9.33  balance:9.01
+DATE:2022-10-17 SELL 16469 stocks at 8.18  balance:134550.3
+DATE:2022-10-21 BUY 16108 stocks at 8.35  balance:8.15
+DATE:2022-11-02 SELL 16108 stocks at 7.88  balance:126774.18
+DATE:2022-11-23 BUY 14066 stocks at 9.01  balance:1.5
+DATE:2022-11-24 SELL 14066 stocks at 9.64  balance:135421.47
+DATE:2022-12-05 BUY 13017 stocks at 10.4  balance:4.05
+DATE:2022-12-06 SELL 13017 stocks at 10.8  balance:140404.89
+DATE:2022-12-07 BUY 14064 stocks at 9.98  balance:4.07
+DATE:2022-12-14 SELL 14064 stocks at 10.1  balance:141865.81
+DATE:2022-12-15 BUY 14253 stocks at 9.95  balance:5.91
+DATE:2022-12-16 SELL 14253 stocks at 10.24  balance:145766.9
+DATE:2022-12-21 BUY 15518 stocks at 9.39  balance:9.16
+DATE:2022-12-26 SELL 15518 stocks at 10.03  balance:155452.36
+DATE:2022-12-30 BUY 15250 stocks at 10.19  balance:8.24
+DATE:2023-01-04 SELL 15250 stocks at 10.31  balance:157031.35
+DATE:2023-01-09 BUY 15604 stocks at 10.06  balance:8.01
+DATE:2023-01-20 SELL 15604 stocks at 10.17  balance:158494.39
+DATE:2023-02-07 BUY 15018 stocks at 10.55  balance:6.96
+DATE:2023-02-14 SELL 15018 stocks at 10.6  balance:158990.81
+DATE:2023-02-15 BUY 15253 stocks at 10.42  balance:6.87
+DATE:2023-02-22 SELL 15253 stocks at 10.25  balance:156146.88
+DATE:2023-02-27 BUY 15288 stocks at 10.21  balance:9.57
+DATE:2023-03-06 SELL 15288 stocks at 10.12  balance:154523.0
+DATE:2023-03-07 BUY 15309 stocks at 10.09  balance:8.85
+DATE:2023-03-16 SELL 15309 stocks at 9.66  balance:147701.54
+DATE:2023-03-17 BUY 15445 stocks at 9.56  balance:3.04
+DATE:2023-03-20 SELL 15445 stocks at 9.6  balance:148082.29
+DATE:2023-03-21 BUY 15404 stocks at 9.61  balance:5.44
+DATE:2023-03-22 SELL 15404 stocks at 9.69  balance:149076.16
+DATE:2023-03-29 BUY 15300 stocks at 9.74  balance:9.45
+DATE:2023-04-10 SELL 15300 stocks at 9.67  balance:147768.11
+DATE:2023-04-18 BUY 15339 stocks at 9.63  balance:9.23
+DATE:2023-05-04 SELL 15339 stocks at 9.98  balance:152893.44
+DATE:2023-05-22 BUY 14365 stocks at 10.64  balance:3.99
+DATE:2023-06-05 SELL 14365 stocks at 10.18  balance:146049.58
+DATE:2023-06-20 BUY 12177 stocks at 11.99  balance:3.55
+DATE:2023-06-28 SELL 12177 stocks at 11.61  balance:141194.73
+DATE:2023-06-30 BUY 12403 stocks at 11.38  balance:6.25
+DATE:2023-07-04 SELL 12403 stocks at 11.42  balance:141464.37
+DATE:2023-07-05 BUY 12482 stocks at 11.33  balance:0.89
+DATE:2023-07-07 SELL 12482 stocks at 11.48  balance:143107.97
+DATE:2023-07-11 BUY 12429 stocks at 11.51  balance:7.26
+DATE:2023-07-12 SELL 12429 stocks at 11.4  balance:141513.66
+DATE:2023-07-13 BUY 11789 stocks at 12.0  balance:3.22
+DATE:2023-07-14 SELL 11789 stocks at 12.28  balance:144583.94
+DATE:2023-08-08 BUY 10294 stocks at 14.04  balance:12.82
+DATE:2023-08-11 SELL 10294 stocks at 14.56  balance:149698.62
+DATE:2023-08-15 BUY 10939 stocks at 13.68  balance:8.2
+DATE:2023-08-17 SELL 10939 stocks at 13.8  balance:150770.16
+DATE:2023-08-21 BUY 11001 stocks at 13.7  balance:11.24
+DATE:2023-08-25 SELL 11001 stocks at 13.5  balance:148331.68
+DATE:2023-09-01 BUY 10319 stocks at 14.37  balance:3.16
+DATE:2023-09-25 SELL 10319 stocks at 12.4  balance:127792.42
+DATE:2023-09-26 BUY 10619 stocks at 12.03  balance:7.53
+DATE:2023-10-09 SELL 10619 stocks at 12.13  balance:128648.54
+DATE:2023-10-10 BUY 10973 stocks at 11.72  balance:6.4
+DATE:2023-10-25 SELL 10973 stocks at 11.36  balance:124497.63
+DATE:2023-10-27 BUY 11283 stocks at 11.03  balance:8.81
+DATE:2023-10-30 SELL 11283 stocks at 11.22  balance:126439.49
+DATE:2023-11-01 BUY 11336 stocks at 11.15  balance:5.18
+DATE:2023-11-07 SELL 11336 stocks at 11.32  balance:128161.88
+DATE:2023-11-13 BUY 11308 stocks at 11.33  balance:3.8
+DATE:2023-11-15 SELL 11308 stocks at 11.64  balance:131457.81
+DATE:2023-11-27 BUY 11156 stocks at 11.78  balance:0.7
+DATE:2023-12-08 SELL 11156 stocks at 11.59  balance:129130.65
+DATE:2023-12-20 BUY 10958 stocks at 11.78  balance:6.69
+DATE:2023-12-29 SELL 10958 stocks at 11.0  balance:120387.99
+DATE:2020-01-15 BUY 10274 stocks at 9.73  balance:3.99
+DATE:2020-06-16 SELL 10274 stocks at 10.07  balance:103328.67
+DATE:2020-12-25 BUY 12863 stocks at 8.03  balance:7.8
+DATE:2020-12-28 SELL 12863 stocks at 8.14  balance:104576.5
+DATE:2021-01-07 BUY 12922 stocks at 8.09  balance:6.16
+DATE:2021-01-20 SELL 12922 stocks at 8.64  balance:111507.1
+DATE:2021-01-25 BUY 14182 stocks at 7.86  balance:3.14
+DATE:2021-02-22 SELL 14182 stocks at 7.99  balance:113170.01
+DATE:2021-07-20 BUY 15309 stocks at 7.39  balance:2.56
+DATE:2022-03-22 SELL 15309 stocks at 9.4  balance:143720.08
+DATE:2022-04-22 BUY 15350 stocks at 9.36  balance:0.98
+DATE:2022-04-29 SELL 15350 stocks at 11.0  balance:168631.48
+DATE:2022-06-14 BUY 19648 stocks at 8.58  balance:1.06
+DATE:2022-09-16 SELL 19648 stocks at 10.32  balance:202504.82
+DATE:2022-09-19 BUY 22246 stocks at 9.1  balance:5.49
+DATE:2022-11-25 SELL 22246 stocks at 9.5  balance:211067.75
+DATE:2022-12-08 BUY 21142 stocks at 9.98  balance:7.29
+DATE:2022-12-12 SELL 21142 stocks at 10.13  balance:213897.34
+DATE:2022-12-13 BUY 21490 stocks at 9.95  balance:7.69
+DATE:2022-12-14 SELL 21490 stocks at 10.1  balance:216774.52
+DATE:2022-12-15 BUY 21779 stocks at 9.95  balance:8.46
+DATE:2022-12-20 SELL 21779 stocks at 10.29  balance:223823.04
+DATE:2022-12-21 BUY 23829 stocks at 9.39  balance:1.6
+DATE:2022-12-26 SELL 23829 stocks at 10.03  balance:238695.76
+DATE:2023-01-03 BUY 23602 stocks at 10.11  balance:7.96
+DATE:2023-01-04 SELL 23602 stocks at 10.31  balance:243028.24
+DATE:2023-01-05 BUY 23007 stocks at 10.56  balance:1.44
+DATE:2023-06-07 SELL 23007 stocks at 11.46  balance:263318.9
+DATE:2023-09-11 BUY 20280 stocks at 12.98  balance:5.53
+DATE:2023-09-25 SELL 20280 stocks at 12.4  balance:251150.61
+DATE:2023-09-26 BUY 20870 stocks at 12.03  balance:9.19
+DATE:2023-10-09 SELL 20870 stocks at 12.13  balance:252833.19
+DATE:2023-10-10 BUY 21566 stocks at 11.72  balance:3.85
+DATE:2023-11-07 SELL 21566 stocks at 11.32  balance:243813.6
+DATE:2020-01-14 BUY 10221 stocks at 9.78  balance:8.63
+DATE:2020-06-15 SELL 10221 stocks at 9.61  balance:98104.75
+DATE:2020-12-29 BUY 12153 stocks at 8.07  balance:0.62
+DATE:2020-12-30 SELL 12153 stocks at 8.19  balance:99404.3
+DATE:2021-01-07 BUY 12283 stocks at 8.09  balance:5.01
+DATE:2021-01-15 SELL 12283 stocks at 7.74  balance:94951.84
+DATE:2021-01-18 BUY 12200 stocks at 7.78  balance:7.37
+DATE:2021-01-19 SELL 12200 stocks at 7.9  balance:96262.07
+DATE:2021-01-26 BUY 12678 stocks at 7.59  balance:7.19
+DATE:2021-02-22 SELL 12678 stocks at 7.99  balance:101172.72
+DATE:2021-07-20 BUY 13686 stocks at 7.39  balance:2.84
+DATE:2022-01-12 SELL 13686 stocks at 8.66  balance:118369.52
+DATE:2022-01-13 BUY 13617 stocks at 8.69  balance:2.29
+DATE:2022-01-14 SELL 13617 stocks at 8.73  balance:118724.16
+DATE:2022-01-17 BUY 13533 stocks at 8.77  balance:4.15
+DATE:2022-02-16 SELL 13533 stocks at 9.36  balance:126508.36
+DATE:2022-03-16 BUY 15128 stocks at 8.36  balance:0.34
+DATE:2022-03-17 SELL 15128 stocks at 8.88  balance:134162.34
+DATE:2022-04-22 BUY 14329 stocks at 9.36  balance:2.66
+DATE:2022-04-25 SELL 14329 stocks at 9.7  balance:138813.27
+DATE:2022-04-26 BUY 14841 stocks at 9.35  balance:8.3
+DATE:2022-04-28 SELL 14841 stocks at 9.25  balance:137109.08
+DATE:2022-06-17 BUY 15700 stocks at 8.73  balance:6.96
+DATE:2022-09-16 SELL 15700 stocks at 10.32  balance:161820.33
+DATE:2022-09-19 BUY 17777 stocks at 9.1  balance:1.1
+DATE:2022-11-25 SELL 17777 stocks at 9.5  balance:168663.06
+DATE:2022-12-05 BUY 16212 stocks at 10.4  balance:7.67
+DATE:2022-12-06 SELL 16212 stocks at 10.8  balance:174869.66
+DATE:2022-12-07 BUY 17516 stocks at 9.98  balance:7.53
+DATE:2022-12-20 SELL 17516 stocks at 10.29  balance:180012.86
+DATE:2022-12-21 BUY 19164 stocks at 9.39  balance:8.92
+DATE:2022-12-26 SELL 19164 stocks at 10.03  balance:191973.96
+DATE:2022-12-30 BUY 18833 stocks at 10.19  balance:8.12
+DATE:2023-06-07 SELL 18833 stocks at 11.46  balance:215553.72
+DATE:2023-06-21 BUY 18705 stocks at 11.52  balance:7.48
+DATE:2023-07-10 SELL 18705 stocks at 11.61  balance:216890.21
+DATE:2023-07-13 BUY 18068 stocks at 12.0  balance:9.17
+DATE:2023-07-14 SELL 18068 stocks at 12.28  balance:221595.77
+DATE:2023-08-07 BUY 15298 stocks at 14.48  balance:14.28
+DATE:2023-08-21 SELL 15298 stocks at 13.7  balance:209324.42
+DATE:2023-09-04 BUY 14947 stocks at 14.0  balance:3.64
+DATE:2023-09-05 SELL 14947 stocks at 13.87  balance:207049.02
+DATE:2023-09-06 BUY 15680 stocks at 13.2  balance:10.93
+DATE:2023-09-08 SELL 15680 stocks at 13.4  balance:209849.78
+DATE:2023-09-13 BUY 16610 stocks at 12.63  balance:2.55
+DATE:2023-09-21 SELL 16610 stocks at 12.26  balance:203376.42
+DATE:2023-09-25 BUY 16396 stocks at 12.4  balance:5.03
+DATE:2023-09-26 SELL 16396 stocks at 12.03  balance:196992.49
+DATE:2023-10-10 BUY 16803 stocks at 11.72  balance:2.25
+DATE:2023-10-19 SELL 16803 stocks at 11.01  balance:184762.78
+DATE:2023-10-25 BUY 16259 stocks at 11.36  balance:5.13
+DATE:2023-10-31 SELL 16259 stocks at 11.28  balance:183168.22
+DATE:2023-11-01 BUY 16422 stocks at 11.15  balance:7.99
+DATE:2023-11-02 SELL 16422 stocks at 10.95  balance:179595.13
+DATE:2023-11-07 BUY 15860 stocks at 11.32  balance:6.07
+DATE:2023-11-08 SELL 15860 stocks at 11.44  balance:181208.6
+DATE:2023-11-10 BUY 15862 stocks at 11.42  balance:10.21
+DATE:2023-11-13 SELL 15862 stocks at 11.33  balance:179493.04
+DATE:2023-11-16 BUY 15482 stocks at 11.59  balance:2.83
+DATE:2023-11-17 SELL 15482 stocks at 11.65  balance:180133.66
+DATE:2023-11-21 BUY 15470 stocks at 11.64  balance:8.83
+DATE:2023-11-23 SELL 15470 stocks at 12.05  balance:186180.0
+DATE:2023-11-27 BUY 15800 stocks at 11.78  balance:0.16
+DATE:2023-11-29 SELL 15800 stocks at 11.62  balance:183357.48
+DATE:2023-12-01 BUY 15884 stocks at 11.54  balance:1.13
+DATE:2023-12-04 SELL 15884 stocks at 11.63  balance:184491.9
+DATE:2023-12-08 BUY 15913 stocks at 11.59  balance:4.9
+DATE:2023-12-13 SELL 15913 stocks at 11.73  balance:186421.74
+DATE:2023-12-14 BUY 15860 stocks at 11.75  balance:10.83
+DATE:2023-12-15 SELL 15860 stocks at 12.39  balance:196260.77
+DATE:2023-12-20 BUY 16655 stocks at 11.78  balance:6.01
+DATE:2023-12-21 SELL 16655 stocks at 11.37  balance:189127.19
+DATE:2020-01-14 BUY 10224 at 9.78  SELL at 9.71  predicted close price=10.24  todayield:-1013.51  balance:98986.49
+DATE:2020-01-15 BUY 10173 at 9.73  SELL at 9.62  predicted close price=10.43  todayield:-1412.62  balance:97573.87
+DATE:2020-02-11 BUY 11827 at 8.25  SELL at 8.41  predicted close price=11.45  todayield:1593.92  balance:99167.8
+DATE:2020-02-12 BUY 11791 at 8.41  SELL at 8.41  predicted close price=11.35  todayield:-297.49  balance:98870.31
+DATE:2020-02-13 BUY 11784 at 8.39  SELL at 8.35  predicted close price=11.34  todayield:-766.55  balance:98103.76
+DATE:2020-02-14 BUY 11734 at 8.36  SELL at 8.39  predicted close price=12.42  todayield:56.68  balance:98160.44
+DATE:2020-02-17 BUY 11699 at 8.39  SELL at 8.56  predicted close price=13.85  todayield:1688.4  balance:99848.84
+DATE:2020-02-18 BUY 11637 at 8.58  SELL at 8.58  predicted close price=14.41  todayield:-299.54  balance:99549.3
+DATE:2020-02-19 BUY 11697 at 8.51  SELL at 8.54  predicted close price=13.09  todayield:51.23  balance:99600.53
+DATE:2020-02-20 BUY 11662 at 8.54  SELL at 8.61  predicted close price=11.92  todayield:515.11  balance:100115.64
+DATE:2020-02-21 BUY 11614 at 8.62  SELL at 8.64  predicted close price=12.07  todayield:-68.75  balance:100046.89
+DATE:2020-02-24 BUY 11619 at 8.61  SELL at 8.56  predicted close price=12.77  todayield:-879.33  balance:99167.56
+DATE:2020-02-25 BUY 11763 at 8.43  SELL at 8.39  predicted close price=13.11  todayield:-766.59  balance:98400.97
+DATE:2020-02-26 BUY 11912 at 8.26  SELL at 8.47  predicted close price=13.24  todayield:2198.84  balance:100599.8
+DATE:2020-03-03 BUY 11863 at 8.48  SELL at 8.79  predicted close price=12.89  todayield:3364.7  balance:103964.51
+DATE:2020-03-04 BUY 12005 at 8.66  SELL at 8.86  predicted close price=13.24  todayield:2081.91  balance:106046.41
+DATE:2020-03-05 BUY 11996 at 8.84  SELL at 8.85  predicted close price=13.28  todayield:-198.53  balance:105847.88
+DATE:2020-03-06 BUY 12096 at 8.75  SELL at 8.78  predicted close price=13.31  todayield:44.27  balance:105892.15
+DATE:2020-03-09 BUY 12241 at 8.65  SELL at 8.37  predicted close price=14.27  todayield:-3734.85  balance:102157.3
+DATE:2020-04-07 BUY 12367 at 8.26  SELL at 8.32  predicted close price=11.0  todayield:433.34  balance:102590.64
+DATE:2020-04-08 BUY 12390 at 8.28  SELL at 8.26  predicted close price=10.79  todayield:-554.82  balance:102035.81
+DATE:2020-04-09 BUY 12323 at 8.28  SELL at 8.32  predicted close price=10.99  todayield:185.34  balance:102221.15
+DATE:2020-04-10 BUY 12286 at 8.32  SELL at 8.18  predicted close price=10.7  todayield:-2021.54  balance:100199.61
+DATE:2020-04-13 BUY 12219 at 8.2  SELL at 8.14  predicted close price=10.69  todayield:-1031.53  balance:99168.09
+DATE:2020-04-14 BUY 12167 at 8.15  SELL at 8.19  predicted close price=10.34  todayield:187.74  balance:99355.82
+DATE:2020-04-15 BUY 12131 at 8.19  SELL at 8.12  predicted close price=10.27  todayield:-1144.68  balance:98211.14
+DATE:2020-04-16 BUY 12094 at 8.12  SELL at 8.22  predicted close price=10.36  todayield:911.16  balance:99122.3
+DATE:2020-04-17 BUY 12014 at 8.25  SELL at 8.22  predicted close price=9.76  todayield:-656.69  balance:98465.62
+DATE:2020-04-20 BUY 11964 at 8.23  SELL at 8.3  predicted close price=10.28  todayield:539.58  balance:99005.19
+DATE:2020-04-21 BUY 11971 at 8.27  SELL at 8.46  predicted close price=10.31  todayield:1970.67  balance:100975.86
+DATE:2020-04-22 BUY 12064 at 8.37  SELL at 8.61  predicted close price=10.37  todayield:2583.75  balance:103559.61
+DATE:2020-04-23 BUY 12013 at 8.62  SELL at 8.5  predicted close price=10.08  todayield:-1747.89  balance:101811.72
+DATE:2020-04-24 BUY 11977 at 8.5  SELL at 8.36  predicted close price=10.07  todayield:-1977.16  balance:99834.55
+DATE:2020-04-27 BUY 11956 at 8.35  SELL at 8.56  predicted close price=11.2  todayield:2203.73  balance:102038.28
+DATE:2020-05-11 BUY 12089 at 8.44  SELL at 8.45  predicted close price=10.39  todayield:-185.57  balance:101852.72
+DATE:2020-05-12 BUY 12010 at 8.48  SELL at 8.33  predicted close price=10.37  todayield:-2101.63  balance:99751.09
+DATE:2020-05-13 BUY 11989 at 8.32  SELL at 8.43  predicted close price=10.86  todayield:1015.59  balance:100766.68
+DATE:2020-05-14 BUY 11996 at 8.4  SELL at 8.5  predicted close price=11.58  todayield:893.7  balance:101660.38
+DATE:2020-05-15 BUY 11358 at 8.95  SELL at 8.52  predicted close price=11.4  todayield:-5174.25  balance:96486.13
+DATE:2020-05-18 BUY 11459 at 8.42  SELL at 8.3  predicted close price=10.69  todayield:-1660.41  balance:94825.72
+DATE:2020-05-26 BUY 11494 at 8.25  SELL at 8.59  predicted close price=10.21  todayield:3611.76  balance:98437.48
+DATE:2020-05-27 BUY 11459 at 8.59  SELL at 8.59  predicted close price=9.97  todayield:-295.3  balance:98142.18
+DATE:2020-05-28 BUY 11438 at 8.58  SELL at 8.61  predicted close price=9.91  todayield:47.7  balance:98189.88
+DATE:2020-05-29 BUY 11444 at 8.58  SELL at 8.66  predicted close price=9.87  todayield:618.2  balance:98808.08
+DATE:2020-06-01 BUY 11344 at 8.71  SELL at 8.81  predicted close price=9.85  todayield:834.58  balance:99642.66
+DATE:2020-06-02 BUY 11195 at 8.9  SELL at 9.23  predicted close price=9.6  todayield:3384.36  balance:103027.02
+DATE:2020-06-03 BUY 11235 at 9.17  SELL at 9.24  predicted close price=9.29  todayield:475.02  balance:103502.03
+DATE:2020-06-04 BUY 11189 at 9.25  SELL at 9.37  predicted close price=9.27  todayield:1028.16  balance:104530.19
+DATE:2020-06-05 BUY 11155 at 9.37  SELL at 9.18  predicted close price=9.41  todayield:-2426.66  balance:102103.53
+DATE:2020-06-08 BUY 11086 at 9.21  SELL at 9.06  predicted close price=9.28  todayield:-1964.22  balance:100139.32
+DATE:2020-06-09 BUY 10980 at 9.12  SELL at 9.04  predicted close price=9.52  todayield:-1176.18  balance:98963.14
+DATE:2020-06-10 BUY 10935 at 9.05  SELL at 9.37  predicted close price=9.43  todayield:3191.82  balance:102154.96
+DATE:2020-06-11 BUY 11225 at 9.1  SELL at 9.2  predicted close price=9.77  todayield:812.69  balance:102967.65
+DATE:2020-06-12 BUY 11491 at 8.96  SELL at 9.59  predicted close price=9.48  todayield:6908.73  balance:109876.38
+DATE:2021-01-18 BUY 14122 at 7.78  SELL at 7.92  predicted close price=7.86  todayield:1641.54  balance:111517.92
+DATE:2021-02-18 BUY 14673 at 7.6  SELL at 7.74  predicted close price=7.87  todayield:1713.51  balance:113231.43
+DATE:2021-02-19 BUY 14705 at 7.7  SELL at 7.99  predicted close price=7.78  todayield:3911.97  balance:117143.4
+DATE:2021-08-11 BUY 16569 at 7.07  SELL at 7.09  predicted close price=8.12  todayield:-21.04  balance:117122.36
+DATE:2021-08-12 BUY 16496 at 7.1  SELL at 7.12  predicted close price=8.44  todayield:-22.43  balance:117099.93
+DATE:2021-08-13 BUY 16492 at 7.1  SELL at 7.15  predicted close price=8.71  todayield:470.85  balance:117570.77
+DATE:2021-08-16 BUY 16443 at 7.15  SELL at 7.12  predicted close price=8.78  todayield:-844.51  balance:116726.26
+DATE:2021-08-17 BUY 16486 at 7.08  SELL at 6.95  predicted close price=8.8  todayield:-2486.91  balance:114239.35
+DATE:2021-08-18 BUY 16204 at 7.05  SELL at 6.99  predicted close price=8.79  todayield:-1312.04  balance:112927.31
+DATE:2021-08-25 BUY 15995 at 7.06  SELL at 7.01  predicted close price=8.09  todayield:-1136.12  balance:111791.19
+DATE:2021-08-31 BUY 16061 at 6.96  SELL at 7.07  predicted close price=7.75  todayield:1426.06  balance:113217.24
+DATE:2021-09-01 BUY 16013 at 7.07  SELL at 7.28  predicted close price=8.04  todayield:3013.01  balance:116230.25
+DATE:2021-09-02 BUY 16098 at 7.22  SELL at 7.18  predicted close price=8.07  todayield:-990.67  balance:115239.58
+DATE:2021-09-03 BUY 16050 at 7.18  SELL at 7.3  predicted close price=8.41  todayield:1574.51  balance:116814.08
+DATE:2021-09-06 BUY 15893 at 7.35  SELL at 7.48  predicted close price=8.47  todayield:1709.45  balance:118523.53
+DATE:2021-09-07 BUY 15595 at 7.6  SELL at 7.7  predicted close price=8.44  todayield:1199.26  balance:119722.79
+DATE:2021-09-08 BUY 15752 at 7.6  SELL at 7.47  predicted close price=8.31  todayield:-2400.76  balance:117322.03
+DATE:2021-09-09 BUY 15726 at 7.46  SELL at 7.42  predicted close price=8.42  todayield:-979.1  balance:116342.93
+DATE:2021-09-10 BUY 15679 at 7.42  SELL at 7.38  predicted close price=9.31  todayield:-974.29  balance:115368.63
+DATE:2021-09-13 BUY 15632 at 7.38  SELL at 7.44  predicted close price=9.31  todayield:589.01  balance:115957.65
+DATE:2021-09-14 BUY 15585 at 7.44  SELL at 7.44  predicted close price=8.77  todayield:-347.86  balance:115609.79
+DATE:2021-09-15 BUY 15559 at 7.43  SELL at 7.5  predicted close price=8.84  todayield:739.05  balance:116348.84
+DATE:2021-09-16 BUY 15533 at 7.49  SELL at 7.58  predicted close price=8.93  todayield:1044.75  balance:117393.59
+DATE:2021-09-17 BUY 15426 at 7.61  SELL at 7.4  predicted close price=9.24  todayield:-3581.92  balance:113811.67
+DATE:2021-09-22 BUY 15719 at 7.24  SELL at 7.52  predicted close price=8.98  todayield:4046.7  balance:117858.37
+DATE:2021-09-23 BUY 15777 at 7.47  SELL at 7.56  predicted close price=8.83  todayield:1062.11  balance:118920.48
+DATE:2021-09-24 BUY 15751 at 7.55  SELL at 7.52  predicted close price=8.94  todayield:-827.87  balance:118092.61
+DATE:2021-10-08 BUY 16132 at 7.32  SELL at 7.42  predicted close price=8.84  todayield:1254.1  balance:119346.71
+DATE:2021-10-11 BUY 16084 at 7.42  SELL at 7.41  predicted close price=8.94  todayield:-518.39  balance:118828.32
+DATE:2021-11-08 BUY 17246 at 6.89  SELL at 6.98  predicted close price=14.43  todayield:1191.01  balance:120019.33
+DATE:2021-11-09 BUY 17318 at 6.93  SELL at 7.01  predicted close price=13.27  todayield:1021.24  balance:121040.57
+DATE:2021-11-10 BUY 17390 at 6.96  SELL at 7.04  predicted close price=12.22  todayield:1023.92  balance:122064.5
+DATE:2021-11-11 BUY 17289 at 7.06  SELL at 7.17  predicted close price=11.02  todayield:1529.9  balance:123594.4
+DATE:2021-11-12 BUY 17285 at 7.15  SELL at 7.16  predicted close price=10.73  todayield:-198.43  balance:123395.97
+DATE:2021-11-15 BUY 17210 at 7.17  SELL at 7.23  predicted close price=11.04  todayield:659.32  balance:124055.28
+DATE:2021-11-16 BUY 17158 at 7.23  SELL at 7.17  predicted close price=11.46  todayield:-1398.55  balance:122656.74
+DATE:2021-11-17 BUY 17106 at 7.17  SELL at 7.25  predicted close price=10.91  todayield:996.42  balance:123653.16
+DATE:2021-11-18 BUY 17032 at 7.26  SELL at 7.16  predicted close price=10.44  todayield:-2069.05  balance:121584.11
+DATE:2021-11-19 BUY 17076 at 7.12  SELL at 7.22  predicted close price=10.97  todayield:1337.73  balance:122921.85
+DATE:2021-11-22 BUY 16908 at 7.27  SELL at 7.15  predicted close price=10.71  todayield:-2391.64  balance:120530.21
+DATE:2021-11-23 BUY 16880 at 7.14  SELL at 7.15  predicted close price=9.75  todayield:-193.28  balance:120336.93
+DATE:2021-11-24 BUY 16760 at 7.18  SELL at 7.14  predicted close price=9.88  todayield:-1029.4  balance:119307.53
+DATE:2021-11-25 BUY 16709 at 7.14  SELL at 7.35  predicted close price=9.36  todayield:3140.46  balance:122447.99
+DATE:2021-11-26 BUY 16636 at 7.36  SELL at 7.42  predicted close price=9.32  todayield:627.84  balance:123075.83
+DATE:2021-11-29 BUY 16587 at 7.42  SELL at 7.18  predicted close price=9.74  todayield:-4338.16  balance:118737.67
+DATE:2021-11-30 BUY 16583 at 7.16  SELL at 7.18  predicted close price=10.71  todayield:-25.54  balance:118712.13
+DATE:2021-12-02 BUY 16487 at 7.2  SELL at 7.21  predicted close price=10.9  todayield:-191.74  balance:118520.39
+DATE:2021-12-03 BUY 16415 at 7.22  SELL at 7.37  predicted close price=10.48  todayield:2099.31  balance:120619.7
+DATE:2021-12-06 BUY 16366 at 7.37  SELL at 7.26  predicted close price=10.44  todayield:-2156.71  balance:118462.99
+DATE:2021-12-07 BUY 16317 at 7.26  SELL at 7.16  predicted close price=11.06  todayield:-1982.19  balance:116480.8
+DATE:2021-12-09 BUY 16200 at 7.19  SELL at 7.25  predicted close price=10.67  todayield:619.65  balance:117100.45
+DATE:2021-12-10 BUY 16218 at 7.22  SELL at 7.33  predicted close price=11.85  todayield:1427.35  balance:118527.8
+DATE:2021-12-13 BUY 16170 at 7.33  SELL at 7.44  predicted close price=11.78  todayield:1417.79  balance:119945.58
+DATE:2021-12-14 BUY 15907 at 7.54  SELL at 7.41  predicted close price=10.88  todayield:-2421.52  balance:117524.06
+DATE:2021-12-15 BUY 15669 at 7.5  SELL at 7.57  predicted close price=11.12  todayield:740.99  balance:118265.05
+DATE:2021-12-16 BUY 15705 at 7.53  SELL at 7.62  predicted close price=11.96  todayield:1054.43  balance:119319.48
+DATE:2021-12-17 BUY 15658 at 7.62  SELL at 7.66  predicted close price=11.5  todayield:266.5  balance:119585.98
+DATE:2021-12-20 BUY 15571 at 7.68  SELL at 7.86  predicted close price=11.13  todayield:2435.62  balance:122021.6
+DATE:2021-12-21 BUY 15252 at 8.0  SELL at 8.65  predicted close price=10.96  todayield:9518.01  balance:131539.61
+DATE:2021-12-22 BUY 15189 at 8.66  SELL at 8.05  predicted close price=10.96  todayield:-9632.1  balance:121907.5
+DATE:2021-12-23 BUY 15873 at 7.68  SELL at 7.78  predicted close price=10.72  todayield:1216.82  balance:123124.33
+DATE:2021-12-24 BUY 15785 at 7.8  SELL at 7.63  predicted close price=9.19  todayield:-3044.77  balance:120079.56
+DATE:2021-12-27 BUY 15737 at 7.63  SELL at 7.63  predicted close price=8.83  todayield:-360.22  balance:119719.34
+DATE:2022-01-04 BUY 15388 at 7.78  SELL at 8.18  predicted close price=9.44  todayield:5777.58  balance:125496.92
+DATE:2022-01-05 BUY 15360 at 8.17  SELL at 8.19  predicted close price=9.18  todayield:-70.2  balance:125426.72
+DATE:2022-01-06 BUY 15427 at 8.13  SELL at 8.34  predicted close price=9.25  todayield:2853.69  balance:128280.41
+DATE:2022-01-07 BUY 15362 at 8.35  SELL at 8.24  predicted close price=9.19  todayield:-2069.57  balance:126210.84
+DATE:2022-01-10 BUY 15543 at 8.12  SELL at 8.49  predicted close price=8.83  todayield:5355.03  balance:131565.87
+DATE:2022-01-11 BUY 15699 at 8.38  SELL at 8.81  predicted close price=8.78  todayield:6335.65  balance:137901.51
+DATE:2022-01-13 BUY 15868 at 8.69  SELL at 8.8  predicted close price=8.84  todayield:1326.56  balance:139228.08
+DATE:2022-01-17 BUY 15875 at 8.77  SELL at 8.5  predicted close price=8.81  todayield:-4691.06  balance:134537.02
+DATE:2022-01-18 BUY 15865 at 8.48  SELL at 8.26  predicted close price=8.92  todayield:-3883.43  balance:130653.58
+DATE:2022-02-07 BUY 16031 at 8.15  SELL at 8.19  predicted close price=8.86  todayield:247.36  balance:130900.94
+DATE:2022-02-08 BUY 15847 at 8.26  SELL at 8.48  predicted close price=8.83  todayield:3083.19  balance:133984.13
+DATE:2022-02-09 BUY 15837 at 8.46  SELL at 8.45  predicted close price=8.51  todayield:-559.84  balance:133424.29
+DATE:2022-02-10 BUY 15921 at 8.38  SELL at 8.41  predicted close price=8.55  todayield:75.94  balance:133500.24
+DATE:2022-02-11 BUY 15836 at 8.43  SELL at 8.31  predicted close price=8.57  todayield:-2295.11  balance:131205.13
+DATE:2022-02-14 BUY 16000 at 8.2  SELL at 8.4  predicted close price=8.48  todayield:2796.8  balance:134001.93
+DATE:2022-02-15 BUY 15839 at 8.46  SELL at 9.24  predicted close price=8.51  todayield:11915.36  balance:145917.29
+DATE:2022-06-27 BUY 16395 at 8.9  SELL at 8.97  predicted close price=9.2  todayield:706.46  balance:146623.75
+DATE:2022-06-28 BUY 16382 at 8.95  SELL at 8.91  predicted close price=9.13  todayield:-1093.17  balance:145530.58
+DATE:2022-06-29 BUY 16444 at 8.85  SELL at 9.36  predicted close price=9.28  todayield:7924.69  balance:153455.27
+DATE:2022-06-30 BUY 16698 at 9.19  SELL at 9.11  predicted close price=9.58  todayield:-1792.2  balance:151663.08
+DATE:2022-07-01 BUY 16702 at 9.08  SELL at 8.94  predicted close price=10.21  todayield:-2786.23  balance:148876.85
+DATE:2022-07-04 BUY 16784 at 8.87  SELL at 8.82  predicted close price=9.59  todayield:-1283.3  balance:147593.54
+DATE:2022-07-26 BUY 17868 at 8.26  SELL at 8.57  predicted close price=9.59  todayield:5079.69  balance:152673.24
+DATE:2022-07-27 BUY 17898 at 8.53  SELL at 8.41  predicted close price=9.75  todayield:-2599.33  balance:150073.91
+DATE:2022-07-28 BUY 17844 at 8.41  SELL at 8.47  predicted close price=10.05  todayield:617.22  balance:150691.13
+DATE:2022-07-29 BUY 17563 at 8.58  SELL at 8.52  predicted close price=10.28  todayield:-1502.69  balance:149188.44
+DATE:2022-08-15 BUY 18395 at 8.11  SELL at 8.08  predicted close price=9.74  todayield:-997.74  balance:148190.7
+DATE:2022-08-16 BUY 18317 at 8.09  SELL at 8.27  predicted close price=9.74  todayield:2842.62  balance:151033.31
+DATE:2022-08-17 BUY 18329 at 8.24  SELL at 8.32  predicted close price=9.6  todayield:1008.83  balance:152042.14
+DATE:2022-08-18 BUY 18318 at 8.3  SELL at 8.3  predicted close price=9.68  todayield:-456.12  balance:151586.02
+DATE:2022-08-19 BUY 18263 at 8.3  SELL at 8.49  predicted close price=9.56  todayield:3004.81  balance:154590.84
+DATE:2022-08-22 BUY 18187 at 8.5  SELL at 8.45  predicted close price=9.52  todayield:-1370.39  balance:153220.45
+DATE:2022-08-23 BUY 18089 at 8.47  SELL at 8.55  predicted close price=9.58  todayield:983.14  balance:154203.58
+DATE:2022-08-24 BUY 18099 at 8.52  SELL at 8.33  predicted close price=10.17  todayield:-3891.1  balance:150312.48
+DATE:2022-08-25 BUY 17937 at 8.38  SELL at 8.35  predicted close price=10.17  todayield:-987.43  balance:149325.05
+DATE:2022-08-26 BUY 17883 at 8.35  SELL at 8.26  predicted close price=10.43  todayield:-2052.61  balance:147272.44
+DATE:2022-08-29 BUY 18003 at 8.18  SELL at 8.31  predicted close price=10.71  todayield:1891.58  balance:149164.01
+DATE:2022-08-31 BUY 17885 at 8.34  SELL at 8.22  predicted close price=10.88  todayield:-2587.24  balance:146576.77
+DATE:2022-09-01 BUY 17875 at 8.2  SELL at 9.04  predicted close price=10.66  todayield:14530.23  balance:161107.0
+DATE:2022-09-02 BUY 17435 at 9.24  SELL at 8.86  predicted close price=10.52  todayield:-7088.72  balance:154018.27
+DATE:2022-09-05 BUY 17502 at 8.8  SELL at 8.92  predicted close price=10.57  todayield:1631.89  balance:155650.16
+DATE:2022-09-06 BUY 17430 at 8.93  SELL at 9.27  predicted close price=10.37  todayield:5441.47  balance:161091.63
+DATE:2022-09-07 BUY 17663 at 9.12  SELL at 9.42  predicted close price=10.41  todayield:4799.74  balance:165891.38
+DATE:2022-09-08 BUY 18051 at 9.19  SELL at 9.11  predicted close price=10.51  todayield:-1937.41  balance:163953.96
+DATE:2022-09-09 BUY 17977 at 9.12  SELL at 9.41  predicted close price=10.59  todayield:4705.84  balance:168659.8
+DATE:2022-09-13 BUY 18273 at 9.23  SELL at 9.04  predicted close price=10.53  todayield:-3967.43  balance:164692.37
+DATE:2022-09-14 BUY 18651 at 8.83  SELL at 9.94  predicted close price=10.33  todayield:20146.44  balance:184838.81
+DATE:2022-09-15 BUY 18651 at 9.91  SELL at 10.93  predicted close price=10.07  todayield:18412.45  balance:203251.26
+DATE:2022-09-19 BUY 22335 at 9.1  SELL at 9.97  predicted close price=10.21  todayield:18763.41  balance:222014.67
+DATE:2022-09-20 BUY 22493 at 9.87  SELL at 9.58  predicted close price=10.34  todayield:-7169.42  balance:214845.25
+DATE:2022-09-21 BUY 23027 at 9.33  SELL at 9.65  predicted close price=10.31  todayield:6702.01  balance:221547.26
+DATE:2022-10-17 BUY 27084 at 8.18  SELL at 8.44  predicted close price=9.59  todayield:6356.07  balance:227903.33
+DATE:2022-10-18 BUY 26970 at 8.45  SELL at 8.37  predicted close price=9.38  todayield:-2834.82  balance:225068.52
+DATE:2022-10-19 BUY 27051 at 8.32  SELL at 8.38  predicted close price=9.74  todayield:943.0  balance:226011.51
+DATE:2022-10-20 BUY 27067 at 8.35  SELL at 8.17  predicted close price=9.53  todayield:-5535.47  balance:220476.04
+DATE:2022-10-21 BUY 26404 at 8.35  SELL at 8.17  predicted close price=9.63  todayield:-5399.88  balance:215076.16
+DATE:2022-11-03 BUY 26618 at 8.08  SELL at 8.09  predicted close price=9.51  todayield:-379.84  balance:214696.32
+DATE:2022-11-04 BUY 26473 at 8.11  SELL at 8.24  predicted close price=9.44  todayield:2787.08  balance:217483.4
+DATE:2022-11-07 BUY 26490 at 8.21  SELL at 8.39  predicted close price=9.42  todayield:4101.45  balance:221584.84
+DATE:2022-11-08 BUY 26379 at 8.4  SELL at 8.39  predicted close price=9.25  todayield:-927.75  balance:220657.09
+DATE:2022-11-09 BUY 26144 at 8.44  SELL at 8.42  predicted close price=9.18  todayield:-1183.28  balance:219473.82
+DATE:2022-11-10 BUY 26284 at 8.35  SELL at 8.45  predicted close price=9.73  todayield:1962.1  balance:221435.92
+DATE:2022-11-11 BUY 25718 at 8.61  SELL at 9.2  predicted close price=9.39  todayield:14463.8  balance:235899.72
+DATE:2022-11-14 BUY 24831 at 9.5  SELL at 9.07  predicted close price=9.58  todayield:-11352.98  balance:224546.74
+DATE:2022-11-15 BUY 24354 at 9.22  SELL at 9.22  predicted close price=9.69  todayield:-673.63  balance:223873.11
+DATE:2022-11-16 BUY 24493 at 9.14  SELL at 9.03  predicted close price=9.72  todayield:-3357.75  balance:220515.36
+DATE:2022-11-17 BUY 24447 at 9.02  SELL at 9.05  predicted close price=9.73  todayield:69.67  balance:220585.04
+DATE:2022-11-18 BUY 24374 at 9.05  SELL at 9.13  predicted close price=9.6  todayield:1282.32  balance:221867.35
+DATE:2022-11-21 BUY 24434 at 9.08  SELL at 9.04  predicted close price=9.51  todayield:-1640.01  balance:220227.34
+DATE:2022-11-22 BUY 23885 at 9.22  SELL at 9.0  predicted close price=9.35  todayield:-5899.59  balance:214327.75
+DATE:2022-11-23 BUY 23787 at 9.01  SELL at 9.15  predicted close price=9.24  todayield:2677.23  balance:217004.97
+DATE:2022-11-24 BUY 22510 at 9.64  SELL at 9.54  predicted close price=9.21  todayield:-2895.24  balance:214109.74
+DATE:2022-12-05 BUY 20587 at 10.4  SELL at 11.12  predicted close price=10.73  todayield:14135.86  balance:228245.6
+DATE:2022-12-07 BUY 22870 at 9.98  SELL at 10.07  predicted close price=10.57  todayield:1367.4  balance:229612.99
+DATE:2022-12-08 BUY 23007 at 9.98  SELL at 9.98  predicted close price=10.55  todayield:-688.83  balance:228924.16
+DATE:2022-12-09 BUY 22915 at 9.99  SELL at 10.29  predicted close price=10.59  todayield:6167.11  balance:235091.28
+DATE:2022-12-30 BUY 23070 at 10.19  SELL at 10.19  predicted close price=10.15  todayield:-705.25  balance:234386.03
+DATE:2023-01-03 BUY 23183 at 10.11  SELL at 10.32  predicted close price=10.3  todayield:4150.68  balance:238536.71
+DATE:2023-01-04 BUY 23136 at 10.31  SELL at 10.48  predicted close price=10.39  todayield:3205.72  balance:241742.44
+DATE:2023-01-05 BUY 22892 at 10.56  SELL at 10.43  predicted close price=11.42  todayield:-3692.25  balance:238050.19
+DATE:2023-01-06 BUY 22585 at 10.54  SELL at 10.16  predicted close price=11.61  todayield:-9270.69  balance:228779.49
+DATE:2023-01-30 BUY 22168 at 10.32  SELL at 10.37  predicted close price=10.91  todayield:418.75  balance:229198.25
+DATE:2023-01-31 BUY 22102 at 10.37  SELL at 10.8  predicted close price=11.81  todayield:8787.76  balance:237986.0
+DATE:2023-02-01 BUY 22346 at 10.65  SELL at 10.73  predicted close price=11.65  todayield:1068.36  balance:239054.37
+DATE:2023-02-02 BUY 22404 at 10.67  SELL at 10.95  predicted close price=11.32  todayield:5537.15  balance:244591.51
+DATE:2023-02-03 BUY 22439 at 10.9  SELL at 10.72  predicted close price=11.45  todayield:-4760.66  balance:239830.86
+DATE:2023-02-06 BUY 22689 at 10.57  SELL at 10.54  predicted close price=11.68  todayield:-1398.1  balance:238432.76
+DATE:2023-02-07 BUY 22600 at 10.55  SELL at 10.58  predicted close price=11.36  todayield:-39.32  balance:238393.44
+DATE:2023-03-23 BUY 24276 at 9.82  SELL at 9.72  predicted close price=14.16  todayield:-3135.49  balance:235257.95
+DATE:2023-03-24 BUY 24228 at 9.71  SELL at 9.9  predicted close price=13.25  todayield:3883.75  balance:239141.7
+DATE:2023-03-27 BUY 24253 at 9.86  SELL at 9.78  predicted close price=13.11  todayield:-2651.82  balance:236489.87
+DATE:2023-03-28 BUY 24180 at 9.78  SELL at 9.76  predicted close price=13.14  todayield:-1191.59  balance:235298.28
+DATE:2023-04-11 BUY 25005 at 9.41  SELL at 9.58  predicted close price=13.8  todayield:3532.21  balance:238830.49
+DATE:2023-04-12 BUY 25008 at 9.55  SELL at 9.68  predicted close price=13.32  todayield:2524.81  balance:241355.3
+DATE:2023-04-13 BUY 25141 at 9.6  SELL at 9.7  predicted close price=13.76  todayield:1782.5  balance:243137.79
+DATE:2023-04-14 BUY 25065 at 9.7  SELL at 9.72  predicted close price=13.28  todayield:-229.6  balance:242908.2
+DATE:2023-04-17 BUY 24964 at 9.73  SELL at 9.6  predicted close price=13.01  todayield:-3964.28  balance:238943.91
+DATE:2023-04-18 BUY 24812 at 9.63  SELL at 9.47  predicted close price=12.7  todayield:-4674.83  balance:234269.09
+DATE:2023-05-04 BUY 23473 at 9.98  SELL at 10.14  predicted close price=12.44  todayield:3041.63  balance:237310.72
+DATE:2023-05-05 BUY 23311 at 10.18  SELL at 10.84  predicted close price=11.83  todayield:14627.19  balance:251937.9
+DATE:2023-05-08 BUY 24131 at 10.44  SELL at 10.76  predicted close price=11.84  todayield:6942.97  balance:258880.87
+DATE:2023-05-09 BUY 24217 at 10.69  SELL at 10.65  predicted close price=11.83  todayield:-1742.41  balance:257138.46
+DATE:2023-05-10 BUY 24258 at 10.6  SELL at 10.58  predicted close price=11.93  todayield:-1255.11  balance:255883.35
+DATE:2023-05-11 BUY 24094 at 10.62  SELL at 10.63  predicted close price=11.82  todayield:-527.42  balance:255355.94
+DATE:2023-05-12 BUY 23999 at 10.64  SELL at 10.69  predicted close price=11.85  todayield:430.3  balance:255786.24
+DATE:2023-05-15 BUY 24040 at 10.64  SELL at 10.77  predicted close price=11.69  todayield:2348.47  balance:258134.7
+DATE:2023-05-16 BUY 24238 at 10.65  SELL at 10.78  predicted close price=11.72  todayield:2367.08  balance:260501.79
+DATE:2023-05-17 BUY 24009 at 10.85  SELL at 10.93  predicted close price=11.6  todayield:1133.46  balance:261635.25
+DATE:2023-05-18 BUY 24003 at 10.9  SELL at 11.04  predicted close price=11.32  todayield:2565.44  balance:264200.69
+DATE:2023-05-19 BUY 24463 at 10.8  SELL at 10.6  predicted close price=11.28  todayield:-5670.52  balance:258530.17
+DATE:2023-06-05 BUY 25395 at 10.18  SELL at 10.43  predicted close price=10.77  todayield:5554.14  balance:264084.31
+DATE:2023-06-06 BUY 25271 at 10.45  SELL at 11.47  predicted close price=10.71  todayield:24906.84  balance:288991.16
+DATE:2023-07-06 BUY 25779 at 11.21  SELL at 11.51  predicted close price=11.55  todayield:6843.55  balance:295834.71
+DATE:2023-07-07 BUY 25769 at 11.48  SELL at 11.61  predicted close price=11.54  todayield:2452.44  balance:298287.14
+DATE:2023-07-13 BUY 24857 at 12.0  SELL at 12.27  predicted close price=11.62  todayield:5796.4  balance:304083.55
+DATE:2023-08-07 BUY 21000 at 14.48  SELL at 14.03  predicted close price=14.66  todayield:-10333.89  balance:293749.66
+DATE:2023-11-07 BUY 25949 at 11.32  SELL at 11.4  predicted close price=11.32  todayield:1188.46  balance:294938.12
+DATE:2023-11-10 BUY 25826 at 11.42  SELL at 11.35  predicted close price=11.54  todayield:-2687.2  balance:292250.92
+DATE:2023-11-16 BUY 25215 at 11.59  SELL at 11.64  predicted close price=11.58  todayield:380.24  balance:292631.17
+DATE:2023-11-21 BUY 25140 at 11.64  SELL at 11.84  predicted close price=11.6  todayield:4135.03  balance:296766.19
+DATE:2023-11-22 BUY 24751 at 11.99  SELL at 12.49  predicted close price=11.9  todayield:11448.08  balance:308214.27
+DATE:2023-11-27 BUY 26164 at 11.78  SELL at 11.69  predicted close price=12.02  todayield:-3272.33  balance:304941.94
+DATE:2023-12-12 BUY 25864 at 11.79  SELL at 11.91  predicted close price=11.65  todayield:2179.56  balance:307121.5
+DATE:2023-12-14 BUY 26138 at 11.75  SELL at 12.37  predicted close price=11.83  todayield:15235.58  balance:322357.08
+DATE:2023-12-20 BUY 27364 at 11.78  SELL at 11.48  predicted close price=11.95  todayield:-9151.62  balance:313205.46
+DATE:2020-04-13 BUY 12195 at 8.2  SELL at 8.14  predicted close price=8.19  todayield:-1029.5  balance:98970.5
+DATE:2020-04-14 BUY 12143 at 8.15  SELL at 8.19  predicted close price=8.21  todayield:187.37  balance:99157.86
+DATE:2020-04-15 BUY 12107 at 8.19  SELL at 8.12  predicted close price=8.2  todayield:-1142.42  balance:98015.45
+DATE:2020-04-16 BUY 12070 at 8.12  SELL at 8.22  predicted close price=8.19  todayield:909.35  balance:98924.8
+DATE:2020-04-27 BUY 11847 at 8.35  SELL at 8.56  predicted close price=8.39  todayield:2183.64  balance:101108.44
+DATE:2020-05-26 BUY 12255 at 8.25  SELL at 8.59  predicted close price=8.3  todayield:3850.89  balance:104959.33
+DATE:2020-06-09 BUY 11508 at 9.12  SELL at 9.04  predicted close price=9.1  todayield:-1232.74  balance:103726.59
+DATE:2020-06-10 BUY 11461 at 9.05  SELL at 9.37  predicted close price=9.12  todayield:3345.35  balance:107071.94
+DATE:2020-06-23 BUY 10486 at 10.21  SELL at 10.2  predicted close price=10.3  todayield:-425.73  balance:106646.21
+DATE:2020-06-24 BUY 10445 at 10.21  SELL at 10.16  predicted close price=10.32  todayield:-840.61  balance:105805.6
+DATE:2020-06-29 BUY 10548 at 10.03  SELL at 10.69  predicted close price=10.31  todayield:6623.41  balance:112429.0
+DATE:2020-07-06 BUY 10230 at 10.99  SELL at 11.48  predicted close price=10.95  todayield:4660.38  balance:117089.38
+DATE:2020-07-10 BUY 10398 at 11.26  SELL at 12.39  predicted close price=11.26  todayield:11363.25  balance:128452.63
+DATE:2020-07-17 BUY 11044 at 11.63  SELL at 11.84  predicted close price=12.95  todayield:1926.96  balance:130379.59
+DATE:2020-07-20 BUY 11002 at 11.85  SELL at 12.45  predicted close price=12.76  todayield:6190.28  balance:136569.86
+DATE:2020-07-21 BUY 11058 at 12.35  SELL at 13.47  predicted close price=12.5  todayield:11938.11  balance:148507.97
+DATE:2020-07-27 BUY 11539 at 12.87  SELL at 12.52  predicted close price=12.92  todayield:-4472.05  balance:144035.91
+DATE:2020-08-07 BUY 10829 at 13.3  SELL at 13.0  predicted close price=13.54  todayield:-3671.03  balance:140364.88
+DATE:2020-09-25 BUY 12972 at 10.82  SELL at 10.61  predicted close price=10.8  todayield:-3137.02  balance:137227.86
+DATE:2020-10-09 BUY 12921 at 10.62  SELL at 11.02  predicted close price=10.55  todayield:4741.23  balance:141969.1
+DATE:2020-10-15 BUY 13072 at 10.86  SELL at 10.42  predicted close price=11.04  todayield:-6160.31  balance:135808.78
+DATE:2020-10-16 BUY 13071 at 10.39  SELL at 10.4  predicted close price=11.07  todayield:-277.11  balance:135531.68
+DATE:2021-03-15 BUY 17331 at 7.82  SELL at 8.08  predicted close price=7.89  todayield:4085.96  balance:139617.64
+DATE:2021-03-22 BUY 17258 at 8.09  SELL at 8.23  predicted close price=8.12  todayield:1990.02  balance:141607.66
+DATE:2021-03-25 BUY 17311 at 8.18  SELL at 8.16  predicted close price=8.19  todayield:-769.99  balance:140837.66
+DATE:2021-03-26 BUY 17280 at 8.15  SELL at 8.16  predicted close price=8.2  todayield:-250.21  balance:140587.45
+DATE:2021-03-29 BUY 17228 at 8.16  SELL at 8.17  predicted close price=8.19  todayield:-249.98  balance:140337.47
+DATE:2021-05-18 BUY 18084 at 7.76  SELL at 7.75  predicted close price=7.82  todayield:-601.29  balance:139736.18
+DATE:2021-06-07 BUY 17688 at 7.9  SELL at 7.92  predicted close price=7.96  todayield:-66.51  balance:139669.67
+DATE:2021-06-08 BUY 17635 at 7.92  SELL at 7.98  predicted close price=7.96  todayield:635.92  balance:140305.59
+DATE:2021-06-11 BUY 17670 at 7.94  SELL at 7.88  predicted close price=7.97  todayield:-1477.92  balance:138827.67
+DATE:2021-06-30 BUY 17775 at 7.81  SELL at 7.75  predicted close price=7.8  todayield:-1479.77  balance:137347.9
+DATE:2021-08-18 BUY 19481 at 7.05  SELL at 6.99  predicted close price=7.13  todayield:-1577.38  balance:135770.52
+DATE:2021-08-31 BUY 19507 at 6.96  SELL at 7.07  predicted close price=7.06  todayield:1732.03  balance:137502.55
+DATE:2021-09-10 BUY 18531 at 7.42  SELL at 7.38  predicted close price=7.44  todayield:-1151.52  balance:136351.03
+DATE:2021-09-13 BUY 18475 at 7.38  SELL at 7.44  predicted close price=7.46  todayield:696.14  balance:137047.17
+DATE:2021-09-14 BUY 18420 at 7.44  SELL at 7.44  predicted close price=7.46  todayield:-411.13  balance:136636.04
+DATE:2021-09-15 BUY 18389 at 7.43  SELL at 7.5  predicted close price=7.46  todayield:873.48  balance:137509.52
+DATE:2021-09-22 BUY 18993 at 7.24  SELL at 7.52  predicted close price=7.5  todayield:4889.56  balance:142399.07
+DATE:2021-10-08 BUY 19453 at 7.32  SELL at 7.42  predicted close price=7.36  todayield:1512.28  balance:143911.35
+DATE:2021-11-08 BUY 20886 at 6.89  SELL at 6.98  predicted close price=6.97  todayield:1442.39  balance:145353.74
+DATE:2021-11-19 BUY 20414 at 7.12  SELL at 7.22  predicted close price=7.21  todayield:1599.23  balance:146952.97
+DATE:2021-11-22 BUY 20213 at 7.27  SELL at 7.15  predicted close price=7.22  todayield:-2859.13  balance:144093.84
+DATE:2021-11-23 BUY 20181 at 7.14  SELL at 7.15  predicted close price=7.24  todayield:-231.07  balance:143862.77
+DATE:2021-11-24 BUY 20036 at 7.18  SELL at 7.14  predicted close price=7.23  todayield:-1230.61  balance:142632.16
+DATE:2021-11-25 BUY 19976 at 7.14  SELL at 7.35  predicted close price=7.23  todayield:3754.49  balance:146386.65
+DATE:2021-11-30 BUY 20445 at 7.16  SELL at 7.18  predicted close price=7.29  todayield:-31.49  balance:146355.16
+DATE:2021-12-02 BUY 20327 at 7.2  SELL at 7.21  predicted close price=7.29  todayield:-236.4  balance:146118.76
+DATE:2021-12-03 BUY 20238 at 7.22  SELL at 7.37  predicted close price=7.28  todayield:2588.24  balance:148707.0
+DATE:2021-12-07 BUY 20483 at 7.26  SELL at 7.16  predicted close price=7.29  todayield:-2488.27  balance:146218.72
+DATE:2021-12-09 BUY 20336 at 7.19  SELL at 7.25  predicted close price=7.29  todayield:777.85  balance:146996.57
+DATE:2021-12-10 BUY 20359 at 7.22  SELL at 7.33  predicted close price=7.27  todayield:1791.8  balance:148788.37
+DATE:2021-12-24 BUY 19075 at 7.8  SELL at 7.63  predicted close price=7.94  todayield:-3679.38  balance:145108.99
+DATE:2021-12-27 BUY 19018 at 7.63  SELL at 7.63  predicted close price=7.96  todayield:-435.32  balance:144673.67
+DATE:2022-01-18 BUY 17060 at 8.48  SELL at 8.26  predicted close price=8.63  todayield:-4175.95  balance:140497.72
+DATE:2022-02-18 BUY 16280 at 8.63  SELL at 8.83  predicted close price=8.69  todayield:2824.74  balance:143322.47
+DATE:2022-02-25 BUY 16013 at 8.95  SELL at 8.91  predicted close price=8.89  todayield:-1068.55  balance:142253.92
+DATE:2022-03-01 BUY 16351 at 8.7  SELL at 8.77  predicted close price=8.86  todayield:714.38  balance:142968.29
+DATE:2022-04-11 BUY 12421 at 11.51  SELL at 10.92  predicted close price=12.87  todayield:-7735.3  balance:135232.99
+DATE:2022-05-09 BUY 12757 at 10.6  SELL at 10.55  predicted close price=10.61  todayield:-1041.61  balance:134191.38
+DATE:2022-05-10 BUY 13028 at 10.3  SELL at 11.11  predicted close price=10.73  todayield:10118.46  balance:144309.84
+DATE:2022-05-13 BUY 13678 at 10.55  SELL at 11.85  predicted close price=10.95  todayield:17295.15  balance:161604.99
+DATE:2022-05-18 BUY 15089 at 10.71  SELL at 11.19  predicted close price=11.34  todayield:6736.18  balance:168341.17
+DATE:2022-05-19 BUY 15458 at 10.89  SELL at 11.74  predicted close price=11.34  todayield:12594.87  balance:180936.04
+DATE:2022-05-24 BUY 16155 at 11.2  SELL at 11.04  predicted close price=11.44  todayield:-3119.85  balance:177816.18
+DATE:2022-07-04 BUY 20046 at 8.87  SELL at 8.82  predicted close price=9.04  todayield:-1532.72  balance:176283.47
+DATE:2022-08-25 BUY 21036 at 8.38  SELL at 8.35  predicted close price=8.38  todayield:-1158.03  balance:175125.44
+DATE:2022-08-26 BUY 20973 at 8.35  SELL at 8.26  predicted close price=8.39  todayield:-2407.28  balance:172718.15
+DATE:2022-08-29 BUY 21114 at 8.18  SELL at 8.31  predicted close price=8.39  todayield:2218.45  balance:174936.6
+DATE:2022-09-01 BUY 21333 at 8.2  SELL at 9.04  predicted close price=8.33  todayield:17341.17  balance:192277.77
+DATE:2022-09-14 BUY 21775 at 8.83  SELL at 9.94  predicted close price=9.16  todayield:23520.92  balance:215798.69
+DATE:2022-09-21 BUY 23129 at 9.33  SELL at 9.65  predicted close price=9.94  todayield:6731.7  balance:222530.39
+DATE:2022-10-21 BUY 26650 at 8.35  SELL at 8.17  predicted close price=8.32  todayield:-5450.19  balance:217080.19
+DATE:2022-11-23 BUY 24093 at 9.01  SELL at 9.15  predicted close price=9.04  todayield:2711.67  balance:219791.86
+DATE:2022-12-05 BUY 21133 at 10.4  SELL at 11.12  predicted close price=10.38  todayield:14510.76  balance:234302.62
+DATE:2022-12-07 BUY 23477 at 9.98  SELL at 10.07  predicted close price=10.59  todayield:1403.69  balance:235706.31
+DATE:2022-12-08 BUY 23617 at 9.98  SELL at 9.98  predicted close price=10.6  todayield:-707.09  balance:234999.22
+DATE:2022-12-09 BUY 23523 at 9.99  SELL at 10.29  predicted close price=10.49  todayield:6330.74  balance:241329.97
+DATE:2022-12-30 BUY 23683 at 10.19  SELL at 10.19  predicted close price=10.32  todayield:-723.99  balance:240605.98
+DATE:2023-01-03 BUY 23798 at 10.11  SELL at 10.32  predicted close price=10.33  todayield:4260.79  balance:244866.77
+DATE:2023-02-07 BUY 23210 at 10.55  SELL at 10.58  predicted close price=10.68  todayield:-40.39  balance:244826.39
+DATE:2023-04-18 BUY 25423 at 9.63  SELL at 9.47  predicted close price=9.62  todayield:-4789.95  balance:240036.44
+DATE:2023-06-20 BUY 20019 at 11.99  SELL at 11.57  predicted close price=12.2  todayield:-9102.84  balance:230933.6
+DATE:2023-07-06 BUY 20600 at 11.21  SELL at 11.51  predicted close price=11.44  todayield:5468.68  balance:236402.28
+DATE:2023-07-11 BUY 20538 at 11.51  SELL at 11.5  predicted close price=11.47  todayield:-913.94  balance:235488.34
+DATE:2023-07-13 BUY 19624 at 12.0  SELL at 12.27  predicted close price=11.47  todayield:4576.12  balance:240064.46
+DATE:2023-09-01 BUY 16705 at 14.37  SELL at 13.76  predicted close price=14.25  todayield:-10879.63  balance:229184.83
+DATE:2023-11-13 BUY 20228 at 11.33  SELL at 11.35  predicted close price=11.37  todayield:-284.2  balance:228900.62
+DATE:2023-11-14 BUY 20203 at 11.33  SELL at 11.58  predicted close price=11.41  todayield:4348.9  balance:233249.52
+DATE:2023-11-27 BUY 19800 at 11.78  SELL at 11.69  predicted close price=12.02  todayield:-2476.39  balance:230773.14
+DATE:2023-12-20 BUY 19590 at 11.78  SELL at 11.48  predicted close price=12.04  todayield:-6551.68  balance:224221.46
+DATE:2020-01-15 BUY 10277 at 9.73  SELL at 9.62  predicted close price=9.79  todayield:-1427.06  balance:98572.94
+DATE:2020-02-11 BUY 11948 at 8.25  SELL at 8.41  predicted close price=10.83  todayield:1610.23  balance:100183.17
+DATE:2020-02-12 BUY 11912 at 8.41  SELL at 8.41  predicted close price=10.78  todayield:-300.54  balance:99882.63
+DATE:2020-02-13 BUY 11904 at 8.39  SELL at 8.35  predicted close price=10.71  todayield:-774.36  balance:99108.27
+DATE:2020-02-14 BUY 11855 at 8.36  SELL at 8.39  predicted close price=10.9  todayield:57.26  balance:99165.53
+DATE:2020-02-17 BUY 11819 at 8.39  SELL at 8.56  predicted close price=11.25  todayield:1705.72  balance:100871.25
+DATE:2020-02-18 BUY 11756 at 8.58  SELL at 8.58  predicted close price=11.53  todayield:-302.6  balance:100568.65
+DATE:2020-02-19 BUY 11817 at 8.51  SELL at 8.54  predicted close price=11.42  todayield:51.76  balance:100620.41
+DATE:2020-02-20 BUY 11782 at 8.54  SELL at 8.61  predicted close price=11.14  todayield:520.41  balance:101140.82
+DATE:2020-02-21 BUY 11733 at 8.62  SELL at 8.64  predicted close price=10.97  todayield:-69.46  balance:101071.36
+DATE:2020-02-24 BUY 11738 at 8.61  SELL at 8.56  predicted close price=10.96  todayield:-888.33  balance:100183.03
+DATE:2020-02-25 BUY 11884 at 8.43  SELL at 8.39  predicted close price=11.06  todayield:-774.48  balance:99408.55
+DATE:2020-02-26 BUY 12034 at 8.26  SELL at 8.47  predicted close price=11.04  todayield:2221.36  balance:101629.91
+DATE:2020-03-03 BUY 11984 at 8.48  SELL at 8.79  predicted close price=10.92  todayield:3399.02  balance:105028.93
+DATE:2020-03-04 BUY 12128 at 8.66  SELL at 8.86  predicted close price=10.98  todayield:2103.24  balance:107132.16
+DATE:2020-03-05 BUY 12119 at 8.84  SELL at 8.85  predicted close price=11.01  todayield:-200.57  balance:106931.6
+DATE:2020-03-06 BUY 12220 at 8.75  SELL at 8.78  predicted close price=11.07  todayield:44.73  balance:106976.32
+DATE:2020-03-09 BUY 12367 at 8.65  SELL at 8.37  predicted close price=11.19  todayield:-3773.3  balance:103203.03
+DATE:2020-04-07 BUY 12494 at 8.26  SELL at 8.32  predicted close price=11.67  todayield:437.79  balance:103640.81
+DATE:2020-04-08 BUY 12517 at 8.28  SELL at 8.26  predicted close price=11.65  todayield:-560.51  balance:103080.3
+DATE:2020-04-09 BUY 12449 at 8.28  SELL at 8.32  predicted close price=11.67  todayield:187.23  balance:103267.54
+DATE:2020-04-10 BUY 12411 at 8.32  SELL at 8.18  predicted close price=11.65  todayield:-2042.11  balance:101225.43
+DATE:2020-04-13 BUY 12344 at 8.2  SELL at 8.14  predicted close price=11.62  todayield:-1042.08  balance:100183.35
+DATE:2020-04-14 BUY 12292 at 8.15  SELL at 8.19  predicted close price=11.56  todayield:189.67  balance:100373.02
+DATE:2020-04-15 BUY 12255 at 8.19  SELL at 8.12  predicted close price=11.52  todayield:-1156.38  balance:99216.63
+DATE:2020-04-16 BUY 12218 at 8.12  SELL at 8.22  predicted close price=11.45  todayield:920.5  balance:100137.14
+DATE:2020-04-17 BUY 12137 at 8.25  SELL at 8.22  predicted close price=11.37  todayield:-663.41  balance:99473.73
+DATE:2020-04-20 BUY 12086 at 8.23  SELL at 8.3  predicted close price=11.33  todayield:545.08  balance:100018.81
+DATE:2020-04-21 BUY 12094 at 8.27  SELL at 8.46  predicted close price=11.26  todayield:1990.91  balance:102009.72
+DATE:2020-04-22 BUY 12187 at 8.37  SELL at 8.61  predicted close price=11.2  todayield:2610.09  balance:104619.81
+DATE:2020-04-23 BUY 12136 at 8.62  SELL at 8.5  predicted close price=11.15  todayield:-1765.79  balance:102854.02
+DATE:2020-04-24 BUY 12100 at 8.5  SELL at 8.36  predicted close price=11.13  todayield:-1997.47  balance:100856.56
+DATE:2020-04-27 BUY 12078 at 8.35  SELL at 8.56  predicted close price=11.18  todayield:2226.22  balance:103082.77
+DATE:2020-05-11 BUY 12213 at 8.44  SELL at 8.45  predicted close price=10.95  todayield:-187.47  balance:102895.3
+DATE:2020-05-12 BUY 12133 at 8.48  SELL at 8.33  predicted close price=10.93  todayield:-2123.15  balance:100772.15
+DATE:2020-05-13 BUY 12112 at 8.32  SELL at 8.43  predicted close price=10.95  todayield:1026.01  balance:101798.16
+DATE:2020-05-14 BUY 12118 at 8.4  SELL at 8.5  predicted close price=11.0  todayield:902.79  balance:102700.95
+DATE:2020-05-15 BUY 11474 at 8.95  SELL at 8.52  predicted close price=11.03  todayield:-5227.1  balance:97473.85
+DATE:2020-05-18 BUY 11576 at 8.42  SELL at 8.3  predicted close price=10.98  todayield:-1677.36  balance:95796.49
+DATE:2020-05-26 BUY 11611 at 8.25  SELL at 8.59  predicted close price=10.63  todayield:3648.52  balance:99445.02
+DATE:2020-05-27 BUY 11576 at 8.59  SELL at 8.59  predicted close price=10.57  todayield:-298.31  balance:99146.7
+DATE:2020-05-28 BUY 11555 at 8.58  SELL at 8.61  predicted close price=10.48  todayield:48.18  balance:99194.89
+DATE:2020-05-29 BUY 11561 at 8.58  SELL at 8.66  predicted close price=10.39  todayield:624.53  balance:99819.41
+DATE:2020-06-01 BUY 11460 at 8.71  SELL at 8.81  predicted close price=10.31  todayield:843.11  balance:100662.52
+DATE:2020-06-02 BUY 11310 at 8.9  SELL at 9.23  predicted close price=10.24  todayield:3419.13  balance:104081.65
+DATE:2020-06-03 BUY 11350 at 9.17  SELL at 9.24  predicted close price=10.15  todayield:479.88  balance:104561.53
+DATE:2020-06-04 BUY 11303 at 9.25  SELL at 9.37  predicted close price=10.09  todayield:1038.63  balance:105600.16
+DATE:2020-06-05 BUY 11270 at 9.37  SELL at 9.18  predicted close price=10.07  todayield:-2451.68  balance:103148.48
+DATE:2020-06-08 BUY 11199 at 9.21  SELL at 9.06  predicted close price=10.05  todayield:-1984.24  balance:101164.25
+DATE:2020-06-09 BUY 11092 at 9.12  SELL at 9.04  predicted close price=10.03  todayield:-1188.18  balance:99976.07
+DATE:2020-06-10 BUY 11047 at 9.05  SELL at 9.37  predicted close price=9.99  todayield:3224.51  balance:103200.58
+DATE:2020-06-11 BUY 11340 at 9.1  SELL at 9.2  predicted close price=9.99  todayield:821.02  balance:104021.6
+DATE:2020-06-12 BUY 11609 at 8.96  SELL at 9.59  predicted close price=9.95  todayield:6979.68  balance:111001.27
+DATE:2020-06-15 BUY 11550 at 9.61  SELL at 10.11  predicted close price=9.94  todayield:5424.69  balance:116425.96
+DATE:2021-01-18 BUY 14964 at 7.78  SELL at 7.92  predicted close price=8.06  todayield:1739.42  balance:118165.38
+DATE:2021-01-19 BUY 14957 at 7.9  SELL at 8.71  predicted close price=8.05  todayield:11724.34  balance:129889.72
+DATE:2021-02-18 BUY 17090 at 7.6  SELL at 7.74  predicted close price=7.82  todayield:1995.77  balance:131885.49
+DATE:2021-02-19 BUY 17127 at 7.7  SELL at 7.99  predicted close price=7.79  todayield:4556.3  balance:136441.79
+DATE:2021-08-11 BUY 19298 at 7.07  SELL at 7.09  predicted close price=7.95  todayield:-24.51  balance:136417.28
+DATE:2021-08-12 BUY 19213 at 7.1  SELL at 7.12  predicted close price=8.04  todayield:-26.13  balance:136391.15
+DATE:2021-08-13 BUY 19210 at 7.1  SELL at 7.15  predicted close price=8.17  todayield:548.45  balance:136939.6
+DATE:2021-08-16 BUY 19152 at 7.15  SELL at 7.12  predicted close price=8.28  todayield:-983.65  balance:135955.95
+DATE:2021-08-17 BUY 19202 at 7.08  SELL at 6.95  predicted close price=8.38  todayield:-2896.62  balance:133059.33
+DATE:2021-08-18 BUY 18873 at 7.05  SELL at 6.99  predicted close price=8.46  todayield:-1528.15  balance:131531.18
+DATE:2021-08-25 BUY 18630 at 7.06  SELL at 7.01  predicted close price=8.41  todayield:-1323.29  balance:130207.89
+DATE:2021-08-31 BUY 18708 at 6.96  SELL at 7.07  predicted close price=8.22  todayield:1661.08  balance:131868.97
+DATE:2021-09-01 BUY 18651 at 7.07  SELL at 7.28  predicted close price=8.23  todayield:3509.37  balance:135378.35
+DATE:2021-09-02 BUY 18750 at 7.22  SELL at 7.18  predicted close price=8.27  todayield:-1153.87  balance:134224.47
+DATE:2021-09-03 BUY 18694 at 7.18  SELL at 7.3  predicted close price=8.36  todayield:1833.88  balance:136058.35
+DATE:2021-09-06 BUY 18511 at 7.35  SELL at 7.48  predicted close price=8.43  todayield:1991.04  balance:138049.4
+DATE:2021-09-07 BUY 18164 at 7.6  SELL at 7.7  predicted close price=8.49  todayield:1396.81  balance:139446.21
+DATE:2021-09-08 BUY 18348 at 7.6  SELL at 7.47  predicted close price=8.53  todayield:-2796.42  balance:136649.79
+DATE:2021-09-09 BUY 18317 at 7.46  SELL at 7.42  predicted close price=8.59  todayield:-1140.42  balance:135509.37
+DATE:2021-09-10 BUY 18262 at 7.42  SELL at 7.38  predicted close price=8.78  todayield:-1134.8  balance:134374.57
+DATE:2021-09-13 BUY 18207 at 7.38  SELL at 7.44  predicted close price=8.92  todayield:686.04  balance:135060.61
+DATE:2021-09-14 BUY 18153 at 7.44  SELL at 7.44  predicted close price=8.94  todayield:-405.17  balance:134655.44
+DATE:2021-09-15 BUY 18123 at 7.43  SELL at 7.5  predicted close price=8.98  todayield:860.84  balance:135516.28
+DATE:2021-09-16 BUY 18092 at 7.49  SELL at 7.58  predicted close price=9.04  todayield:1216.87  balance:136733.15
+DATE:2021-09-17 BUY 17967 at 7.61  SELL at 7.4  predicted close price=9.12  todayield:-4171.94  balance:132561.21
+DATE:2021-09-22 BUY 18309 at 7.24  SELL at 7.52  predicted close price=9.16  todayield:4713.47  balance:137274.68
+DATE:2021-09-23 BUY 18376 at 7.47  SELL at 7.56  predicted close price=9.16  todayield:1237.07  balance:138511.75
+DATE:2021-09-24 BUY 18345 at 7.55  SELL at 7.52  predicted close price=9.18  todayield:-964.21  balance:137547.54
+DATE:2021-10-08 BUY 18790 at 7.32  SELL at 7.42  predicted close price=9.29  todayield:1460.73  balance:139008.27
+DATE:2021-10-11 BUY 18734 at 7.42  SELL at 7.41  predicted close price=9.34  todayield:-603.8  balance:138404.48
+DATE:2021-11-08 BUY 20087 at 6.89  SELL at 6.98  predicted close price=11.41  todayield:1387.21  balance:139791.68
+DATE:2021-11-09 BUY 20171 at 6.93  SELL at 7.01  predicted close price=11.38  todayield:1189.48  balance:140981.17
+DATE:2021-11-10 BUY 20255 at 6.96  SELL at 7.04  predicted close price=11.17  todayield:1192.61  balance:142173.78
+DATE:2021-11-11 BUY 20137 at 7.06  SELL at 7.17  predicted close price=10.92  todayield:1781.92  balance:143955.71
+DATE:2021-11-12 BUY 20133 at 7.15  SELL at 7.16  predicted close price=10.75  todayield:-231.13  balance:143724.58
+DATE:2021-11-15 BUY 20045 at 7.17  SELL at 7.23  predicted close price=10.68  todayield:767.92  balance:144492.5
+DATE:2021-11-16 BUY 19985 at 7.23  SELL at 7.17  predicted close price=10.7  todayield:-1628.98  balance:142863.53
+DATE:2021-11-17 BUY 19925 at 7.17  SELL at 7.25  predicted close price=10.64  todayield:1160.63  balance:144024.16
+DATE:2021-11-18 BUY 19838 at 7.26  SELL at 7.16  predicted close price=10.55  todayield:-2409.92  balance:141614.24
+DATE:2021-11-19 BUY 19889 at 7.12  SELL at 7.22  predicted close price=10.52  todayield:1558.1  balance:143172.34
+DATE:2021-11-22 BUY 19693 at 7.27  SELL at 7.15  predicted close price=10.46  todayield:-2785.57  balance:140386.77
+DATE:2021-11-23 BUY 19662 at 7.14  SELL at 7.15  predicted close price=10.27  todayield:-225.13  balance:140161.64
+DATE:2021-11-24 BUY 19521 at 7.18  SELL at 7.14  predicted close price=10.08  todayield:-1198.98  balance:138962.66
+DATE:2021-11-25 BUY 19462 at 7.14  SELL at 7.35  predicted close price=9.91  todayield:3657.88  balance:142620.54
+DATE:2021-11-26 BUY 19377 at 7.36  SELL at 7.42  predicted close price=9.83  todayield:731.29  balance:143351.83
+DATE:2021-11-29 BUY 19319 at 7.42  SELL at 7.18  predicted close price=9.86  todayield:-5052.69  balance:138299.14
+DATE:2021-11-30 BUY 19315 at 7.16  SELL at 7.18  predicted close price=10.05  todayield:-29.75  balance:138269.39
+DATE:2021-12-02 BUY 19204 at 7.2  SELL at 7.21  predicted close price=10.54  todayield:-223.34  balance:138046.05
+DATE:2021-12-03 BUY 19119 at 7.22  SELL at 7.37  predicted close price=10.57  todayield:2445.13  balance:140491.18
+DATE:2021-12-06 BUY 19062 at 7.37  SELL at 7.26  predicted close price=10.59  todayield:-2511.99  balance:137979.19
+DATE:2021-12-07 BUY 19005 at 7.26  SELL at 7.16  predicted close price=10.69  todayield:-2308.73  balance:135670.46
+DATE:2021-12-09 BUY 18869 at 7.19  SELL at 7.25  predicted close price=10.67  todayield:721.74  balance:136392.2
+DATE:2021-12-10 BUY 18890 at 7.22  SELL at 7.33  predicted close price=10.71  todayield:1662.51  balance:138054.71
+DATE:2021-12-13 BUY 18834 at 7.33  SELL at 7.44  predicted close price=10.77  todayield:1651.37  balance:139706.07
+DATE:2021-12-14 BUY 18528 at 7.54  SELL at 7.41  predicted close price=10.78  todayield:-2820.52  balance:136885.55
+DATE:2021-12-15 BUY 18251 at 7.5  SELL at 7.57  predicted close price=10.79  todayield:863.09  balance:137748.64
+DATE:2021-12-16 BUY 18293 at 7.53  SELL at 7.62  predicted close price=10.91  todayield:1228.19  balance:138976.84
+DATE:2021-12-17 BUY 18238 at 7.62  SELL at 7.66  predicted close price=10.91  todayield:310.41  balance:139287.25
+DATE:2021-12-20 BUY 18136 at 7.68  SELL at 7.86  predicted close price=10.84  todayield:2836.83  balance:142124.08
+DATE:2021-12-21 BUY 17765 at 8.0  SELL at 8.65  predicted close price=10.74  todayield:11086.25  balance:153210.33
+DATE:2021-12-22 BUY 17691 at 8.66  SELL at 8.05  predicted close price=10.64  todayield:-11218.75  balance:141991.58
+DATE:2021-12-23 BUY 18488 at 7.68  SELL at 7.78  predicted close price=10.54  todayield:1417.29  balance:143408.87
+DATE:2021-12-24 BUY 18385 at 7.8  SELL at 7.63  predicted close price=10.27  todayield:-3546.28  balance:139862.59
+DATE:2021-12-27 BUY 18330 at 7.63  SELL at 7.63  predicted close price=10.08  todayield:-419.57  balance:139443.01
+DATE:2022-01-04 BUY 17923 at 7.78  SELL at 8.18  predicted close price=10.11  todayield:6729.37  balance:146172.38
+DATE:2022-01-05 BUY 17891 at 8.17  SELL at 8.19  predicted close price=10.03  todayield:-81.76  balance:146090.62
+DATE:2022-01-06 BUY 17969 at 8.13  SELL at 8.34  predicted close price=9.98  todayield:3323.91  balance:149414.53
+DATE:2022-01-07 BUY 17893 at 8.35  SELL at 8.24  predicted close price=9.96  todayield:-2410.54  balance:147003.98
+DATE:2022-01-10 BUY 18103 at 8.12  SELL at 8.49  predicted close price=9.92  todayield:6237.03  balance:153241.01
+DATE:2022-01-11 BUY 18286 at 8.38  SELL at 8.81  predicted close price=9.9  todayield:7379.68  balance:160620.69
+DATE:2022-01-12 BUY 18547 at 8.66  SELL at 8.68  predicted close price=10.03  todayield:-112.02  balance:160508.67
+DATE:2022-01-13 BUY 18470 at 8.69  SELL at 8.8  predicted close price=10.11  todayield:1544.09  balance:162052.76
+DATE:2022-01-14 BUY 18562 at 8.73  SELL at 8.73  predicted close price=10.08  todayield:-486.14  balance:161566.62
+DATE:2022-01-17 BUY 18422 at 8.77  SELL at 8.5  predicted close price=10.09  todayield:-5443.7  balance:156122.92
+DATE:2022-01-18 BUY 18410 at 8.48  SELL at 8.26  predicted close price=10.06  todayield:-4506.4  balance:151616.52
+DATE:2022-02-07 BUY 18603 at 8.15  SELL at 8.19  predicted close price=9.87  todayield:287.04  balance:151903.56
+DATE:2022-02-08 BUY 18390 at 8.26  SELL at 8.48  predicted close price=9.71  todayield:3577.96  balance:155481.52
+DATE:2022-02-09 BUY 18378 at 8.46  SELL at 8.45  predicted close price=9.55  todayield:-649.66  balance:154831.86
+DATE:2022-02-10 BUY 18476 at 8.38  SELL at 8.41  predicted close price=9.51  todayield:88.13  balance:154919.99
+DATE:2022-02-11 BUY 18377 at 8.43  SELL at 8.31  predicted close price=9.49  todayield:-2663.38  balance:152256.61
+DATE:2022-02-14 BUY 18567 at 8.2  SELL at 8.4  predicted close price=9.47  todayield:3245.51  balance:155502.12
+DATE:2022-02-15 BUY 18380 at 8.46  SELL at 9.24  predicted close price=9.46  todayield:13826.91  balance:169329.03
+DATE:2022-02-16 BUY 18090 at 9.36  SELL at 9.2  predicted close price=9.44  todayield:-3393.68  balance:165935.35
+DATE:2022-02-17 BUY 17938 at 9.25  SELL at 8.65  predicted close price=9.37  todayield:-11228.29  balance:154707.05
+DATE:2022-02-18 BUY 17926 at 8.63  SELL at 8.83  predicted close price=9.24  todayield:3110.34  balance:157817.39
+DATE:2022-02-21 BUY 17752 at 8.89  SELL at 8.9  predicted close price=9.24  todayield:-296.46  balance:157520.94
+DATE:2022-02-22 BUY 17738 at 8.88  SELL at 9.05  predicted close price=9.2  todayield:2533.87  balance:160054.81
+DATE:2022-02-23 BUY 17724 at 9.03  SELL at 8.9  predicted close price=9.18  todayield:-2777.35  balance:157277.46
+DATE:2022-02-24 BUY 17671 at 8.9  SELL at 8.73  predicted close price=9.22  todayield:-3466.87  balance:153810.59
+DATE:2022-02-25 BUY 17185 at 8.95  SELL at 8.91  predicted close price=9.35  todayield:-1146.76  balance:152663.83
+DATE:2022-02-28 BUY 17133 at 8.91  SELL at 8.66  predicted close price=9.51  todayield:-4728.37  balance:147935.46
+DATE:2022-03-01 BUY 17004 at 8.7  SELL at 8.77  predicted close price=9.64  todayield:742.9  balance:148678.37
+DATE:2022-03-21 BUY 16160 at 9.2  SELL at 9.55  predicted close price=9.46  todayield:5193.02  balance:153871.39
+DATE:2022-06-27 BUY 17288 at 8.9  SELL at 8.97  predicted close price=9.5  todayield:744.94  balance:154616.33
+DATE:2022-06-28 BUY 17275 at 8.95  SELL at 8.91  predicted close price=9.47  todayield:-1152.76  balance:153463.56
+DATE:2022-06-29 BUY 17340 at 8.85  SELL at 9.36  predicted close price=9.48  todayield:8356.49  balance:161820.06
+DATE:2022-06-30 BUY 17608 at 9.19  SELL at 9.11  predicted close price=9.56  todayield:-1889.87  balance:159930.19
+DATE:2022-07-01 BUY 17613 at 9.08  SELL at 8.94  predicted close price=9.77  todayield:-2938.2  balance:156991.99
+DATE:2022-07-04 BUY 17699 at 8.87  SELL at 8.82  predicted close price=9.84  todayield:-1353.27  balance:155638.72
+DATE:2022-07-26 BUY 18842 at 8.26  SELL at 8.57  predicted close price=9.88  todayield:5356.59  balance:160995.32
+DATE:2022-07-27 BUY 18874 at 8.53  SELL at 8.41  predicted close price=9.8  todayield:-2741.07  balance:158254.25
+DATE:2022-07-28 BUY 18817 at 8.41  SELL at 8.47  predicted close price=9.83  todayield:650.88  balance:158905.13
+DATE:2022-07-29 BUY 18520 at 8.58  SELL at 8.52  predicted close price=9.97  todayield:-1584.57  balance:157320.55
+DATE:2022-08-15 BUY 19398 at 8.11  SELL at 8.08  predicted close price=10.29  todayield:-1052.15  balance:156268.41
+DATE:2022-08-16 BUY 19316 at 8.09  SELL at 8.27  predicted close price=10.28  todayield:2997.65  balance:159266.06
+DATE:2022-08-17 BUY 19328 at 8.24  SELL at 8.32  predicted close price=10.35  todayield:1063.81  balance:160329.87
+DATE:2022-08-18 BUY 19316 at 8.3  SELL at 8.3  predicted close price=10.34  todayield:-480.97  balance:159848.9
+DATE:2022-08-19 BUY 19258 at 8.3  SELL at 8.49  predicted close price=10.3  todayield:3168.52  balance:163017.42
+DATE:2022-08-22 BUY 19178 at 8.5  SELL at 8.45  predicted close price=10.26  todayield:-1445.06  balance:161572.36
+DATE:2022-08-23 BUY 19075 at 8.47  SELL at 8.55  predicted close price=10.13  todayield:1036.73  balance:162609.08
+DATE:2022-08-24 BUY 19085 at 8.52  SELL at 8.33  predicted close price=10.19  todayield:-4103.08  balance:158506.0
+DATE:2022-08-25 BUY 18914 at 8.38  SELL at 8.35  predicted close price=10.23  todayield:-1041.22  balance:157464.78
+DATE:2022-08-26 BUY 18858 at 8.35  SELL at 8.26  predicted close price=10.22  todayield:-2164.52  balance:155300.26
+DATE:2022-08-29 BUY 18985 at 8.18  SELL at 8.31  predicted close price=10.39  todayield:1994.75  balance:157295.02
+DATE:2022-08-31 BUY 18860 at 8.34  SELL at 8.22  predicted close price=10.55  todayield:-2728.29  balance:154566.73
+DATE:2022-09-01 BUY 18849 at 8.2  SELL at 9.04  predicted close price=10.54  todayield:15321.98  balance:169888.71
+DATE:2022-09-02 BUY 18386 at 9.24  SELL at 8.86  predicted close price=10.46  todayield:-7475.38  balance:162413.33
+DATE:2022-09-05 BUY 18456 at 8.8  SELL at 8.92  predicted close price=10.41  todayield:1720.84  balance:164134.16
+DATE:2022-09-06 BUY 18380 at 8.93  SELL at 9.27  predicted close price=10.38  todayield:5738.05  balance:169872.21
+DATE:2022-09-07 BUY 18626 at 9.12  SELL at 9.42  predicted close price=10.31  todayield:5061.43  balance:174933.64
+DATE:2022-09-08 BUY 19035 at 9.19  SELL at 9.11  predicted close price=10.33  todayield:-2043.03  balance:172890.62
+DATE:2022-09-09 BUY 18957 at 9.12  SELL at 9.41  predicted close price=10.37  todayield:4962.37  balance:177852.99
+DATE:2022-09-13 BUY 19269 at 9.23  SELL at 9.04  predicted close price=10.34  todayield:-4183.69  balance:173669.31
+DATE:2022-09-14 BUY 19668 at 8.83  SELL at 9.94  predicted close price=10.25  todayield:21244.98  balance:194914.29
+DATE:2022-09-15 BUY 19668 at 9.91  SELL at 10.93  predicted close price=10.09  todayield:19416.45  balance:214330.73
+DATE:2022-09-19 BUY 23552 at 9.1  SELL at 9.97  predicted close price=10.07  todayield:19785.8  balance:234116.53
+DATE:2022-09-20 BUY 23720 at 9.87  SELL at 9.58  predicted close price=10.14  todayield:-7560.51  balance:226556.02
+DATE:2022-09-21 BUY 24282 at 9.33  SELL at 9.65  predicted close price=10.16  todayield:7067.28  balance:233623.3
+DATE:2022-10-17 BUY 28560 at 8.18  SELL at 8.44  predicted close price=9.99  todayield:6702.46  balance:240325.76
+DATE:2022-10-18 BUY 28440 at 8.45  SELL at 8.37  predicted close price=9.9  todayield:-2989.33  balance:237336.43
+DATE:2022-10-19 BUY 28526 at 8.32  SELL at 8.38  predicted close price=9.94  todayield:994.42  balance:238330.84
+DATE:2022-10-20 BUY 28542 at 8.35  SELL at 8.17  predicted close price=9.83  todayield:-5837.12  balance:232493.72
+DATE:2022-10-21 BUY 27843 at 8.35  SELL at 8.17  predicted close price=9.77  todayield:-5694.17  balance:226799.55
+DATE:2022-11-03 BUY 28069 at 8.08  SELL at 8.09  predicted close price=9.85  todayield:-400.54  balance:226399.0
+DATE:2022-11-04 BUY 27916 at 8.11  SELL at 8.24  predicted close price=9.64  todayield:2939.0  balance:229338.0
+DATE:2022-11-07 BUY 27933 at 8.21  SELL at 8.39  predicted close price=9.62  todayield:4324.87  balance:233662.87
+DATE:2022-11-08 BUY 27817 at 8.4  SELL at 8.39  predicted close price=9.44  todayield:-978.32  balance:232684.54
+DATE:2022-11-09 BUY 27569 at 8.44  SELL at 8.42  predicted close price=9.31  todayield:-1247.77  balance:231436.77
+DATE:2022-11-10 BUY 27716 at 8.35  SELL at 8.45  predicted close price=9.43  todayield:2069.0  balance:233505.77
+DATE:2022-11-11 BUY 27120 at 8.61  SELL at 9.2  predicted close price=9.43  todayield:15252.29  balance:248758.06
+DATE:2022-11-14 BUY 26185 at 9.5  SELL at 9.07  predicted close price=9.45  todayield:-11972.04  balance:236786.01
+DATE:2022-11-15 BUY 25681 at 9.22  SELL at 9.22  predicted close price=9.53  todayield:-710.34  balance:236075.68
+DATE:2022-11-16 BUY 25828 at 9.14  SELL at 9.03  predicted close price=9.6  todayield:-3540.76  balance:232534.92
+DATE:2022-11-17 BUY 25779 at 9.02  SELL at 9.05  predicted close price=9.55  todayield:73.47  balance:232608.39
+DATE:2022-11-18 BUY 25702 at 9.05  SELL at 9.13  predicted close price=9.47  todayield:1352.18  balance:233960.57
+DATE:2022-11-21 BUY 25766 at 9.08  SELL at 9.04  predicted close price=9.46  todayield:-1729.41  balance:232231.15
+DATE:2022-11-22 BUY 25187 at 9.22  SELL at 9.0  predicted close price=9.38  todayield:-6221.19  balance:226009.97
+DATE:2022-11-23 BUY 25084 at 9.01  SELL at 9.15  predicted close price=9.23  todayield:2823.2  balance:228833.17
+DATE:2022-11-24 BUY 23737 at 9.64  SELL at 9.54  predicted close price=9.18  todayield:-3053.05  balance:225780.12
+DATE:2022-12-08 BUY 22623 at 9.98  SELL at 9.98  predicted close price=10.17  todayield:-677.33  balance:225102.78
+DATE:2022-12-09 BUY 22532 at 9.99  SELL at 10.29  predicted close price=10.19  todayield:6064.04  balance:231166.82
+DATE:2023-01-03 BUY 22865 at 10.11  SELL at 10.32  predicted close price=10.22  todayield:4093.75  balance:235260.57
+DATE:2023-01-05 BUY 22278 at 10.56  SELL at 10.43  predicted close price=10.68  todayield:-3593.22  balance:231667.35
+DATE:2023-01-06 BUY 21979 at 10.54  SELL at 10.16  predicted close price=10.92  todayield:-9021.94  balance:222645.41
+DATE:2023-01-30 BUY 21574 at 10.32  SELL at 10.37  predicted close price=10.94  todayield:407.53  balance:223052.95
+DATE:2023-01-31 BUY 21509 at 10.37  SELL at 10.8  predicted close price=11.04  todayield:8551.98  balance:231604.92
+DATE:2023-02-01 BUY 21746 at 10.65  SELL at 10.73  predicted close price=11.07  todayield:1039.68  balance:232644.6
+DATE:2023-02-02 BUY 21803 at 10.67  SELL at 10.95  predicted close price=11.07  todayield:5388.61  balance:238033.21
+DATE:2023-02-03 BUY 21837 at 10.9  SELL at 10.72  predicted close price=11.13  todayield:-4632.94  balance:233400.27
+DATE:2023-02-06 BUY 22081 at 10.57  SELL at 10.54  predicted close price=11.19  todayield:-1360.63  balance:232039.64
+DATE:2023-02-07 BUY 21994 at 10.55  SELL at 10.58  predicted close price=11.21  todayield:-38.27  balance:232001.37
+DATE:2023-03-23 BUY 23625 at 9.82  SELL at 9.72  predicted close price=13.24  todayield:-3051.4  balance:228949.97
+DATE:2023-03-24 BUY 23578 at 9.71  SELL at 9.9  predicted close price=13.21  todayield:3779.55  balance:232729.52
+DATE:2023-03-27 BUY 23603 at 9.86  SELL at 9.78  predicted close price=13.18  todayield:-2580.75  balance:230148.77
+DATE:2023-03-28 BUY 23532 at 9.78  SELL at 9.76  predicted close price=13.16  todayield:-1159.66  balance:228989.11
+DATE:2023-04-11 BUY 24334 at 9.41  SELL at 9.58  predicted close price=13.26  todayield:3437.42  balance:232426.53
+DATE:2023-04-12 BUY 24337 at 9.55  SELL at 9.68  predicted close price=13.17  todayield:2457.06  balance:234883.6
+DATE:2023-04-13 BUY 24467 at 9.6  SELL at 9.7  predicted close price=13.18  todayield:1734.71  balance:236618.31
+DATE:2023-04-14 BUY 24393 at 9.7  SELL at 9.72  predicted close price=13.13  todayield:-223.44  balance:236394.87
+DATE:2023-04-17 BUY 24295 at 9.73  SELL at 9.6  predicted close price=13.05  todayield:-3858.05  balance:232536.82
+DATE:2023-04-18 BUY 24147 at 9.63  SELL at 9.47  predicted close price=12.96  todayield:-4549.54  balance:227987.28
+DATE:2023-05-04 BUY 22844 at 9.98  SELL at 10.14  predicted close price=12.32  todayield:2960.13  balance:230947.41
+DATE:2023-05-05 BUY 22686 at 10.18  SELL at 10.84  predicted close price=12.27  todayield:14235.01  balance:245182.42
+DATE:2023-05-08 BUY 23484 at 10.44  SELL at 10.76  predicted close price=12.2  todayield:6756.82  balance:251939.24
+DATE:2023-05-09 BUY 23567 at 10.69  SELL at 10.65  predicted close price=12.13  todayield:-1695.65  balance:250243.59
+DATE:2023-05-10 BUY 23607 at 10.6  SELL at 10.58  predicted close price=12.08  todayield:-1221.43  balance:249022.17
+DATE:2023-05-11 BUY 23448 at 10.62  SELL at 10.63  predicted close price=12.04  todayield:-513.28  balance:248508.89
+DATE:2023-05-12 BUY 23356 at 10.64  SELL at 10.69  predicted close price=12.0  todayield:418.77  balance:248927.66
+DATE:2023-05-15 BUY 23395 at 10.64  SELL at 10.77  predicted close price=11.95  todayield:2285.46  balance:251213.12
+DATE:2023-05-16 BUY 23588 at 10.65  SELL at 10.78  predicted close price=11.9  todayield:2303.6  balance:253516.72
+DATE:2023-05-17 BUY 23365 at 10.85  SELL at 10.93  predicted close price=11.85  todayield:1103.06  balance:254619.79
+DATE:2023-05-18 BUY 23359 at 10.9  SELL at 11.04  predicted close price=11.77  todayield:2496.61  balance:257116.4
+DATE:2023-05-19 BUY 23807 at 10.8  SELL at 10.6  predicted close price=11.69  todayield:-5518.46  balance:251597.93
+DATE:2023-06-05 BUY 24714 at 10.18  SELL at 10.43  predicted close price=11.24  todayield:5405.2  balance:257003.13
+DATE:2023-06-06 BUY 24593 at 10.45  SELL at 11.47  predicted close price=11.15  todayield:24238.61  balance:281241.75

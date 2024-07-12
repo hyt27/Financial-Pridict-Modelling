@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Prediction Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        body {
+            padding: 0px;
+        }
+        .results {
+            margin-top: 0px;
+        }
+        .results .card {
+            margin-bottom: 20px;
+        }
+        .results img {
+            max-width: 100%;
+            height: auto;
+        }
+        .form-group label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<!-- 头部 -->
+<header class="bg-dark sticky-top" th:replace="index::header">
+    <div class="container">
+        <!-- 导航 -->
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <!-- logo -->
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- 功能 -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item ml-3 btn-group-vertical">
+                        <a class="nav-link" href="../index.html">Home</a>
+                    </li>
+                    <li class="nav-item ml-3 btn-group-vertical">
+                        <a class="nav-link position-relative" href="letter.html">Message<span class="badge badge-danger">12</span></a>
+                    </li>
+                    <li class="nav-item ml-3 btn-group-vertical">
+                        <a class="nav-link" href="register.html">Register</a>
+                    </li>
+                    <li class="nav-item ml-3 btn-group-vertical">
+                        <a class="nav-link" href="login.html">Login</a>
+                    </li>
+                    <li class="nav-item ml-3 btn-group-vertical dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <img src="http://images.nowcoder.com/head/1t.png" class="rounded-circle" style="width:30px;"/>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item text-center" href="profile.html">Profile</a>
+                            <a class="dropdown-item text-center" href="setting.html">Account</a>
+                            <a class="dropdown-item text-center" href="login.html">Log out</a>
+                            <div class="dropdown-divider"></div>
+                            <span class="dropdown-item text-center text-secondary">nowcoder</span>
+                        </div>
+                    </li>
+                </ul>
+                <!-- 搜索 -->
+                <form class="form-inline my-2 my-lg-0" action="search.html">
+                    <input class="form-control mr-sm-2" type="search" aria-label="Search" />
+                    <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </div>
+        </nav>
+    </div>
+</header>
+
+<div class="container">
+    <h1 class="text-center">Stock Prediction Results</h1>
+    <div class="results" id="results">
+        <div th:if="${category == 1}"  class="card">
+            <div class="card-body">
+                <h5 class="card-title">Prediction Image</h5>
+                <img id="predictionImage" alt="Prediction Image" class="img-fluid img-thumbnail" th:src="@{/ResultSet/prediction_{id}.jpg(id=${taskId})}">
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Return Rate Image</h5>
+                <img id="returnRateImage" alt="Return Rate Image" class="img-fluid img-thumbnail" th:src="@{/ResultSet/return_rate_{id}.jpg(id=${taskId})}">
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Return Rate</h5>
+                <p id="returnRate" class="form-control-plaintext" th:text="${returnRate}">No data</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Benchmark Return Rate</h5>
+                <p id="benchmarkReturnRate" class="form-control-plaintext" th:text="${benchmarkReturnRate}">No data</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Account Value</h5>
+                <p id="accountValue" class="form-control-plaintext" th:text="${accountValue}">No data</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Log Information</h5>
+                <div id="logInfo" class="form-control-plaintext" style="overflow: auto; max-height: 301px;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var currentURL = window.location.href;
+    var url = new URL(currentURL);
+    var taskId = url.pathname.split("/").pop();
+    fetch('/community/ResultSet/log_' + taskId + '.txt')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('logInfo').textContent = data;
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            document.getElementById('logInfo').textContent = 'No data';
+        });
+</script>
+</body>
+</html>
+

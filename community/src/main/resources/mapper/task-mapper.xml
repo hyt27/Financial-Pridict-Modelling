@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.nowcoder.community.dao.TaskMapper">
+
+
+
+    <insert id="insertTask" parameterType="com.nowcoder.community.entity.Task">
+        INSERT INTO task (category, stock, start, end, userid, model, strategy, initial, result, status,create_time)
+        VALUES (#{category}, #{stock}, #{startDate}, #{endDate}, #{userid}, #{model}, #{strategy}, #{initial}, #{result}, #{status},#{createTime})
+    </insert>
+
+    <update id="updateTask" parameterType="com.nowcoder.community.entity.Task">
+        UPDATE task
+        SET
+            result = #{result}
+        WHERE id = #{id}
+    </update>
+
+    <!-- Logical Delete or Update Task Status -->
+    <update id="updateTaskStatus" parameterType="map">
+        UPDATE task
+        SET status = #{status}
+        WHERE id = #{taskid}
+    </update>
+    <!-- Select Tasks by User ID -->
+    <select id="selectTasksByUserid" resultMap="TaskResultMap" parameterType="map">
+        SELECT * FROM task
+        WHERE userid = #{userid}
+        ORDER BY id DESC
+            LIMIT #{offset}, #{limit}
+    </select>
+    <!-- Count Tasks by User ID -->
+    <select id="selectCountByUserid" resultType="int" parameterType="int">
+        SELECT COUNT(*) FROM task
+        WHERE userid = #{userid}
+    </select>
+<!--    <select id="selectTaskById" resultMap="TaskResultMap" parameterType="int">-->
+<!--        SELECT-->
+<!--            id,-->
+<!--            category,-->
+<!--            stock,-->
+<!--            start AS startDate,-->
+<!--        end AS endDate,-->
+<!--        userid AS userId,-->
+<!--        model,-->
+<!--        strategy,-->
+<!--        initial,-->
+<!--        result,-->
+<!--        status-->
+<!--    FROM task-->
+<!--    WHERE id = #{id}-->
+<!--    </select>-->
+
+
+    <sql id="selectFields">
+        id,category, stock, start AS startDate, end AS endDate, userid, model, strategy, initial,result, status ,create_time
+    </sql>
+
+    <select id="selectTaskById" resultType="Task">
+        select <include refid="selectFields"></include>
+        from Task
+        where id = #{id}
+    </select>
+
+    <!-- Result Map to handle object mapping -->
+    <resultMap id="TaskResultMap" type="com.nowcoder.community.entity.Task">
+        <id property="id" column="id" />
+        <result property="category" column="category" />
+        <result property="stock" column="stock" />
+        <result property="startDate" column="start" />
+        <result property="endDate" column="end" />
+        <result property="userid" column="userid" />
+        <result property="model" column="model" />
+        <result property="strategy" column="strategy" />
+        <result property="initial" column="initial" />
+        <result property="result" column="result" />
+        <result property="status" column="status" />
+    </resultMap>
+    <select id="getTaskResult" resultType="String">
+        SELECT result
+        FROM task
+        WHERE id = #{id}
+    </select>
+
+
+
+</mapper>

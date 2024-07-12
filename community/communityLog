@@ -1,0 +1,24 @@
+2024-03-08 11:24:43.992  INFO 6821 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 21.0.2 on cengxiaohuideMac-mini.local with PID 6821 (started by zenghui in /Users/zenghui/IdeaProjects/community)
+2024-03-08 11:24:43.993 DEBUG 6821 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.7.5, Spring v5.3.23
+2024-03-08 11:24:43.993  INFO 6821 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2024-03-08 11:24:44.474  INFO 2601 --- [restartedMain] c.n.community.CommunityApplication       : Starting CommunityApplication using Java 21.0.2 on cengxiaohuideMac-mini.local with PID 2601 (/Users/zenghui/IdeaProjects/community/target/classes started by zenghui in /Users/zenghui/IdeaProjects/community)
+2024-03-08 11:24:44.474 DEBUG 2601 --- [restartedMain] c.n.community.CommunityApplication       : Running with Spring Boot v2.7.5, Spring v5.3.23
+2024-03-08 11:24:44.474  INFO 2601 --- [restartedMain] c.n.community.CommunityApplication       : No active profile set, falling back to 1 default profile: "default"
+2024-03-08 11:24:44.552  INFO 2601 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-03-08 11:24:44.552  INFO 2601 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-08 11:24:44.552  INFO 2601 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2024-03-08 11:24:44.561  INFO 2601 --- [restartedMain] o.a.c.c.C.[.[localhost].[/community]     : Initializing Spring embedded WebApplicationContext
+2024-03-08 11:24:44.561  INFO 2601 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 86 ms
+2024-03-08 11:24:44.615  INFO 2601 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-03-08 11:24:44.638  INFO 2601 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-03-08 11:24:44.643  INFO 2601 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/community'
+2024-03-08 11:24:44.645  INFO 2601 --- [restartedMain] c.n.community.CommunityApplication       : Started CommunityApplication in 0.189 seconds (JVM running for 41758.017)
+2024-03-08 11:24:44.646  INFO 2601 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-03-08 11:24:44.735  INFO 6821 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2024-03-08 11:24:44.853  INFO 6821 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 1.023 seconds (JVM running for 1.393)
+2024-03-08 11:24:44.937 DEBUG 6821 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2024-03-08 11:24:44.937  INFO 6821 --- [main] com.nowcoder.community.LoggerTests       : info log
+2024-03-08 11:24:44.937  WARN 6821 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2024-03-08 11:24:44.937 ERROR 6821 --- [main] com.nowcoder.community.LoggerTests       : error log
+2024-03-08 11:44:42.657  INFO 2601 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-03-08 11:44:42.671  INFO 2601 --- [Thread-11] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
